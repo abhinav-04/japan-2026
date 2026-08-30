@@ -16,6 +16,9 @@
 - **Luggage:** Use **takkyubin** (luggage forwarding) between cities so you don't drag bags on trains — cheap and a lifesaver for a group.
 - **Booking priority:** Lock the **Hakone night** and the **Dec 15 Tokyo night** first — those sell out fastest.
 
+**Personal flights:**
+- **Vansh:** Arrives Narita (NRT) on Dec 5 at 4:30 PM; departs from Haneda (HND) on Tue Dec 15 at 10:10 AM.
+
 ---
 
 ## 📅 Day-by-Day

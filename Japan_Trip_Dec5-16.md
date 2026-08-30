@@ -1,4 +1,4 @@
-# 🇯🇵 Japan Group Trip — Dec 5 to Dec 16
+# 🇯🇵 Japan Group Trip — Dec 5 to Dec 16, 2026
 
 **Squad:** 4 travelers · **Style:** Mid-range (business hotels / good hostels, private rooms for 4) · **Season:** Early December (cool, ~5–13°C, autumn leaves lingering + winter illuminations)
 
@@ -23,47 +23,47 @@
 
 ## 📅 Day-by-Day
 
-### Day 1 — Fri Dec 5 · Depart / Travel
+### Day 1 — Sat Dec 5 · Depart / Travel
 Fly out from home. (Toronto→Tokyo with a stop is ~16–17 hrs; you likely land the next day.) Sleep on the plane, hydrate.
 
 ---
 
-### Day 2 — Sat Dec 6 · Arrive Tokyo
+### Day 2 — Sun Dec 6 · Arrive Tokyo
 - Land, clear customs, grab Suica cards + pocket WiFi at the airport.
 - Take the **Narita Express / Skyliner** or Limousine Bus into the city; check in.
 - Easy first evening — don't over-plan with jet lag. Dinner + walk around **Shibuya** or **Shinjuku**.
 
 ---
 
-### Day 3 — Sun Dec 7 · Tokyo (East Side)
+### Day 3 — Mon Dec 7 · Tokyo (East Side)
 - **Asakusa** — Senso-ji Temple + Nakamise shopping street.
 - **Akihabara** — arcades, anime, electronics, retro gaming (great group fun).
 - **Shibuya Crossing** at night + dinner. Optional: an izakaya where you can all share plates.
 
 ---
 
-### Day 4 — Mon Dec 8 · Tokyo (West Side)
+### Day 4 — Tue Dec 8 · Tokyo (West Side)
 - **Meiji Shrine** (forested, calm) → **Harajuku / Takeshita Street** (quirky fashion, crepes).
 - **Shinjuku** afternoon: Tokyo Metropolitan Gov't Observatory (free Fuji views on a clear day).
 - Evening: **Omoide Yokocho** yakitori alley or **Golden Gai** tiny bars — top group nightlife.
 
 ---
 
-### Day 5 — Tue Dec 9 · Hakone (Mt. Fuji + Onsen)
+### Day 5 — Wed Dec 9 · Hakone (Mt. Fuji + Onsen)
 - **Odakyu Romancecar** from Shinjuku (~90 min). Forward big luggage ahead to Kyoto.
 - **Hakone Open-Air Museum** → **Ropeway** over Owakudani (Fuji views) → **Lake Ashi** pirate ship.
 - **Night in a ryokan / onsen stay** — the one splurge everyone should do once. Kaiseki dinner + hot spring baths.
 
 ---
 
-### Day 6 — Wed Dec 10 · Hakone → Kyoto
+### Day 6 — Thu Dec 10 · Hakone → Kyoto
 - Shinkansen from Odawara to **Kyoto** (~2 hrs). Drop bags.
 - **Fushimi Inari Shrine** — thousands of red torii gates (go later afternoon, fewer crowds).
 - Evening: **Gion** geisha district + dinner on **Pontocho Alley**.
 
 ---
 
-### Day 7 — Thu Dec 11 · Kyoto
+### Day 7 — Fri Dec 11 · Kyoto
 - **Arashiyama Bamboo Grove** early (beat the crowds) + Tenryu-ji garden.
 - **Kinkaku-ji (Golden Pavilion)**.
 - **Nishiki Market** for a food crawl.
@@ -71,21 +71,21 @@ Fly out from home. (Toronto→Tokyo with a stop is ~16–17 hrs; you likely land
 
 ---
 
-### Day 8 — Fri Dec 12 · Nara day trip → Osaka
+### Day 8 — Sat Dec 12 · Nara day trip → Osaka
 - Morning **Nara** (45 min from Kyoto): bowing **deer** in Nara Park + **Todai-ji** giant Buddha.
 - Afternoon: train to **Osaka**, check in.
 - Evening: **Dotonbori** — neon canal + street food capital. Takoyaki, okonomiyaki, kushikatsu.
 
 ---
 
-### Day 9 — Sat Dec 13 · Osaka
+### Day 9 — Sun Dec 13 · Osaka
 - **Osaka Castle** + park.
 - **Kuromon Ichiba Market** (seafood, wagyu, snacks).
 - **Shinsekai** retro district for kushikatsu. Optional: Umeda Sky Building at night.
 
 ---
 
-### Day 10 — Sun Dec 14 · Hiroshima + Miyajima (day trip or overnight)
+### Day 10 — Mon Dec 14 · Hiroshima + Miyajima (day trip or overnight)
 - Shinkansen to **Hiroshima** (~1.5 hrs from Osaka).
 - **Peace Memorial Park & Museum** — moving, essential.
 - Ferry to **Miyajima Island** — the floating **Itsukushima torii gate** + more friendly deer.
@@ -93,14 +93,14 @@ Fly out from home. (Toronto→Tokyo with a stop is ~16–17 hrs; you likely land
 
 ---
 
-### Day 11 — Mon Dec 15 · Back to Tokyo
+### Day 11 — Tue Dec 15 · Back to Tokyo
 - Long Shinkansen back to **Tokyo** (~4 hrs from Hiroshima / ~2.5 from Osaka). Use JR Pass.
 - Last-day shopping in **Ginza / Shibuya / Nakano Broadway**, souvenirs, final ramen.
 - **Sleep near Ueno/Asakusa or Narita** for an easy airport run tomorrow.
 
 ---
 
-### Day 12 — Tue Dec 16 · Departure
+### Day 12 — Wed Dec 16 · Departure
 - **Keisei Skyliner** from Ueno to Narita (~40 min). Leave the city by ~8:30–9:00 AM for a midday flight.
 - Onward flight out. 🎌
 

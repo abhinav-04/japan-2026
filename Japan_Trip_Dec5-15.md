@@ -49,7 +49,7 @@ Three peaks with built-in recovery days. Nothing punishing back-to-back.
 - **Airport:** Narita (all four)
 - **Getting in:** Skyliner to Ueno/Nippori, transfer to your hotel station (~75-90 min total)
 - **In the city by:** ~6:15-6:30 PM
-- **First group activity:** 7:30 PM dinner (izakaya in Shibuya)
+- **First group activity:** 7:00 PM Shibuya Sky, then 8:30 PM dinner (izakaya in Shibuya)
 
 **Rule #1: Stay awake until 10 PM.** No naps. Destroy jet lag on day one and you're golden for Disney.
 

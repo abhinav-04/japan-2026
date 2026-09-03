@@ -31,7 +31,7 @@ Three peaks with built-in recovery days. Nothing punishing back-to-back.
 | **🏰 Tokyo Disney 2-Day Passport** | Dec 7 + 8 | Date-specific, no walk-ups | ~¥16,000 pp |
 | **♨️ Hakone Ryokan** | Dec 13 | Best ones go first — check tattoo policy! | ¥25k-45k pp (w/ dinner) |
 | **✨ teamLab Planets tickets** | Dec 6 afternoon | Timed entry sells out | ~¥3,800 pp |
-| **🌇 Shibuya Sky** | Dec 5, sunset slot | Dec sunset = 4:30pm | ~¥2,200 pp |
+| **🌇 Shibuya Sky** | Dec 5, evening slot (~7pm) | Open until 10:30pm | ~¥2,200 pp |
 | **🥋 Sumo morning practice** | Dec 6, 7:30am | Book through tour operator only | ~¥10,000 pp |
 | **🏨 Hotels (6 properties, 2 rooms each)** | See below | — | See budget |
 
@@ -49,7 +49,7 @@ Three peaks with built-in recovery days. Nothing punishing back-to-back.
 - **Airport:** Narita (all four)
 - **Getting in:** Skyliner to Ueno/Nippori, transfer to your hotel station (~75-90 min total)
 - **In the city by:** ~6:15-6:30 PM
-- **First group activity:** 7:30 PM dinner (izakaya in Shibuya)
+- **First group activity:** 7:00 PM Shibuya Sky, then 8:30 PM dinner (izakaya in Shibuya)
 
 **Rule #1: Stay awake until 10 PM.** No naps. Destroy jet lag on day one and you're golden for Disney.
 
@@ -68,8 +68,8 @@ Three peaks with built-in recovery days. Nothing punishing back-to-back.
 
 - **4:30 PM** — Land at Narita
 - **6:30 PM** — Drop bags at hotel (Shibuya or Shinjuku)
-- **7:00 PM** — **Shibuya Sky at sunset** 🌇 (booked ahead for ~4:30pm slot) — open-air rooftop, perfect first Tokyo moment
-- **7:30 PM** — **Group dinner at an izakaya** — shared plates, rounds of drinks, ease into Japan
+- **7:00 PM** — **Shibuya Sky evening visit** 🌇 (booked ahead for ~7:00pm slot) — open-air rooftop, Tokyo at night, perfect first moment
+- **8:30 PM** — **Group dinner at an izakaya** — shared plates, rounds of drinks, ease into Japan
 - **9:30 PM** — Wander **Shibuya** — Scramble Crossing, Center Gai, the chaos
 - **Optional:** If anyone's still up, hit **Nonbei Yokocho** (Drunkard's Alley) — tiny bar lane under the train tracks, less touristy than Golden Gai
 - **10 PM** — Bed. Disney's in 33 hours.
@@ -315,7 +315,7 @@ Everything you're doing is here.
 - [ ] Disney 2-Day Passport (Dec 7-8)
 - [ ] Hakone ryokan (Dec 13) — check tattoo policy
 - [ ] teamLab Planets tickets
-- [ ] Shibuya Sky (sunset slot Dec 5)
+- [ ] Shibuya Sky (evening slot ~7pm, Dec 5)
 - [ ] Sumo morning practice (Dec 6)
 - [ ] All 6 hotel stays (2 rooms each)
 

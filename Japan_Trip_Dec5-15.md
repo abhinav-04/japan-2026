@@ -2,7 +2,7 @@
 
 **Squad:** Rohan · Abhinav · Saksham · Vansh
 **On the ground:** Sat Dec 5 (morning) → Tue Dec 15 (morning). **10 nights.**
-**Everyone flies home together on Dec 15.**
+**Everyone departs Tokyo on Dec 15 morning** — Rohan/Abhinav/Saksham head home, **Vansh continues to Bangalore (India)**.
 
 > **Route:** **Tokyo** (4n) → **Kyoto** (2n) → **Nara** → **Osaka** (2n) → **Hakone** (1n) → **Tokyo** (1n) → fly
 > One loop, no backtracking, and the longest single train ride on the whole trip is 2h15.
@@ -11,7 +11,7 @@
 
 ## 🧭 The thinking behind this version
 
-You asked for **relaxed yet adventurous**, nothing beautiful missed, everyone home on the 15th. That last change forced a real rethink, not just deleting a day — so here's what changed and why.
+You asked for **relaxed yet adventurous**, nothing beautiful missed, everyone out of Japan on the 15th. That last change forced a real rethink, not just deleting a day — so here's what changed and why.
 
 ### Hakone moved to the END of the trip. This is the big one.
 
@@ -50,13 +50,13 @@ Three peaks (two Disney days, Osaka on a Saturday), with a **built-in rest day e
 
 ### Arrivals, Sat Dec 5
 - **Rohan, Abhinav, Saksham** — **morning arrival.** You get a full first day. **Do not nap.**
-- **Vansh** — **Narita, 4:30 PM.** In the city by ~18:45 after customs and the Skyliner. **Dinner is set for 19:30** so he walks straight into it.
+- **Vansh** — **Narita, 4:30 PM** (WestJet YYZ→NRT, 1 stop in Calgary). In the city by ~18:45 after customs and the Skyliner. **Dinner is set for 19:30** so he walks straight into it.
 
 ### Departures, Tue Dec 15
-- **Vansh: Haneda, 10:10 AM.** Leave the hotel ~06:45.
+- **Vansh: Haneda, 10:10 AM** — **Cathay Pacific HND→BLR via Hong Kong** (onward to India, not home). Leave the hotel ~06:45.
 - **Everyone else: book Haneda, same morning, if you possibly can.** Haneda is ~13 min from Shinagawa on the Keikyu line; Narita is 60–80 min and a different direction. Matching airports turns the last morning into one shared 06:45 train instead of two separate scrambles. If you're stuck with Narita, budget **leaving Shinagawa by 06:00** and know you'll be splitting up.
 
-> 💡 **If Vansh's ticket is still changeable, price an open-jaw** — into Tokyo, out of **Osaka (KIX)**. It would delete the entire return leg and buy you another full day. Probably not worth a change fee at this point, but worth thirty seconds of checking.
+> 💡 **Vansh's ticket is booked (Haneda out, Dec 15).** For the others, if any ticket is still changeable, price an open-jaw — into Tokyo, out of **Osaka (KIX)** — it would delete the return-to-Tokyo leg and buy another full day. Probably not worth a change fee at this point, but worth thirty seconds of checking.
 
 ### Do NOT buy the 7-day JR Pass
 
@@ -70,6 +70,8 @@ Three peaks (two Disney days, Osaka on a Saturday), with a **built-in rest day e
 | **Total** | **~¥36,300** |
 
 A 7-day pass is **~¥50,000** and doesn't cover Nozomi without a surcharge. **Buy individual tickets** — you save ~¥14,000 each and ride the faster trains. The **Hakone Free Pass is the one pass worth buying**; it covers the round trip plus every train, bus, ropeway and boat in the loop.
+
+> ⚠️ **Booking note for the Osaka → Hakone leg:** **Nozomi does not stop at Odawara.** You need a **Hikari** (or Kodama) to reach Odawara directly, which runs a little longer than the 2h15 quoted below (closer to ~2h40), or change at Shin-Yokohama/Nagoya. Check timetables before reserving so nobody books a Nozomi that blows past the stop.
 
 ---
 
@@ -229,7 +231,7 @@ Deliberately light on temples. Kyoto's other side is food, drink and craft, and 
 ### Day 9 · Sun Dec 13 · Osaka → Hakone — *mountains and hot springs*
 > **Pace: restful-adventurous.** The recovery day, and one of the most beautiful.
 
-- **08:30** — **Shinkansen Shin-Osaka → Odawara, 2h15.** Sleep it off on the train. Buy the **Hakone Free Pass** (~¥5,000) at Odawara — it covers everything below.
+- **08:30** — **Shinkansen Shin-Osaka → Odawara** (~2h15–2h40; **Hikari/Kodama only — Nozomi skips Odawara**). Sleep it off on the train. Buy the **Hakone Free Pass** (~¥5,000) at Odawara — it covers everything below.
 - **11:00 — the Hakone loop.** 🗻 A genuinely fun sequence where the transport *is* the attraction:
   - **Hakone Open-Air Museum** — sculpture park set against the mountains, with a Picasso pavilion.
   - **Ropeway over Owakudani** — 🌋 a live volcanic valley of steaming sulfur vents where they boil eggs black in the springs and sell them to you. Eating one is said to add seven years to your life.
@@ -263,9 +265,10 @@ Deliberately light on temples. Kyoto's other side is food, drink and craft, and 
 
 ---
 
-### Day 11 · Tue Dec 15 · Fly home ✈️
-- **06:45** — Leave the hotel. **Shinagawa → Haneda, ~13 min on the Keikyu line.** Airside by ~08:10 for the 10:10 departure.
-- *(Narita instead? Leave by 06:00 — it's 60–80 minutes out.)*
+### Day 11 · Tue Dec 15 · Fly out ✈️
+- **06:45** — Leave the hotel. **Shinagawa → Haneda, ~13 min on the Keikyu line.** Airside by ~08:10 for the 10:10 departures.
+- **Vansh:** Cathay Pacific **HND → Hong Kong → Bangalore.** Rohan/Abhinav/Saksham: home.
+- *(Anyone on Narita instead? Leave by 06:00 — it's 60–80 minutes out.)*
 - Last konbini run for the plane. 🎌
 
 ---
@@ -389,7 +392,7 @@ So you know nothing beautiful was missed by accident:
 **Now — these sell out**
 - [ ] 🏰 **Tokyo Disney 2-Day Passport, Dec 7 + 8** — official site, date-specific
 - [ ] ♨️ **Hakone ryokan for Dec 13** — check tattoo policy, book a private bath if needed
-- [ ] ✈️ **Book the other three onto Haneda, Dec 15 morning** to match Vansh
+- [ ] ✈️ **Book Rohan/Abhinav/Saksham onto Haneda, Dec 15 morning** to match Vansh
 - [ ] ✨ **teamLab Planets** timed tickets
 - [ ] 🌇 **Shibuya Sky** — sunset slot, Dec 5
 - [ ] 🥋 **Sumo morning practice** for Dec 6 (tour operator)
@@ -397,7 +400,7 @@ So you know nothing beautiful was missed by accident:
 - [ ] Optional: maiko dinner in Kyoto · IDP at home if anyone wants go-karting
 
 **A few weeks out**
-- [ ] **Buy individual Shinkansen tickets — NOT the 7-day JR Pass**
+- [ ] **Buy individual Shinkansen tickets — NOT the 7-day JR Pass** *(and a Hikari/Kodama for Osaka→Odawara)*
 - [ ] Reserve the Dec 14 final dinner, and Bar High Five / Gen Yamamoto if you want one
 - [ ] eSIMs for all four
 - [ ] Set up **Splitwise**
@@ -423,4 +426,4 @@ So you know nothing beautiful was missed by accident:
 
 ---
 
-*Fixed points: the Dec 15 Haneda departure, the Disney pair on Dec 7–8, the Hakone ryokan on Dec 13. Everything else can move.*
+*Fixed points: the Dec 15 Haneda departure (Vansh onward to Bangalore), the Disney pair on Dec 7–8, the Hakone ryokan on Dec 13. Everything else can move.*

@@ -75,8 +75,7 @@ Two nights in Hong Kong on the way in (all of Dec 4 free for Disneyland), and th
 - **07:30** **Sumo morning practice** (Ryogoku), ringside.
 - **10:00** Asakusa (Senso-ji + Nakamise) → **Kappabashi** kitchen street.
 - **14:00** **teamLab Planets** (timed, wear roll-up pants).
-- **18:00** Shinjuku: Omoide Yokocho → **Golden Gai**.
-- **01:00** **Ichiran Ramen**, the solo booth, at the right hour.
+- **19:00** Easy dinner, **early night**: save Golden Gai for Dec 8, because DisneySea is a 07:15 start tomorrow.
 
 ### Day 3 · Mon Dec 7 — 🌊 Tokyo DisneySea
 - Your one Disney day in Japan (Disneyland is done in Hong Kong). The best park in the world.
@@ -84,13 +83,15 @@ Two nights in Hong Kong on the way in (all of Dec 4 free for Disneyland), and th
 - Night harbour show, then **Tokyo Ramen Street** (Tokyo Station) on the way home.
 - Download the Tokyo Disney app before you fly. Jacket + gloves + kairo (Tokyo Bay is cold).
 
-### Day 4 · Tue Dec 8 — 🐱 Pokémon Café & ⚡ Harry Potter
+### Day 4 · Tue Dec 8 — 🐱 Pokémon Café, ⚡ Harry Potter & the big night
 - **09:00** **The viral sandwiches**: a fruit sando (whole-fruit cross-sections in cream) + a konbini tamago sando.
 - **11:00** **Pokémon Café** (Nihonbashi), your reserved slot. Pokémon Center upstairs.
 - **14:00** **Harry Potter, Warner Bros. Studio Tour Tokyo** (Nerima), ~4 hours: the Great Hall, Diagon Alley, butterbeer.
-- Night: pack for Kyoto.
+- **19:30** Shinjuku: Omoide Yokocho → **Golden Gai** (the big night lands here, not before DisneySea).
+- **01:00** **Ichiran Ramen**, the 1am solo booth. Tomorrow is a sleep-on-the-train travel day.
 
 ### Day 5 · Wed Dec 9 — Tokyo → Kyoto
+- Sleep in, doze on the train: this is recovery after the Shinjuku night.
 - **09:30** Shinkansen to Kyoto (2h15). **Sit RIGHT (seats D/E) for Mt. Fuji** ~40 min out.
 - **15:00** **Fushimi Inari** at dusk. **19:00** Pontocho + Kiyamachi.
 

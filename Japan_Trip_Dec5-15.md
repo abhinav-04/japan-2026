@@ -1,35 +1,33 @@
 # 🇯🇵 Japan Trip — Dec 2026
 
 **The Squad:** Rohan · Abhinav · Saksham · Vansh
-**Routing:** Cathay Pacific via Hong Kong (BOM → HKG → Tokyo, and back)
-**On the ground:** Hong Kong Dec 3 to 5 (Disneyland stopover), then Japan Dec 5 to 15
-**The Japan Route:** Tokyo (4n) → Kyoto (2n) → Osaka (2n) → Hakone (1n) → Tokyo (1n)
+**On the ground:** Japan Dec 5 to 15 (10 nights)
+**The Route:** Tokyo (4n) → Kyoto (2n) → Osaka (2n) → Hakone (1n) → Tokyo (1n)
 
-> Open with a Hong Kong Disneyland day (Dec 4), land Tokyo Dec 5 afternoon, fly home Dec 15 (Vansh via Haneda to Bangalore, the rest from Narita).
+> Land Tokyo Dec 5 afternoon, fly home Dec 15 (Vansh via Haneda to Bangalore, the rest from Narita).
 
 ---
 
 ## 🎯 The Plan
 
-Relaxed yet adventurous. Two Disney days (Hong Kong on the way in, DisneySea in Tokyo), Pokémon Café, Harry Potter, the Tokyo Drift go-karts, Mt. Fuji from Hakone, hot springs, and the best nightlife in Japan. The big nights land early (DisneySea, Osaka Saturday), so you finish on an onsen soak instead of wrecked before a flight.
+Relaxed yet adventurous. Mt. Fuji up close at Kawaguchiko, Pokémon Café, Harry Potter, the Tokyo Drift go-karts, Hakone hot springs with more Fuji views, and the best nightlife in Japan. The big nights land early (Osaka Saturday, Shinjuku), so you finish on an onsen soak instead of wrecked before a flight.
 
 **Energy flow:**
 ```
-HK Disney   arrive Tokyo   DISNEY   Pokémon+HP   →Kyoto   Kyoto   Nara→Osaka   OSAKA   HAKONE   Tokyo   fly
-  Dec 4        Dec 5        SEA        Dec 8       Dec 9   Dec 10    Dec 11      Dec 12  Fuji+onsen Dec 14  Dec 15
+arrive Tokyo   MT.FUJI   Pokémon+HP   →Kyoto   Kyoto   Nara→Osaka   OSAKA   HAKONE   Tokyo   fly
+   Dec 5      Kawaguchi    Dec 8       Dec 9   Dec 10    Dec 11      Dec 12  onsen+Fuji Dec 14  Dec 15
 ```
 
 Three peaks with recovery days beside each. Nothing punishing back to back.
 
 ---
 
-## ✈️ The Flights (Rohan, Cathay Pacific, ref E83V5H)
+## ✈️ Arrivals & Departures
 
-- **Dec 3** CX660: Mumbai 02:00 → Hong Kong 09:55
-- **Dec 5** CX504: Hong Kong 09:05 → Tokyo Narita 14:05
-- **Dec 15** CX527: Tokyo Narita 14:25 → Hong Kong 18:55, then CX663 → Mumbai 00:15 (Dec 16)
+- **Dec 5** — Arrive Tokyo Narita ~14:00-15:00 (everyone's flight times TBD)
+- **Dec 15** — Depart Tokyo: **Vansh** from Haneda (~10:10 to Bangalore via Hong Kong), **others** from Narita afternoon flights (times TBD)
 
-Two nights in Hong Kong on the way in (all of Dec 4 free for Disneyland), and the last Tokyo morning is free before the afternoon Narita departure. **Vansh** flies out separately from **Haneda** (Cathay to Bangalore via Hong Kong, ~10:10). Abhinav and Saksham: confirm your own flights so we know who is on the Narita run.
+Check your specific flight times and book accordingly.
 
 ---
 
@@ -38,8 +36,6 @@ Two nights in Hong Kong on the way in (all of Dec 4 free for Disneyland), and th
 | What | When | Why | Cost |
 |------|------|-----|------|
 | **🐱 Pokémon Café (Tokyo)** | Dec 8 · reserve ~Nov 8 | Reservation-only, opens exactly 31 days ahead, gone in minutes. Set an alarm. | ~¥2,500 pp + goods |
-| **🌊 Tokyo DisneySea 1-Day** | Dec 7 · date-specific | Your one Japan Disney day. Fantasy Springs needs an in-app pass at tap-in. | ~¥9,000 pp |
-| **🏰 Hong Kong Disneyland** | Dec 4 · the stopover | All of Dec 4 in HK before Tokyo. Buy dated tickets online, cheaper + skips the queue. | ~HK$700 pp |
 | **⚡ Harry Potter Studio Tour** | Dec 8 · book weeks ahead | Warner Bros. Studio Tour Tokyo (Nerima), the world's biggest. Timed entry, sells out on weekends. | ~¥6,300 pp |
 | **🏎️ Street Kart (Tokyo Drift)** | Dec 14 · IDP first | Costumed go-karts on real streets. Every driver needs an India IDP (see below). | ~¥9,000 pp |
 | **♨️ Hakone Ryokan** | Dec 13 · best go first | Kaiseki + onsen + Mt. Fuji. Check the tattoo policy or book a private bath. | ¥25k to 45k pp |
@@ -57,15 +53,8 @@ Two nights in Hong Kong on the way in (all of Dec 4 free for Disneyland), and th
 
 ## 📅 The Days
 
-### 🏰 Dec 3 to 5 · Hong Kong stopover
-- **Dec 3:** land Hong Kong 09:55 (CX660). Two nights in HK, settle in.
-- **Dec 4:** **Hong Kong Disneyland**, a full fun day. The new World of Frozen is worth it. Buy dated tickets ahead.
-- **Dec 5:** fly HKG → Tokyo (CX504 09:05, lands Narita 14:05). The Japan leg begins.
-
----
-
 ### Day 1 · Sat Dec 5 — Arrive Tokyo & ease in
-- **14:05** Land Narita from Hong Kong, Skyliner in, city by ~15:45.
+- **~14:00-15:00** Land Narita, Skyliner in, city by ~16:00.
 - **~18:00** Drop bags (Shibuya or Shinjuku).
 - **19:00** **Shibuya Sky** at night (booked ahead).
 - **20:30** Izakaya dinner, then **Nonbei Yokocho** tiny bars.
@@ -75,24 +64,29 @@ Two nights in Hong Kong on the way in (all of Dec 4 free for Disneyland), and th
 - **07:30** **Sumo morning practice** (Ryogoku), ringside.
 - **10:00** Asakusa (Senso-ji + Nakamise) → **Kappabashi** kitchen street.
 - **14:00** **teamLab Planets** (timed, wear roll-up pants).
-- **19:00** Easy dinner, **early night**: save Golden Gai for Dec 8, because DisneySea is a 07:15 start tomorrow.
+- **18:00** Tsukiji Outer Market for early dinner + sushi.
+- **20:00** Roppongi or Ebisu bar scene, chill night.
 
-### Day 3 · Mon Dec 7 — 🌊 Tokyo DisneySea
-- Your one Disney day in Japan (Disneyland is done in Hong Kong). The best park in the world.
-- **07:15** leave; be at the gate by 8:00. At tap-in, grab the Fantasy Springs pass in-app.
-- Night harbour show, then **Tokyo Ramen Street** (Tokyo Station) on the way home.
-- Download the Tokyo Disney app before you fly. Jacket + gloves + kairo (Tokyo Bay is cold).
+### Day 3 · Mon Dec 7 — 🗻 Mt. Fuji Day Trip (Kawaguchiko + Chureito Pagoda)
+- **07:30** Train from Shinjuku to Kawaguchiko (~2h). Bring the camera.
+- **10:00** **Chureito Pagoda** — THE iconic Mt. Fuji shot (5-story pagoda with Fuji behind). 400 steps, worth it.
+- **12:00** **Lake Kawaguchiko** shore walk — Fuji reflected in the lake on clear days. December visibility is peak.
+- **13:00** Lunch with a Fuji view (**hoto noodles**, local specialty).
+- **14:00** **Oishi Park** or **Iyashi no Sato Nenba** (traditional thatched-roof village, Fuji backdrop).
+- **15:30** Optional: **Mt. Fuji Panoramic Ropeway** for elevated views.
+- **17:00** Train back to Tokyo.
+- **19:30** Dinner in Shinjuku, easy night (big one is tomorrow).
 
-### Day 4 · Tue Dec 8 — 🐱 Pokémon Café, ⚡ Harry Potter & the big night
+### Day 4 · Tue Dec 8 — 🐱 Pokémon Café, ⚡ Harry Potter & the BIG night
 - **09:00** **The viral sandwiches**: a fruit sando (whole-fruit cross-sections in cream) + a konbini tamago sando.
 - **11:00** **Pokémon Café** (Nihonbashi), your reserved slot. Pokémon Center upstairs.
 - **14:00** **Harry Potter, Warner Bros. Studio Tour Tokyo** (Nerima), ~4 hours: the Great Hall, Diagon Alley, butterbeer.
-- **19:30** Shinjuku: Omoide Yokocho → **Golden Gai** (the big night lands here, not before DisneySea).
-- **01:00** **Ichiran Ramen**, the 1am solo booth. Tomorrow is a sleep-on-the-train travel day.
+- **19:30** Shinjuku: Omoide Yokocho → **Golden Gai** (200 tiny bars, go all in).
+- **01:00** **Ichiran Ramen**, the 1am solo booth experience. Tomorrow is a sleep-on-the-train travel day, so this works.
 
 ### Day 5 · Wed Dec 9 — Tokyo → Kyoto
 - Sleep in, doze on the train: this is recovery after the Shinjuku night.
-- **09:30** Shinkansen to Kyoto (2h15). **Sit RIGHT (seats D/E) for Mt. Fuji** ~40 min out.
+- **10:00** Shinkansen to Kyoto (2h15). **Sit RIGHT (seats D/E)** — you might catch Fuji again ~40 min out (you already saw it up close!).
 - **15:00** **Fushimi Inari** at dusk. **19:00** Pontocho + Kiyamachi.
 
 ### Day 6 · Thu Dec 10 — Kyoto
@@ -109,11 +103,10 @@ Two nights in Hong Kong on the way in (all of Dec 4 free for Disneyland), and th
 - Before bed: takkyubin the big bags to the Dec 14 Tokyo hotel.
 - *Big-park option: swap today for Universal Studios + Super Nintendo World (book Express Pass + timed entry ahead).*
 
-### Day 9 · Sun Dec 13 — Osaka → Hakone · 🗻 Mt. Fuji & onsen
+### Day 9 · Sun Dec 13 — Osaka → Hakone · 🗻 Mt. Fuji from a different angle & onsen
 - **08:30** Shinkansen Shin-Osaka → Odawara (**Hikari/Kodama only**).
-- **11:00** The Hakone loop **with Mt. Fuji**: Open-Air Museum, Owakudani ropeway, Lake Ashi pirate ship, **Fuji right across the water**. December is the clearest Fuji of the year.
+- **11:00** The Hakone loop **with Mt. Fuji across Lake Ashi**: Open-Air Museum, Owakudani ropeway, Lake Ashi pirate ship, **Fuji right across the water**. Different view from Dec 7's up-close visit.
 - **16:00** Ryokan: yukata, onsen, kaiseki dinner, soak again under the stars. The best night of the trip.
-- Want Fuji up close (Chureito Pagoda, Kawaguchiko)? It needs its own day, see Level-up options.
 
 ### Day 10 · Mon Dec 14 — Hakone → Tokyo · the finale
 - Onsen breakfast, then Shinkansen Odawara → Shinagawa (35 min), check in (bags waiting).
@@ -123,25 +116,23 @@ Two nights in Hong Kong on the way in (all of Dec 4 free for Disneyland), and th
 - **19:30** The last dinner + one great bar (Bar High Five / Gen Yamamoto / a jazz kissa).
 
 ### Day 11 · Tue Dec 15 — Fly out
-- **Vansh:** Haneda ~10:10 to Bangalore via Hong Kong (leave hotel ~06:45).
-- **Narita-routed (Rohan + whoever shares the Cathay routing):** free last morning, then Narita Express by ~11:30 for the 14:25 flight.
+- **Vansh:** Haneda ~10:10 to Bangalore (leave hotel ~06:45).
+- **Others:** Narita afternoon flights — free last morning, then Narita Express by 11:00-12:00 depending on flight time.
 
 ---
 
-## 🗻 Mt. Fuji — where you see it
+## 🗻 Mt. Fuji — THREE different views
 
-1. **Hakone (Dec 13)** is the Fuji day: across Lake Ashi and from the Owakudani ropeway.
-2. **The Shinkansen (Dec 9)** Tokyo → Kyoto, seats D/E on the right, ~40 min out.
-3. **Optional up-close:** a Kawaguchiko / Chureito Pagoda day trip for the postcard shot (needs a dedicated day).
+1. **Kawaguchiko + Chureito Pagoda (Dec 7)** — THE up-close Fuji day. The iconic postcard shot, lake reflections, traditional village backdrop. This is your main Fuji experience.
+2. **Hakone (Dec 13)** — Fuji from across Lake Ashi and the Owakudani ropeway. Different perspective, equally stunning.
+3. **The Shinkansen (Dec 9)** — Tokyo → Kyoto, seats D/E on the right, ~40 min out. Quick glimpse if it's clear.
 
-December has the best Fuji visibility of the year, best on a clear morning.
+December has the best Fuji visibility of the year. Clear mornings are peak.
 
 ---
 
 ## 🎢 The bookable experiences, in one place
 
-- **Hong Kong Disneyland** (Dec 4) — dated ticket online.
-- **Tokyo DisneySea** (Dec 7) — dated ticket, official app.
 - **Pokémon Café** (Dec 8) — reservation opens ~Nov 8, gone in minutes.
 - **Harry Potter Studio Tour** (Dec 8) — timed entry, book weeks ahead.
 - **Street Kart / Tokyo Drift** (Dec 14) — needs the India IDP + operator booking.
@@ -168,7 +159,7 @@ December has the best Fuji visibility of the year, best on a clear morning.
 |------|------|
 | Hotels (9 city nights, 2 rooms) | ¥108k to 180k |
 | Hakone ryokan (1 night, kaiseki) | ¥25k to 45k |
-| Disney (HK + DisneySea) | ~¥18k |
+| Mt. Fuji day trip (trains + lunch) | ~¥8k |
 | Harry Potter + Pokémon Café + Street Kart | ~¥18k |
 | Trains (individual + Hakone Pass) | ~¥36k |
 | Food / nightlife / other activities | ¥12k to 20k / day range |
@@ -204,10 +195,10 @@ The JR Pass is ~¥50k and skips Nozomi. **Nozomi skips Odawara**, so book Hikari
 
 ## 🎒 Pack for December
 
-Real jacket + gloves + hat (Disney on Tokyo Bay), kairo heat packs, comfy shoes (25k steps on park days), slip-ons (ryokan/temples), portable battery, roll-up pants (teamLab), passport for tax-free, a small bag for trash. **And the India IDP for the go-karts.**
+Real jacket + gloves + hat (December is cold), kairo heat packs, comfy shoes (20k+ steps daily), slip-ons (ryokan/temples), portable battery, roll-up pants (teamLab), passport for tax-free, a small bag for trash. **And the India IDP for the go-karts.**
 
 ---
 
-**Fixed points:** the flights (BOM–HKG–NRT), HK Disneyland Dec 4, DisneySea Dec 7, Pokémon Café + Harry Potter Dec 8, Hakone + Fuji Dec 13. Everything else can flex.
+**Fixed points:** the flights (NRT arrivals/departures), Mt. Fuji Dec 7, Pokémon Café + Harry Potter Dec 8, Hakone + onsen Dec 13. Everything else can flex.
 
 Have fun. 🎌

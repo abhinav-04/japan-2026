@@ -24,10 +24,10 @@ Three peaks with recovery days beside each. Nothing punishing back to back.
 
 ## ✈️ Arrivals & Departures
 
-- **Dec 5** — Arrive Tokyo Narita ~14:00-15:00 (everyone's flight times TBD)
-- **Dec 15** — Depart Tokyo: **Vansh** from Haneda (~10:10 to Bangalore via Hong Kong), **others** from Narita afternoon flights (times TBD)
+- **Dec 5** — Arrive Tokyo Narita ~14:00-15:00
+- **Dec 15** — **Everyone** departs together on **CX527: Tokyo Narita 14:25** → Hong Kong (Vansh continues to Bangalore, others to Mumbai)
 
-Check your specific flight times and book accordingly.
+Same flight out = easier last morning, no split groups.
 
 ---
 
@@ -116,8 +116,10 @@ Check your specific flight times and book accordingly.
 - **19:30** The last dinner + one great bar (Bar High Five / Gen Yamamoto / a jazz kissa).
 
 ### Day 11 · Tue Dec 15 — Fly out
-- **Vansh:** Haneda ~10:10 to Bangalore (leave hotel ~06:45).
-- **Others:** Narita afternoon flights — free last morning, then Narita Express by 11:00-12:00 depending on flight time.
+- **Free morning** — last konbini run, final photos, sleep in if you want
+- **~11:30** — Leave hotel for Narita (Narita Express or Skyliner depending on hotel location)
+- **14:25** — **CX527 departs Narita** (everyone on the same flight)
+- Vansh continues to Bangalore via Hong Kong, others to Mumbai
 
 ---
 
@@ -149,7 +151,7 @@ December has the best Fuji visibility of the year. Clear mornings are peak.
 - **Kyoto, Dec 9 to 10:** Hotel Ethnography Gion, Kyoto Yura MGallery, or a machiya townhouse for the four of you.
 - **Osaka, Dec 11 to 12:** Cross Hotel (at Dotonbori, pick), Swissôtel Nankai, or Hotel Hillarys.
 - **Hakone, Dec 13:** a real ryokan with kaiseki + onsen (¥25k to 45k pp). The splurge, book first.
-- **Tokyo finale, Dec 14:** Shinagawa is 13 min to Haneda (good for Vansh); if you fly Narita, Ueno/Asakusa is better for the Skyliner. Decide based on your airport.
+- **Tokyo finale, Dec 14:** Stay near Ueno/Asakusa for easy Skyliner access to Narita, or Shinjuku/Tokyo Station for the Narita Express. Everyone's on the same Narita flight, so pick what works best.
 
 ---
 

@@ -25,10 +25,10 @@ Three peaks with recovery days beside each. Nothing punishing back to back.
 ## ✈️ Arrivals & Departures
 
 ### Arrivals, Sat Dec 5
-- **Rohan, Abhinav, Saksham:** Arrive from their pre-Japan leg, land Narita ~12:00-13:00
-- **Vansh:** Direct from Canada, lands Narita ~14:00-15:00 (2 hours after)
+- **Vansh:** Direct from Canada, lands Narita ~12:00-13:00
+- **Rohan, Abhinav, Saksham:** Via Hong Kong stopover (CX504), land Narita ~14:05 (2 hours after)
 
-**Plan:** Early-arrival crew lands first, heads to hotel, waits for Vansh. Once everyone's together (~16:00), grab lunch and ease in before Shibuya Sky at 19:00.
+**Plan:** Vansh lands first, waits at Narita arrivals for the HK crew. Once everyone's together (~15:00), take Skyliner into the city together. At hotel by ~16:30, grab late lunch, ease in before Shibuya Sky at 19:00.
 
 ### Departures, Tue Dec 15
 - **Everyone on CX527: Narita 14:25** (same outbound flight)
@@ -62,9 +62,10 @@ Same flight out = easier last morning, no split groups.
 ## 📅 The Days
 
 ### Day 1 · Sat Dec 5 — Arrive Tokyo & ease in
-- **~12:00-13:00** Rohan/Abhinav/Saksham land from their pre-Japan leg, head to hotel, wait for Vansh.
-- **~14:00-15:00** Vansh lands from Canada, meets the crew at hotel.
-- **~16:00** Everyone together, drop bags, grab lunch/coffee, ease in.
+- **~12:00-13:00** Vansh lands from Canada, waits at Narita arrivals.
+- **~14:05** Rohan/Abhinav/Saksham land from Hong Kong stopover, meet at airport.
+- **~15:00** Everyone together, Skyliner into the city (~60 min).
+- **~16:30** At hotel (Shibuya or Shinjuku), drop bags, grab late lunch, ease in.
 - **19:00** **Shibuya Sky** at night (booked ahead).
 - **20:30** Izakaya dinner, then **Nonbei Yokocho** tiny bars.
 - Rule #1: stay awake till 10 PM, no naps!
@@ -72,19 +73,21 @@ Same flight out = easier last morning, no split groups.
 ### Day 2 · Sun Dec 6 — Tokyo culture day
 - **07:30** **Sumo morning practice** (Ryogoku), ringside.
 - **10:00** Asakusa (Senso-ji + Nakamise) → **Kappabashi** kitchen street.
+- **12:00** Early lunch at **Tsukiji Outer Market** (most stalls close by 14:00-15:00, go early).
 - **14:00** **teamLab Planets** (timed, wear roll-up pants).
-- **18:00** Tsukiji Outer Market for early dinner + sushi.
-- **20:00** Roppongi or Ebisu bar scene, chill night.
+- **19:00** Dinner in Shibuya or Harajuku.
+- **20:30** Roppongi or Ebisu bar scene, chill night.
 
 ### Day 3 · Mon Dec 7 — 🗻 Mt. Fuji Day Trip (Kawaguchiko + Chureito Pagoda)
-- **07:30** Train from Shinjuku to Kawaguchiko (~2h). Bring the camera.
-- **10:00** **Chureito Pagoda** — THE iconic Mt. Fuji shot (5-story pagoda with Fuji behind). 400 steps, worth it.
-- **12:00** **Lake Kawaguchiko** shore walk — Fuji reflected in the lake on clear days. December visibility is peak.
+- **07:20** Train from Shinjuku to Shimoyoshida (Fujikyuko Line, ~2h). Bring the camera.
+- **09:30** Walk to **Chureito Pagoda** (15 min) → climb 400 steps → THE iconic Mt. Fuji shot (5-story pagoda with Fuji behind).
+- **11:00** Local train to Kawaguchiko station (10 min).
+- **11:30** **Lake Kawaguchiko** shore walk — Fuji reflected in the lake on clear days. December visibility is peak.
 - **13:00** Lunch with a Fuji view (**hoto noodles**, local specialty).
-- **14:00** **Oishi Park** or **Iyashi no Sato Nenba** (traditional thatched-roof village, Fuji backdrop).
-- **15:30** Optional: **Mt. Fuji Panoramic Ropeway** for elevated views.
-- **17:00** Train back to Tokyo.
-- **19:30** Dinner in Shinjuku, easy night (big one is tomorrow).
+- **14:30** **Oishi Park** (lakeside flowers/Fuji view) **OR** skip park and take **Mt. Fuji Panoramic Ropeway** for elevated views.
+  - *Note: Iyashi no Sato village is a separate bus trip ~30 min away; only choose this if skipping the ropeway entirely.*
+- **16:30** Train back to Shinjuku (~2h).
+- **19:00** Dinner in Shinjuku, easy night (big one is tomorrow).
 
 ### Day 4 · Tue Dec 8 — 🐱 Pokémon Café, ⚡ Harry Potter & the BIG night
 - **09:00** **The viral sandwiches**: a fruit sando (whole-fruit cross-sections in cream) + a konbini tamago sando.
@@ -170,7 +173,7 @@ December has the best Fuji visibility of the year. Clear mornings are peak.
 |------|------|
 | Hotels (9 city nights, 2 rooms) | ¥108k to 180k |
 | Hakone ryokan (1 night, kaiseki) | ¥25k to 45k |
-| Mt. Fuji day trip (trains + lunch) | ~¥8k |
+| Mt. Fuji day trip (trains + lunch + entry) | ~¥12k |
 | Harry Potter + Pokémon Café + Street Kart | ~¥18k |
 | Trains (individual + Hakone Pass) | ~¥36k |
 | Food / nightlife / other activities | ¥12k to 20k / day range |

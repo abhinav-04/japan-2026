@@ -73,15 +73,17 @@ Same flight out = easier last morning, no split groups.
 ### Day 2 · Sun Dec 6 — Tokyo culture day
 - **07:30** **Sumo morning practice** (Ryogoku), ringside.
 - **10:00** Asakusa (Senso-ji + Nakamise) → **Kappabashi** kitchen street.
-- **12:00** Early lunch at **Tsukiji Outer Market** (most stalls close by 14:00-15:00, go early).
+- **12:30** Lunch in Asakusa (tempura or sushi).
 - **14:00** **teamLab Planets** (timed, wear roll-up pants).
-- **19:00** Dinner in Shibuya or Harajuku.
-- **20:30** Roppongi or Ebisu bar scene, chill night.
+- **18:00** Dinner in Shibuya or Harajuku.
+- **20:00** Roppongi or Ebisu bar scene, chill night.
 
 ### Day 3 · Mon Dec 7 — 🗻 Mt. Fuji Day Trip (Kawaguchiko + Chureito Pagoda)
 - **07:20** Train from Shinjuku to Shimoyoshida (Fujikyuko Line, ~2h). Bring the camera.
-- **09:30** Walk to **Chureito Pagoda** (15 min) → climb 400 steps → THE iconic Mt. Fuji shot (5-story pagoda with Fuji behind).
-- **11:00** Local train to Kawaguchiko station (10 min).
+- **09:20** Arrive Shimoyoshida.
+- **09:35** Walk to Chureito Pagoda base (15 min).
+- **09:50** Climb 400 steps to **Chureito Pagoda** → THE iconic Mt. Fuji shot (5-story pagoda with Fuji behind).
+- **11:00** Back down, local train to Kawaguchiko station (10 min).
 - **11:30** **Lake Kawaguchiko** shore walk — Fuji reflected in the lake on clear days. December visibility is peak.
 - **13:00** Lunch with a Fuji view (**hoto noodles**, local specialty).
 - **14:30** **Oishi Park** (lakeside flowers/Fuji view) **OR** skip park and take **Mt. Fuji Panoramic Ropeway** for elevated views.

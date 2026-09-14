@@ -25,10 +25,10 @@ Three peaks with recovery days beside each. Nothing punishing back to back.
 ## ✈️ Arrivals & Departures
 
 ### Arrivals, Sat Dec 5
-- **Vansh:** Direct from Canada, lands Narita ~12:00-13:00
-- **Rohan, Abhinav, Saksham:** Via Hong Kong stopover (see HK_Stopover_Dec3-5.md), land Narita ~14:00-15:00
+- **Rohan, Abhinav, Saksham:** Via Hong Kong stopover (see HK_Stopover_Dec3-5.md), land Narita ~12:00-13:00
+- **Vansh:** Direct from Canada, lands Narita ~14:00-15:00 (2 hours after)
 
-**Plan:** Vansh arrives early, drops bags at hotel, grabs lunch, wanders Shibuya. Regroup around 18:00 once the HK crew arrives for Shibuya Sky + dinner.
+**Plan:** HK crew lands first, heads to hotel, waits for Vansh. Once everyone's together (~16:00), grab lunch and ease in before Shibuya Sky at 19:00.
 
 ### Departures, Tue Dec 15
 - **Everyone on CX527: Narita 14:25** → Hong Kong
@@ -62,12 +62,12 @@ Same flight out = easier last morning, no split groups.
 ## 📅 The Days
 
 ### Day 1 · Sat Dec 5 — Arrive Tokyo & ease in
-- **~12:00-13:00** Vansh lands from Canada, Skyliner in, drops bags at hotel (Shibuya or Shinjuku), grabs lunch.
-- **~14:00-15:00** Rohan/Abhinav/Saksham land from Hong Kong stopover, meet up at hotel.
-- **18:00** Regroup, everyone together.
+- **~12:00-13:00** Rohan/Abhinav/Saksham land from Hong Kong stopover, head to hotel, wait for Vansh.
+- **~14:00-15:00** Vansh lands from Canada, meets the crew at hotel.
+- **~16:00** Everyone together, drop bags, grab lunch/coffee, ease in.
 - **19:00** **Shibuya Sky** at night (booked ahead).
 - **20:30** Izakaya dinner, then **Nonbei Yokocho** tiny bars.
-- Rule #1: stay awake till 10 PM, no naps (especially for the HK crew after the stopover!).
+- Rule #1: stay awake till 10 PM, no naps!
 
 ### Day 2 · Sun Dec 6 — Tokyo culture day
 - **07:30** **Sumo morning practice** (Ryogoku), ringside.

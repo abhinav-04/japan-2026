@@ -4,7 +4,7 @@
 **On the ground:** Japan Dec 5 to 15 (10 nights)
 **The Route:** Tokyo (4n) → Kyoto (2n) → Osaka (2n) → Hakone (1n) → Tokyo (1n)
 
-> **Vansh** does a Hong Kong stopover Dec 3-5 (see separate HK README), then meets the squad in Tokyo. Everyone flies home together Dec 15.
+> **Rohan, Abhinav, Saksham** do a Hong Kong stopover Dec 3-5 (see HK_Stopover_Dec3-5.md). **Vansh** flies direct from Canada. Everyone meets in Tokyo Dec 5, flies home together Dec 15.
 
 ---
 
@@ -25,10 +25,10 @@ Three peaks with recovery days beside each. Nothing punishing back to back.
 ## ✈️ Arrivals & Departures
 
 ### Arrivals, Sat Dec 5
-- **Rohan, Abhinav, Saksham:** Direct from India, land Narita ~12:00-13:00
-- **Vansh:** Via Hong Kong stopover (see HK_Stopover_Dec3-5.md), lands Narita ~14:00-15:00
+- **Vansh:** Direct from Canada, lands Narita ~12:00-13:00
+- **Rohan, Abhinav, Saksham:** Via Hong Kong stopover (see HK_Stopover_Dec3-5.md), land Narita ~14:00-15:00
 
-**Plan:** Early arrivals can drop bags at hotel, grab lunch, wander Shibuya. Regroup around 18:00 once Vansh arrives for Shibuya Sky + dinner.
+**Plan:** Vansh arrives early, drops bags at hotel, grabs lunch, wanders Shibuya. Regroup around 18:00 once the HK crew arrives for Shibuya Sky + dinner.
 
 ### Departures, Tue Dec 15
 - **Everyone on CX527: Narita 14:25** → Hong Kong
@@ -62,12 +62,12 @@ Same flight out = easier last morning, no split groups.
 ## 📅 The Days
 
 ### Day 1 · Sat Dec 5 — Arrive Tokyo & ease in
-- **~12:00-13:00** Rohan/Abhinav/Saksham land, Skyliner in, drop bags at hotel (Shibuya or Shinjuku), explore/lunch.
-- **~14:00-15:00** Vansh lands from Hong Kong, meets the squad at hotel.
+- **~12:00-13:00** Vansh lands from Canada, Skyliner in, drops bags at hotel (Shibuya or Shinjuku), grabs lunch.
+- **~14:00-15:00** Rohan/Abhinav/Saksham land from Hong Kong stopover, meet up at hotel.
 - **18:00** Regroup, everyone together.
 - **19:00** **Shibuya Sky** at night (booked ahead).
 - **20:30** Izakaya dinner, then **Nonbei Yokocho** tiny bars.
-- Rule #1: stay awake till 10 PM, no naps (especially for Vansh after HK jet lag!).
+- Rule #1: stay awake till 10 PM, no naps (especially for the HK crew after the stopover!).
 
 ### Day 2 · Sun Dec 6 — Tokyo culture day
 - **07:30** **Sumo morning practice** (Ryogoku), ringside.

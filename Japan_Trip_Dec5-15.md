@@ -4,7 +4,7 @@
 **On the ground:** Japan Dec 5 to 15 (10 nights)
 **The Route:** Tokyo (4n) → Kyoto (2n) → Osaka (2n) → Hakone (1n) → Tokyo (1n)
 
-> Land Tokyo Dec 5 afternoon, fly home Dec 15 (Vansh via Haneda to Bangalore, the rest from Narita).
+> **Vansh** does a Hong Kong stopover Dec 3-5 (see separate HK README), then meets the squad in Tokyo. Everyone flies home together Dec 15.
 
 ---
 
@@ -24,8 +24,16 @@ Three peaks with recovery days beside each. Nothing punishing back to back.
 
 ## ✈️ Arrivals & Departures
 
-- **Dec 5** — Arrive Tokyo Narita ~14:00-15:00
-- **Dec 15** — **Everyone** departs together on **CX527: Tokyo Narita 14:25** → Hong Kong (Vansh continues to Bangalore, others to Mumbai)
+### Arrivals, Sat Dec 5
+- **Rohan, Abhinav, Saksham:** Direct from India, land Narita ~12:00-13:00
+- **Vansh:** Via Hong Kong stopover (see HK_Stopover_Dec3-5.md), lands Narita ~14:00-15:00
+
+**Plan:** Early arrivals can drop bags at hotel, grab lunch, wander Shibuya. Regroup around 18:00 once Vansh arrives for Shibuya Sky + dinner.
+
+### Departures, Tue Dec 15
+- **Everyone on CX527: Narita 14:25** → Hong Kong
+- **Rohan:** Continues to Mumbai (BOM)
+- **Abhinav, Saksham, Vansh:** Continue to Bangalore (BLR)
 
 Same flight out = easier last morning, no split groups.
 
@@ -54,11 +62,12 @@ Same flight out = easier last morning, no split groups.
 ## 📅 The Days
 
 ### Day 1 · Sat Dec 5 — Arrive Tokyo & ease in
-- **~14:00-15:00** Land Narita, Skyliner in, city by ~16:00.
-- **~18:00** Drop bags (Shibuya or Shinjuku).
+- **~12:00-13:00** Rohan/Abhinav/Saksham land, Skyliner in, drop bags at hotel (Shibuya or Shinjuku), explore/lunch.
+- **~14:00-15:00** Vansh lands from Hong Kong, meets the squad at hotel.
+- **18:00** Regroup, everyone together.
 - **19:00** **Shibuya Sky** at night (booked ahead).
 - **20:30** Izakaya dinner, then **Nonbei Yokocho** tiny bars.
-- Rule #1: stay awake till 10 PM, no naps.
+- Rule #1: stay awake till 10 PM, no naps (especially for Vansh after HK jet lag!).
 
 ### Day 2 · Sun Dec 6 — Tokyo culture day
 - **07:30** **Sumo morning practice** (Ryogoku), ringside.
@@ -119,7 +128,7 @@ Same flight out = easier last morning, no split groups.
 - **Free morning** — last konbini run, final photos, sleep in if you want
 - **~11:30** — Leave hotel for Narita (Narita Express or Skyliner depending on hotel location)
 - **14:25** — **CX527 departs Narita** (everyone on the same flight)
-- Vansh continues to Bangalore via Hong Kong, others to Mumbai
+- **Rohan** → Mumbai, **Abhinav/Saksham/Vansh** → Bangalore (all via Hong Kong)
 
 ---
 

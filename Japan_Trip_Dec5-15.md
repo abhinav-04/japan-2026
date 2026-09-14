@@ -4,7 +4,7 @@
 **On the ground:** Japan Dec 5 to 15 (10 nights)
 **The Route:** Tokyo (4n) → Kyoto (2n) → Osaka (2n) → Hakone (1n) → Tokyo (1n)
 
-> **Rohan, Abhinav, Saksham** do a Hong Kong stopover Dec 3-5 (see HK_Stopover_Dec3-5.md). **Vansh** flies direct from Canada. Everyone meets in Tokyo Dec 5, flies home together Dec 15.
+> **Rohan, Abhinav, Saksham** arrive from a separate pre-Japan leg. **Vansh** flies direct from Canada. Everyone meets in Tokyo Dec 5, flies home together Dec 15.
 
 ---
 
@@ -15,7 +15,7 @@ Relaxed yet adventurous. Mt. Fuji up close at Kawaguchiko, Pokémon Café, Harry
 **Energy flow:**
 ```
 arrive Tokyo   MT.FUJI   Pokémon+HP   →Kyoto   Kyoto   Nara→Osaka   OSAKA   HAKONE   Tokyo   fly
-   Dec 5      Kawaguchi    Dec 8       Dec 9   Dec 10    Dec 11      Dec 12  onsen+Fuji Dec 14  Dec 15
+   Dec 5    Kawaguchiko    Dec 8       Dec 9   Dec 10    Dec 11      Dec 12  onsen+Fuji Dec 14  Dec 15
 ```
 
 Three peaks with recovery days beside each. Nothing punishing back to back.
@@ -25,13 +25,13 @@ Three peaks with recovery days beside each. Nothing punishing back to back.
 ## ✈️ Arrivals & Departures
 
 ### Arrivals, Sat Dec 5
-- **Rohan, Abhinav, Saksham:** Via Hong Kong stopover (see HK_Stopover_Dec3-5.md), land Narita ~12:00-13:00
+- **Rohan, Abhinav, Saksham:** Arrive from their pre-Japan leg, land Narita ~12:00-13:00
 - **Vansh:** Direct from Canada, lands Narita ~14:00-15:00 (2 hours after)
 
-**Plan:** HK crew lands first, heads to hotel, waits for Vansh. Once everyone's together (~16:00), grab lunch and ease in before Shibuya Sky at 19:00.
+**Plan:** Early-arrival crew lands first, heads to hotel, waits for Vansh. Once everyone's together (~16:00), grab lunch and ease in before Shibuya Sky at 19:00.
 
 ### Departures, Tue Dec 15
-- **Everyone on CX527: Narita 14:25** → Hong Kong
+- **Everyone on CX527: Narita 14:25** (same outbound flight)
 - **Rohan:** Continues to Mumbai (BOM)
 - **Abhinav, Saksham, Vansh:** Continue to Bangalore (BLR)
 
@@ -62,7 +62,7 @@ Same flight out = easier last morning, no split groups.
 ## 📅 The Days
 
 ### Day 1 · Sat Dec 5 — Arrive Tokyo & ease in
-- **~12:00-13:00** Rohan/Abhinav/Saksham land from Hong Kong stopover, head to hotel, wait for Vansh.
+- **~12:00-13:00** Rohan/Abhinav/Saksham land from their pre-Japan leg, head to hotel, wait for Vansh.
 - **~14:00-15:00** Vansh lands from Canada, meets the crew at hotel.
 - **~16:00** Everyone together, drop bags, grab lunch/coffee, ease in.
 - **19:00** **Shibuya Sky** at night (booked ahead).
@@ -128,7 +128,7 @@ Same flight out = easier last morning, no split groups.
 - **Free morning** — last konbini run, final photos, sleep in if you want
 - **~11:30** — Leave hotel for Narita (Narita Express or Skyliner depending on hotel location)
 - **14:25** — **CX527 departs Narita** (everyone on the same flight)
-- **Rohan** → Mumbai, **Abhinav/Saksham/Vansh** → Bangalore (all via Hong Kong)
+- **Rohan** → Mumbai, **Abhinav/Saksham/Vansh** → Bangalore
 
 ---
 
@@ -174,7 +174,7 @@ December has the best Fuji visibility of the year. Clear mornings are peak.
 | Harry Potter + Pokémon Café + Street Kart | ~¥18k |
 | Trains (individual + Hakone Pass) | ~¥36k |
 | Food / nightlife / other activities | ¥12k to 20k / day range |
-| **TOTAL (no flights)** | **~¥330k to 440k (~CA$3,000 to 4,000)** |
+| **TOTAL (no flights)** | **~¥320k to 430k (~CA$2,900 to 3,900)** |
 
 ---
 

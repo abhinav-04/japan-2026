@@ -4,7 +4,7 @@
 **On the ground:** Japan Dec 5 to 15 (10 nights)
 **The Route:** Tokyo (4n) → Kyoto (2n) → Osaka (2n) → Hakone (2n)
 
-> **Rohan, Abhinav, Saksham** arrive from a separate pre-Japan leg. **Vansh** flies direct from Canada. Everyone meets in Tokyo Dec 5, ends on two ryokan nights in Hakone, and flies home together Dec 15.
+> **Rohan, Abhinav, Saksham** arrive from a separate pre-Japan leg. **Vansh** flies direct from Canada. Everyone meets in Tokyo Dec 5, ends on two Hakone nights (The Prince Hakone → Yunohana), and flies home together from Narita Dec 15.
 
 ---
 
@@ -46,11 +46,11 @@ Same flight out = easier last morning, no split groups.
 | **🐱 Pokémon Café (Tokyo)** | Dec 8 · reserve ~Nov 8 | Reservation-only, opens exactly 31 days ahead, gone in minutes. Set an alarm. | ~¥2,500 pp + goods |
 | **⚡ Harry Potter Studio Tour** | Dec 8 · book weeks ahead | Warner Bros. Studio Tour Tokyo (Nerima), the world's biggest. Timed entry, sells out on weekends. | ~¥6,300 pp |
 | **🏎️ Street Kart (Tokyo Drift)** | Dec 6 evening · IDP first | Costumed go-karts on real streets. Every driver needs an India IDP (see below). | ~¥9,000 pp |
-| **♨️ Hakone Ryokan** | Dec 13 to 14 · 2 nights · best go first | Kaiseki + onsen + Mt. Fuji. Check the tattoo policy or book a private bath. Ask for a different menu on night two. | ¥25k to 45k pp a night |
+| **♨️ Hakone hotels** | Dec 13 to 15 · **booked on Stages** | Night 1: The Prince Hakone (Lake Ashi). Night 2: Yunohana Prince Hotel. See lodging. | booked |
 | **✨ teamLab Planets** | Dec 6 afternoon | Timed entry, sells out. | ~¥3,800 pp |
 | **🌇 Shibuya Sky** | Dec 5, ~7 PM slot | Open-air rooftop, first evening. | ~¥2,200 pp |
 | **🥋 Sumo morning practice** | Dec 6, 7:30 AM | Ringside; book through a tour operator only. | ~¥10,000 pp |
-| **🏨 Hotels (5 stays, 2 rooms each)** | see below | Quads are rare in Japan. | see budget |
+| **🏨 Kyoto + Osaka hotels** | Dec 9 to 13 · **booked on Stages** | Amanek Kyoto + Prince Smart Inn Osaka. Tokyo first stay still open. | booked |
 
 **Before you fly (home tasks):**
 - **International Driving Permit from India** for the go-karts. It is Geneva-1949 and valid in Japan; get it from your RTO. You cannot rent a kart without it, and you cannot get one in Japan.
@@ -115,24 +115,25 @@ Same flight out = easier last morning, no split groups.
 ### Day 8 · Sat Dec 12 — Osaka (the big night)
 - Kuromon Market, Osaka Castle, Shinsekai kushikatsu.
 - **Saturday night, go all in:** Ura-Namba, Misonobiru, karaoke nomihodai, Kinryu Ramen.
-- Before bed: takkyubin the big bags straight to Narita for pickup on Dec 15 (Yamato or JAL ABC counter, send at least two days ahead). Pack two nights light for Hakone.
+- Before bed: takkyubin the big bags straight to Narita for pickup on Dec 15 (Yamato or JAL ABC counter, send at least two days ahead). Pack two nights light for Hakone (Prince Hakone → Yunohana → airport).
 - *Big-park option: swap today for Universal Studios + Super Nintendo World (book Express Pass + timed entry ahead).*
 
-### Day 9 · Sun Dec 13 — Osaka → Hakone · art, then onsen
-- **08:30** Shinkansen Shin-Osaka → Odawara (**Hikari/Kodama only**). Sleep off last night.
+### Day 9 · Sun Dec 13 — Osaka → Hakone · art, then Lake Ashi
+- **08:30** Shinkansen Shin-Osaka → Odawara (**Hikari/Kodama only**). Sleep off last night. Buy the **Hakone Free Pass from Odawara** (2-day) at the station.
 - **11:30** **Hakone Open-Air Museum**: sculpture on the hillside, the Picasso pavilion, a hot-spring footbath. Lunch in Gora.
-- **15:00** Ryokan: yukata, onsen in daylight, kaiseki dinner, soak again under the stars.
+- **15:00** Check in **The Prince Hakone Lake Ashinoko** (booked on Stages): yukata, onsen in daylight, dinner, soak again under the stars. Lake Ashi is right there.
 
-### Day 10 · Mon Dec 14 — Hakone · 🗻 Mt. Fuji morning, the slow finale
+### Day 10 · Mon Dec 14 — Hakone · 🗻 Mt. Fuji morning, move to Yunohana
 - **08:30** The Hakone loop **with Mt. Fuji across Lake Ashi**: Owakudani ropeway (black eggs), Lake Ashi pirate ship, the Hakone Shrine gate on the water. Different view from Dec 7's up-close visit. Clear mornings are best.
-- **14:00** **Amazake-chaya**, a 400-year-old tea house on the old Tokaido stone road, or the shops on Hakone-Yumoto's main street.
-- **16:00** Back to the ryokan, nothing scheduled: the long soak.
-- **19:00** The last dinner is the second kaiseki (tell the ryokan it's a two-night stay so the menu changes).
-- Cloudy morning? Swap the loop to the afternoon; the 2-day Hakone Free Pass covers both days.
+- **~13:00** Check out of The Prince Hakone. Head to **Yunohana Prince Hotel** (booked on Stages) for night two.
+  - Free hotel shuttle: **14:00 from Odawara Station West Exit** (non-stop). Email `yunohana@princehotels.co.jp` at least **3 days ahead** if you want it.
+  - Or bus / Free Pass hop via Hakone-Yumoto into Yunohana.
+- **Before 18:00** Check in at Yunohana if you want dinner (last dinner order 18:00).
+- **19:00** Last dinner + long soak. Cloudy morning? Swap the loop to the afternoon; the 2-day Free Pass covers the 13th and 14th.
 
-### Day 11 · Tue Dec 15 — Fly out
-- **07:30** Ryokan breakfast, last soak.
-- **~08:45** Leave the ryokan: Hakone-Yumoto → Odawara → Shinkansen to Tokyo → **Narita Express**. About 3 hours; the big bags are waiting at Narita.
+### Day 11 · Tue Dec 15 — Fly out from Hakone
+- **07:30** Breakfast at Yunohana, last soak.
+- **~08:45** Leave the hotel: Yunohana → Odawara → Shinkansen toward Tokyo → **Narita Express**. About 3 to 3.5 hours; the big bags are waiting at Narita. No Tokyo hotel tonight.
 - **14:25** — **CX527 departs Narita** (everyone on the same flight)
 - **Rohan** → Mumbai, **Abhinav/Saksham/Vansh** → Bangalore
 
@@ -160,12 +161,15 @@ December has the best Fuji visibility of the year. Clear mornings are peak.
 
 ## 🏨 Where to Stay
 
-**Two twin/double rooms at each spot (quads are rare).**
+**Booked on Stages** (confirmations filed there). Two rooms where noted; Hakone is one room for four each night.
 
-- **Tokyo, Dec 5 to 8:** The Knot Shinjuku (value pick), Shibuya Stream Excel, or Century Southern Tower. Stay in the nightlife.
-- **Kyoto, Dec 9 to 10:** Hotel Ethnography Gion, Kyoto Yura MGallery, or a machiya townhouse for the four of you.
-- **Osaka, Dec 11 to 12:** Cross Hotel (at Dotonbori, pick), Swissôtel Nankai, or Hotel Hillarys.
-- **Hakone, Dec 13 to 14 (2 nights):** a real ryokan with kaiseki + onsen (¥25k to 45k pp a night). The splurge, book first. The trip ends here: no Tokyo hotel on Dec 14.
+- **Tokyo, Dec 5 to 9:** Still open. Aim Shinjuku or Shibuya (The Knot Shinjuku / Shibuya Stream Excel / Century Southern Tower).
+- **Kyoto, Dec 9 to 11 · booked:** **HOTEL AMANEK Kyoto Kawaramachi Gojo** — 2 rooms, 4 adults. Check-in from 15:00 Dec 9, check-out 11:00 Dec 11. Near Keihan Kiyomizu-Gojo / Kawaramachi-Gojo.
+- **Osaka, Dec 11 to 13 · booked:** **Prince Smart Inn Osaka Yodoyabashi** — 2 double rooms, 4 adults. Address: 4-2-7 Koraibashi, Chuo-ku. Free WiFi, all rooms non-smoking, no parking. Check-in after 15:00, check-out before 11:00.
+- **Hakone night 1, Dec 13 to 14 · booked:** **The Prince Hakone Lake Ashinoko** — 1 Superior Twin Room for 4 (non-smoking). Lake Ashi shore. Bath tax ¥150 pp/night at the hotel.
+- **Hakone night 2, Dec 14 to 15 · booked:** **Yunohana Prince Hotel** (Hakone Yunohana Prince Hotel) — 1 Japanese-style room for 4 (non-smoking). Free Odawara West Exit shuttle at 14:00 if reserved 3+ days ahead. Dinner guests must check in before 18:00.
+
+The trip ends in Hakone. No Tokyo hotel on Dec 14–15; fly out from Narita the morning of Dec 15.
 
 ---
 
@@ -173,8 +177,8 @@ December has the best Fuji visibility of the year. Clear mornings are peak.
 
 | Item | Cost |
 |------|------|
-| Hotels (8 city nights, 2 rooms) | ¥96k to 160k |
-| Hakone ryokan (2 nights, kaiseki) | ¥50k to 90k |
+| Hotels (Tokyo open + Kyoto + Osaka booked) | ¥96k to 160k |
+| Hakone (2 nights, booked on Stages) | see Stages |
 | Mt. Fuji day trip (trains + lunch + entry) | ~¥12k |
 | Harry Potter + Pokémon Café + Street Kart | ~¥18k |
 | Trains (individual + Hakone Pass) | ~¥40k |
@@ -190,11 +194,11 @@ December has the best Fuji visibility of the year. Clear mornings are peak.
 | Tokyo → Kyoto | ~¥13,500 |
 | Kyoto → Nara → Osaka | ~¥1,800 |
 | Osaka → Odawara (**Hikari/Kodama only**) | ~¥12,500 |
-| Hakone Free Pass (2-day) | ~¥5,000 |
-| Hakone → Odawara → Tokyo → Narita (Shinkansen + N'EX) | ~¥7,000 |
-| **Total** | **~¥39,800** |
+| Hakone Free Pass (2-day, **from Odawara**) | ~¥6,000 |
+| Yunohana → Odawara → Tokyo → Narita (local + Shinkansen + N'EX) | ~¥7,000 |
+| **Total** | **~¥40,800** |
 
-The JR Pass is ~¥50k and skips Nozomi. **Nozomi skips Odawara**, so book Hikari/Kodama for Osaka → Hakone.
+The JR Pass is ~¥50k and skips Nozomi. **Nozomi skips Odawara**, so book Hikari/Kodama for Osaka → Hakone. Buy the Free Pass **from Odawara**, not Shinjuku (you arrive and leave by Shinkansen). The 2-day pass covers Dec 13–14 only; Dec 15 morning bus to Odawara is separate.
 
 ---
 
@@ -215,6 +219,6 @@ Real jacket + gloves + hat (December is cold), kairo heat packs, comfy shoes (20
 
 ---
 
-**Fixed points:** the flights (NRT arrivals/departures), Mt. Fuji Dec 7, Pokémon Café + Harry Potter Dec 8, Hakone + onsen Dec 13 to 14. Everything else can flex.
+**Fixed points:** the flights (NRT arrivals/departures), Mt. Fuji Dec 7, Pokémon Café + Harry Potter Dec 8, Hakone Dec 13 to 15 (hotels booked on Stages). Everything else can flex.
 
 Have fun. 🎌

@@ -90,7 +90,6 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 - Rule #1: stay awake till 10 PM, no naps!
 
 ### Day 2 · Sun Dec 6 — Tokyo culture day
-- **07:30** **Sumo morning practice** (Ryogoku), ringside.
 - **10:00** Asakusa (Senso-ji + Nakamise) → **Kappabashi** kitchen street.
 - **12:30** Lunch in Asakusa (tempura or sushi).
 - **14:00** **teamLab Planets** (timed, wear roll-up pants).

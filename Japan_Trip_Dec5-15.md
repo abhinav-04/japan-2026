@@ -51,7 +51,6 @@ Same flight out = easier last morning, no split groups.
 | **⚡ Harry Potter Studio Tour** | Dec 8 · 14:00-ish | Timed entry. Tuesday, so easier than a weekend, still books up. | ~¥6,300 pp |
 | **✨ teamLab Planets** | Dec 6 · 14:00 | Timed entry. | ~¥3,800 pp |
 | **🌇 Shibuya Sky** | Dec 5 · ~19:00 | First night. | ~¥2,200 pp |
-| **🥋 Sumo morning practice** | Dec 6 · 07:30 | Tour operator only. | ~¥10,000 pp |
 | **🏎️ Street Kart** | Dec 6 · 17:00 | Every driver needs an India IDP first. | ~¥9,000 pp |
 | **🚄 Skyliner** | Dec 5 · Narita → Nippori/Ueno | After you meet at the airport. Cancellable before you exchange the voucher. | ~¥2,310 pp online |
 

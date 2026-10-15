@@ -39,23 +39,42 @@ Same flight out = easier last morning, no split groups.
 
 ---
 
-## 🚨 Book These NOW (they sell out)
+## 🚨 What's left to book
+
+**Already booked on Stages:** Amanek Kyoto (Dec 9–11), Prince Smart Inn Osaka Yodoyabashi (Dec 11–13), The Prince Hakone Lake Ashinoko (Dec 13–14), Yunohana Prince Hotel (Dec 14–15).
+
+### Book now (on sale today)
 
 | What | When | Why | Cost |
 |------|------|-----|------|
-| **🐱 Pokémon Café (Tokyo)** | Dec 8 · reserve ~Nov 8 | Reservation-only, opens exactly 31 days ahead, gone in minutes. Set an alarm. | ~¥2,500 pp + goods |
-| **⚡ Harry Potter Studio Tour** | Dec 8 · book weeks ahead | Warner Bros. Studio Tour Tokyo (Nerima), the world's biggest. Timed entry, sells out on weekends. | ~¥6,300 pp |
-| **🏎️ Street Kart (Tokyo Drift)** | Dec 6 evening · IDP first | Costumed go-karts on real streets. Every driver needs an India IDP (see below). | ~¥9,000 pp |
-| **♨️ Hakone hotels** | Dec 13 to 15 · **booked on Stages** | Night 1: The Prince Hakone (Lake Ashi). Night 2: Yunohana Prince Hotel. See lodging. | booked |
-| **✨ teamLab Planets** | Dec 6 afternoon | Timed entry, sells out. | ~¥3,800 pp |
-| **🌇 Shibuya Sky** | Dec 5, ~7 PM slot | Open-air rooftop, first evening. | ~¥2,200 pp |
-| **🥋 Sumo morning practice** | Dec 6, 7:30 AM | Ringside; book through a tour operator only. | ~¥10,000 pp |
-| **🏨 Kyoto + Osaka hotels** | Dec 9 to 13 · **booked on Stages** | Amanek Kyoto + Prince Smart Inn Osaka. Tokyo first stay still open. | booked |
+| **🏨 Tokyo hotel** | Dec 5 to 9 · 4 nights · 2 rooms | Only lodging still open. Shinjuku or Shibuya. | see budget |
+| **⚡ Harry Potter Studio Tour** | Dec 8 · 14:00-ish | Timed entry. Tuesday, so easier than a weekend, still books up. | ~¥6,300 pp |
+| **✨ teamLab Planets** | Dec 6 · 14:00 | Timed entry. | ~¥3,800 pp |
+| **🌇 Shibuya Sky** | Dec 5 · ~19:00 | First night. | ~¥2,200 pp |
+| **🥋 Sumo morning practice** | Dec 6 · 07:30 | Tour operator only. | ~¥10,000 pp |
+| **🏎️ Street Kart** | Dec 6 · 17:00 | Every driver needs an India IDP first. | ~¥9,000 pp |
+| **🚄 Skyliner** | Dec 5 · Narita → Nippori/Ueno | After you meet at the airport. Cancellable before you exchange the voucher. | ~¥2,310 pp online |
 
-**Before you fly (home tasks):**
-- **International Driving Permit from India** for the go-karts. It is Geneva-1949 and valid in Japan; get it from your RTO. You cannot rent a kart without it, and you cannot get one in Japan.
-- Buy individual Shinkansen tickets (NOT the JR Pass; you save ~¥14k each). Get **Hikari/Kodama** for Osaka → Odawara (Nozomi skips Odawara).
-- eSIMs for everyone.
+### Book the morning the window opens (Japan time)
+
+Seat maps for the Fuji view are **not** open yet. A year-ahead Shinkansen booking assigns a seat later and will not let you pick the Fuji side. Wait, then grab seats together.
+
+| What | Opens | Seats |
+|------|--------|--------|
+| **🗻 Fuji Excursion** Shinjuku → Shimoyoshida / Kawaguchiko, and the return | **Sat Nov 7, 10:00** | All seats reserved. Book both ways the morning it opens or the four of you get split. JR-EAST Train Reservation. |
+| **🐱 Pokémon Café** | **~Sun Nov 8** | Opens 31 days ahead and goes in minutes. Alarm. |
+| **🚄 Tokyo → Kyoto Nozomi** ~10:00 | **Mon Nov 9, 10:00** | **Right side, seats D and E** (two pairs, adjacent rows). That is the Fuji side. SmartEX ordinary reserved. |
+| **🚄 Shin-Osaka → Odawara** Hikari or Kodama | **Fri Nov 13, 10:00** | **Not Nozomi** (it skips Odawara). |
+| **🚄 Odawara → Tokyo or Shinagawa**, then **Narita Express** to Narita | **Sun Nov 15, 10:00** | Dec 15 airport run. No Tokyo hotel that night. |
+
+Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
+
+**Day-of, no reservation:** Kyoto → Nara → Osaka (IC card). Hakone Free Pass **from Odawara**, 2-day, buy Dec 13 at the station (~¥6,000). It covers Dec 13–14 only.
+
+**Before you fly:**
+- India International Driving Permit (Geneva 1949) for every kart driver. You cannot get one in Japan.
+- eSIMs.
+- Around Dec 11: email `yunohana@princehotels.co.jp` if you want the free **14:00 Dec 14** shuttle from Odawara West Exit to the hotel. That bus does not run back to the station on the morning of Dec 15.
 
 ---
 
@@ -132,8 +151,8 @@ Same flight out = easier last morning, no split groups.
 - **19:00** Last dinner + long soak. Cloudy morning? Swap the loop to the afternoon; the 2-day Free Pass covers the 13th and 14th.
 
 ### Day 11 · Tue Dec 15 — Fly out from Hakone
-- **07:30** Breakfast at Yunohana, last soak.
-- **~08:45** Leave the hotel: Yunohana → Odawara → Shinkansen toward Tokyo → **Narita Express**. About 3 to 3.5 hours; the big bags are waiting at Narita. No Tokyo hotel tonight.
+- **07:15** Breakfast at Yunohana. Skip the long soak this morning.
+- **~07:45** Out the door. The hotel is not at a station: local bus or taxi to Odawara (~1 hour), then Shinkansen to Tokyo/Shinagawa (~35 min), then Narita Express (~60–80 min). Aim to be at Narita by ~11:30. Leaving at 08:45 still usually works; 07:45 is the comfortable one. The big bags are waiting at Narita. No Tokyo hotel tonight.
 - **14:25** — **CX527 departs Narita** (everyone on the same flight)
 - **Rohan** → Mumbai, **Abhinav/Saksham/Vansh** → Bangalore
 

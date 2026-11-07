@@ -56,14 +56,14 @@ Times below are **Eastern**. Japan sales at 10:00 JST open at 20:00 Eastern the 
 
 | What | Book when | Pick | Book here | ~pp |
 |------|-----------|------|-----------|-----|
-| **🗻 Fuji Excursion** Shinjuku → Shimoyoshida **+ return** from Kawaguchiko | **Now** | Earliest morning (~07:30) out, afternoon back. 4 together | [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) | ~¥8,210 |
+| **🗻 Fuji Excursion** Shinjuku → Shimoyoshida **+ return** from Kawaguchiko · Mon Dec 7 | **Now** | Out: **Fuji Excursion 3**, Shinjuku 07:30 → Shimoyoshida 09:13. Back: **Fuji Excursion 44**, Kawaguchiko 16:48 → Shinjuku 18:48 (or No. 36 at 14:58). 4 together | [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) | ~¥8,210 |
 | **✨ teamLab Planets** · Sun Dec 6, 14:00 | **Now** | Timed entry; changeable up to 3 times | [teamLab Planets store](https://teamlabplanets.dmm.com/en) | from ¥3,800 |
 | **⚡ Harry Potter Studio Tour** · Tue Dec 8, ~14:00 | **Now** | Timed entry. **Non-refundable**, ¥1,500 per change | [wbstudiotour.jp](https://www.wbstudiotour.jp/en/tickets/) | ~¥6,600–7,000 |
 | **🚄 Skyliner** · Sat Dec 5, Narita → Keisei Ueno | **Now** (sold up to 30 days ahead) | One-way discount ticket; exchange at Narita with passport | [Skyliner e-ticket](https://www.keisei.co.jp/keisei/tetudou/skyliner/e-ticket/en/) | ~¥2,310 |
-| **🚄 Tokyo → Kyoto Nozomi** · Wed Dec 9, ~10:00 | **Sun Nov 8, 20:00** | **Seats D/E** (right side, Fuji), two pairs in adjacent rows | [SmartEX](https://smart-ex.jp/en/) | ~¥13,770 |
+| **🚄 Tokyo → Kyoto Nozomi** · Wed Dec 9, first Nozomi from 10:00 | **Sun Nov 8, 20:00** | Nozomi run every ~10 min. **Oversized-baggage seats, last-row D/E** (right side, Fuji). Each last row has only one D/E pair, so book two pairs in two cars (two bookings) | [SmartEX](https://smart-ex.jp/en/) | ~¥13,770 |
 | **🚄 Shin-Osaka → Odawara** · Sun Dec 13, **08:19 Hikari 642** | **Thu Nov 12, 20:00** | Only some Hikari stop at Odawara; this one arrives 10:38. **Not Nozomi** | [SmartEX](https://smart-ex.jp/en/) | ~¥12,650 |
-| **🚄 Odawara → Tokyo** · Tue Dec 15, ~08:40 | **Sat Nov 14, 20:00** | Any Hikari / Kodama | [SmartEX](https://smart-ex.jp/en/) | ~¥3,410 |
-| **🚄 Narita Express** Tokyo → Narita Airport T2·3 · Tue Dec 15, ~09:30 | **Sat Nov 14, 20:00** | Separate ticket from the Shinkansen | [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) | ~¥3,070 |
+| **🚄 Odawara → Tokyo** · Tue Dec 15, **Kodama 800, 08:56 → 09:30** | **Sat Nov 14, 20:00** | Oversized-baggage seats. No Hikari stops at Odawara that morning; Kodama 920 at 08:29 is too tight after the taxi | [SmartEX](https://smart-ex.jp/en/) | ~¥3,410 |
+| **🚄 Narita Express** Tokyo → Narita Airport T2·3 · Tue Dec 15, **N'EX 15, 10:03 → ~10:55** | **Sat Nov 14, 20:00** | Separate ticket from the Shinkansen. Leaves ~30 min to cross Tokyo Station with bags (N'EX is on the deep Sobu platforms) | [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) | ~¥3,070 |
 | **🌇 Shibuya Sky** · Sat Dec 5, ~19:00 | **Fri Nov 20, 10:00** | Night slot. Bought from abroad = everyone shows their **original passport** at entry. Free cancel until the day before | [Shibuya Sky tickets](https://www.shibuya-scramble-square.com/sky/ticket/) | ~¥3,400 |
 | **🏎️ City Circuit Tokyo Bay** (EV karts) · Sun Dec 6, ~16:30 | **From Sun Nov 29** (7 days ahead), or walk in | **No driver's licence needed.** 20-min session (17 min driving) | [city-circuit.com](https://city-circuit.com/en/base/) | ~¥7,000 |
 
@@ -103,12 +103,12 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 - **~16:15** Yurikamome Line, Shin-Toyosu → Aomi (~10 min).
 - **~16:30** **City Circuit Tokyo Bay**: electric go-karts on a real outdoor track, up to 50 km/h. No licence needed, gear provided. Take the 20-min session (17 min of driving).
 - **~17:45** Odaiba after dark: the life-size **Gundam** at DiverCity (5 min walk), Rainbow Bridge lit up from Odaiba Seaside Park. Optional: **Tokyo Joypolis** (Sega's indoor arcade/theme park) if it's open late.
-- **19:00** Dinner at DiverCity or Aqua City, then back to Akihabara (~35 min: Yurikamome to Shimbashi, then JR). Early-ish night: the Fuji train leaves Shinjuku at 07:20 tomorrow, about 20 min from Akihabara on the JR Chuo Line.
+- **19:00** Dinner at DiverCity or Aqua City, then back to Akihabara (~35 min: Yurikamome to Shimbashi, then JR). Early-ish night: the Fuji train leaves Shinjuku at 07:30 tomorrow, about 20 min from Akihabara on the JR Chuo Line.
 
 ### Day 3 · Mon Dec 7 — 🗻 Mt. Fuji Day Trip (Kawaguchiko + Chureito Pagoda)
-- **06:50** Leave the hotel for Shinjuku (JR Chuo Rapid from Kanda/Ochanomizu or the Sobu Line, ~20 min).
-- **07:20** Train from Shinjuku to Shimoyoshida (Fujikyuko Line, ~2h). Bring the camera.
-- **09:20** Arrive Shimoyoshida.
+- **06:55** Leave the hotel for Shinjuku (JR Chuo Rapid from Kanda/Ochanomizu or the Sobu Line, ~20 min).
+- **07:30** **Fuji Excursion 3** from Shinjuku, straight through to Shimoyoshida. Bring the camera.
+- **09:13** Arrive Shimoyoshida.
 - **09:35** Walk to Chureito Pagoda base (15 min).
 - **09:50** Climb 400 steps to **Chureito Pagoda** → THE iconic Mt. Fuji shot (5-story pagoda with Fuji behind).
 - **11:00** Back down, local train to Kawaguchiko station (10 min).
@@ -116,7 +116,7 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 - **13:00** Lunch with a Fuji view (**hoto noodles**, local specialty).
 - **14:30** **Oishi Park** (lakeside flowers/Fuji view) **OR** skip park and take **Mt. Fuji Panoramic Ropeway** for elevated views.
   - *Note: Iyashi no Sato village is a separate bus trip ~30 min away; only choose this if skipping the ropeway entirely.*
-- **16:30** Train back to Shinjuku (~2h).
+- **16:48** **Fuji Excursion 44** from Kawaguchiko, arriving Shinjuku 18:48. (Earlier option: No. 36 at 14:58. Nothing runs in between.)
 - **19:00** Dinner in Shinjuku, easy night (big one is tomorrow).
 
 ### Day 4 · Tue Dec 8 — 🐱 Pokémon Centers, ⚡ Harry Potter & the BIG night
@@ -172,9 +172,9 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 ### Day 11 · Tue Dec 15 — Fly out from Hakone
 - **07:00** Breakfast at Yunohana. Skip the long soak this morning.
 - **07:45** **Taxi** from the hotel to **Odawara Station** (~40 min). Book it through the hotel ahead of time and ask for a **jumbo taxi** (or two regular taxis) for 4 people plus big suitcases; ~¥9,000 per regular car, more for a jumbo. The hotel's own shuttle to Odawara leaves at 10:45, which is too late for the flight. The local bus isn't practical with big suitcases.
-- **~08:40** **Shinkansen Odawara → Tokyo** (Hikari ~35 min, Kodama ~45 min). SmartEX ticket.
-- **~09:30** **Narita Express Tokyo → Narita Airport Terminal 2·3** (~55–60 min). Separate JR East ticket. Cathay flies from **Terminal 2**: get off at Terminal 2·3, which is the stop before the last.
-- **~10:30–11:00** At Narita Terminal 2, check in. Check-in closes ~60 min before departure, so leaving the hotel at 08:30 still works; 07:45 gives you a cushion for a slow taxi or a missed train. No Tokyo hotel tonight.
+- **08:56** **Kodama 800, Odawara → Tokyo**, arriving 09:30. SmartEX ticket, oversized-baggage seats.
+- **10:03** **Narita Express 15, Tokyo → Narita Airport Terminal 2·3** (~55 min). Separate JR East ticket. The N'EX platform is deep underground (Sobu Line platform 4); allow the full 30 minutes with bags. Cathay flies from **Terminal 2**: get off at Terminal 2·3, which is the stop before the last.
+- **~10:55** At Narita Terminal 2, check in. Check-in closes ~60 min before departure, so there's a cushion: if anything slips, the next Kodama (09:14) and N'EX (10:33) still get you there by ~11:30. No Tokyo hotel tonight.
 - **14:25** — **CX527 departs Narita** (everyone on the same flight)
 - **Rohan** → Mumbai, **Abhinav/Saksham/Vansh** → Bangalore
 

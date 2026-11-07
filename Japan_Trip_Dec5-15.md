@@ -73,13 +73,15 @@ Set up **SmartEX** and **JR-EAST Train Reservation** accounts before the first w
 
 **Pokémon Café:** both Tokyo (Dec 8) and Osaka (Dec 11–12) are **full**. Check [Tokyo](https://reserve.pokemon-cafe.jp/) and [Osaka](https://osaka.pokemon-cafe.jp/) for cancellations every day or two; booking stays open until 08:00 JST on the day. The plan below works without it.
 
-**Suica for everyone:** the Fuji Excursion seats are e-tickets that cover the seat only. Each person pays the fare by tapping their **own** IC card at the gates (~¥2,400 each way), and nothing needs collecting. iPhones: add Suica in Apple Wallet before the trip. Android phones from outside Japan can't, so buy a **Welcome Suica** card at Narita on Dec 5. The same card covers metros, buses, Kintetsu to Nara, lockers and konbini all trip.
-
 Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 
 **Day-of, no reservation:** Kyoto → Nara → Osaka (IC card). Hakone Free Pass **from Odawara**, 2-day, buy Dec 13 at the station (~¥6,000). It covers Dec 13–14 only.
 
 **Before you fly:**
+- **💳 Suica, one each.** It pays for trains, metros, buses, lockers and konbini all trip. The Fuji Excursion seats cover the seat only, so each person's Suica pays the fare at the gate (~¥2,400 each way).
+  - **iPhone:** Wallet → **+** → Transit Card → **Suica**, then top up with Apple Pay (most foreign cards work). Start with ~¥5,000.
+  - **Android** (bought outside Japan): can't add Suica. Buy a **Welcome Suica** card at Narita on Dec 5 (JR ticket machines or the JR East Travel Service Center).
+  - Tap in **and** out on every ride. Top up at any station machine (cash) or in Wallet.
 - Email Yunohana (`yunohana@princehotels.co.jp`): free car to the Ashi-no-yu bus stop or a **taxi at 07:45 on Dec 15** to Odawara Station, and dinner on Dec 14.
 
 ---

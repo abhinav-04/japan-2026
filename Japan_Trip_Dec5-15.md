@@ -61,7 +61,7 @@ Times below are **Eastern**. Japan sales at 10:00 JST open at 20:00 Eastern the 
 | **⚡ Harry Potter Studio Tour** · Tue Dec 8, ~14:00 | **Now** | Timed entry. **Non-refundable**, ¥1,500 per change | [wbstudiotour.jp](https://www.wbstudiotour.jp/en/tickets/) | ~¥6,600–7,000 |
 | **🚄 Skyliner** · Sat Dec 5, Narita → Keisei Ueno | **Now** (sold up to 30 days ahead) | One-way discount ticket; exchange at Narita with passport | [Skyliner e-ticket](https://www.keisei.co.jp/keisei/tetudou/skyliner/e-ticket/en/) | ~¥2,310 |
 | **🚄 Tokyo → Kyoto Nozomi** · Wed Dec 9, ~10:00 | **Sun Nov 8, 20:00** | **Seats D/E** (right side, Fuji), two pairs in adjacent rows | [SmartEX](https://smart-ex.jp/en/) | ~¥13,770 |
-| **🚄 Shin-Osaka → Odawara** · Sun Dec 13, ~08:30 | **Thu Nov 12, 20:00** | Hikari or Kodama. **Not Nozomi** (skips Odawara) | [SmartEX](https://smart-ex.jp/en/) | ~¥12,650 |
+| **🚄 Shin-Osaka → Odawara** · Sun Dec 13, **08:19 Hikari 642** | **Thu Nov 12, 20:00** | Only some Hikari stop at Odawara; this one arrives 10:38. **Not Nozomi** | [SmartEX](https://smart-ex.jp/en/) | ~¥12,650 |
 | **🚄 Odawara → Tokyo** · Tue Dec 15, ~08:40 | **Sat Nov 14, 20:00** | Any Hikari / Kodama | [SmartEX](https://smart-ex.jp/en/) | ~¥3,410 |
 | **🚄 Narita Express** Tokyo → Narita Airport T2·3 · Tue Dec 15, ~09:30 | **Sat Nov 14, 20:00** | Separate ticket from the Shinkansen | [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) | ~¥3,070 |
 | **🌇 Shibuya Sky** · Sat Dec 5, ~19:00 | **Fri Nov 20, 10:00** | Night slot. Bought from abroad = everyone shows their **original passport** at entry. Free cancel until the day before | [Shibuya Sky tickets](https://www.shibuya-scramble-square.com/sky/ticket/) | ~¥3,400 |
@@ -135,6 +135,7 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 - **11:30** Nishiki Market (lunch). **14:30** sake in Fushimi. **16:30** Gion at dusk.
 
 ### Day 7 · Fri Dec 11 — Nara → Osaka
+- **Luggage:** don't drag four big suitcases around Nara. On the evening of Dec 10, ask the Amanek front desk to send them by takkyubin to Prince Smart Inn Osaka (next-day delivery within Kansai; confirm the Osaka hotel will hold them). Carry a day bag. Backup: large lockers at Kintetsu-Nara station, which fill up early.
 - Morning **Nara** deer + Todai-ji + Kasuga Taisha. Afternoon train to Osaka.
 - Night: **Dotonbori** + Ura-Namba.
 
@@ -145,20 +146,26 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 - *Big-park option: swap today for Universal Studios + Super Nintendo World (book Express Pass + timed entry ahead).*
 
 ### Day 9 · Sun Dec 13 — Osaka → Hakone · art, then Lake Ashi
-- **08:30** Shinkansen Shin-Osaka → Odawara (**Hikari/Kodama only**). Sleep off last night. Buy the **Hakone Free Pass from Odawara** (2-day) at the station.
-- **11:30** **Hakone Open-Air Museum**: sculpture on the hillside, the Picasso pavilion, a hot-spring footbath. Lunch in Gora.
-- **15:00** Check in **The Prince Hakone Lake Ashinoko** (booked on Stages): yukata, onsen in daylight, dinner, soak again under the stars. Lake Ashi is right there.
+- **08:19** **Hikari 642** Shin-Osaka → Odawara, arrives **10:38**. Only a few Hikari stop at Odawara (roughly one every two hours: 08:19, 10:18, 12:18 …), so book this exact train; a Kodama takes ~3h15m. Not Nozomi. Check the train number on SmartEX when booking, since the December timetable can shift. Sleep off last night.
+- **10:45** Buy the **Hakone Free Pass from Odawara** (2-day) at the station. Hakone Tozan Line up to **Chokoku-no-mori** (~1 hour, change at Hakone-Yumoto).
+- **~12:00** **Hakone Open-Air Museum**: sculpture on the hillside, the Picasso pavilion, a hot-spring footbath. Lunch in Gora.
+- **~15:00** Down to the lake: taxi from Gora to The Prince Hakone (~20–25 min, split four ways) or Hakone Tozan bus to Moto-Hakone, then the hotel's free loop bus.
+- **15:30** Check in **The Prince Hakone Lake Ashinoko** (booked on Stages): yukata, onsen, dinner, soak again under the stars. Lake Ashi is right there.
 
 ### Day 10 · Mon Dec 14 — Hakone · 🗻 Mt. Fuji morning, move to Yunohana
-- **08:30** The Hakone loop **with Mt. Fuji across Lake Ashi**: Owakudani ropeway (black eggs), Lake Ashi pirate ship, the Hakone Shrine gate on the water. Different view from Dec 7's up-close visit. Clear mornings are best.
-- **~11:00** Check out of The Prince Hakone (leave bags at the front desk if you're still doing the loop).
+- **08:30** Check out of The Prince Hakone and **leave your bags at the front desk**. Checkout is 11:00 and the loop takes longer than that.
+- **08:45** Hotel's free loop bus to **Moto-Hakone**. Board the **pirate ship at Moto-Hakone**, not at Hakone-en next to the hotel (Hakone-en is a different boat company, not on the Free Pass).
+- **~09:15** Pirate ship Moto-Hakone → **Togendai** (~40 min) with **Mt. Fuji across Lake Ashi**. Clear mornings are best.
+- **~10:00** **Hakone Ropeway** Togendai → **Owakudani** (black eggs, steam vents, Fuji). **Dec 7–24 the Owakudani → Sounzan half is a replacement bus**, so go up and back from the Togendai side, which runs normally. Ropeway hours in December: 09:00–16:15.
+- **~11:30** Ropeway back to Togendai, pirate ship back to **Moto-Hakone**, walk to the **Hakone Shrine** gate on the water.
+- **~13:30** Loop bus back to The Prince Hakone to collect your bags.
 - **Afternoon** Move to **Yunohana Prince Hotel** (booked on Stages) in **Ashinoyu**, up the hill from Lake Ashi. It's close, so don't go down to Odawara:
   - Prince Hakone free loop bus → **Moto-Hakone**.
   - **Hakone Tozan Bus route H** (covered by the Free Pass) or Izu Hakone Bus route Z (not covered) toward Odawara. Get off at **Ashi-no-yu**, about 20 min.
   - Call the hotel on arrival (**0460-83-5112**). Free pickup, about 5 min. Ashi-no-yu stop to the hotel is ~2 km uphill, so don't walk it.
   - Or a taxi from the lake, about 15–20 min.
 - **Before 18:00** Check in at Yunohana if you want dinner (last dinner order 18:00). Check-in from 15:00.
-- **19:00** Last dinner + long soak, one of the highest open-air baths in Hakone. Cloudy morning? Swap the loop to the afternoon; the 2-day Free Pass covers the 13th and 14th.
+- **19:00** Last dinner + long soak, one of the highest open-air baths in Hakone. Cloudy morning? Swap the loop to the afternoon (last ropeway 16:15); the 2-day Free Pass covers the 13th and 14th.
 
 ### Day 11 · Tue Dec 15 — Fly out from Hakone
 - **07:00** Breakfast at Yunohana. Skip the long soak this morning.

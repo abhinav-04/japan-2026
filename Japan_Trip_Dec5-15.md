@@ -43,35 +43,42 @@ Same flight out = easier last morning, no split groups.
 
 **Already booked on Stages (every night is covered):** Akihabara Washington Hotel (Dec 5–9), Amanek Kyoto (Dec 9–11), Prince Smart Inn Osaka Yodoyabashi (Dec 11–13), The Prince Hakone Lake Ashinoko (Dec 13–14), Yunohana Prince Hotel (Dec 14–15).
 
-### Book now (on sale today)
+Times below are **Eastern**. Japan sales at 10:00 JST open at 20:00 Eastern the night before.
 
-| What | When | Why | Cost |
-|------|------|-----|------|
-| **⚡ Harry Potter Studio Tour** | Dec 8 · 14:00-ish | Timed entry. Tuesday, so easier than a weekend, still books up. | ~¥6,300 pp |
-| **✨ teamLab Planets** | Dec 6 · 14:00 | Timed entry. | ~¥3,800 pp |
-| **🌇 Shibuya Sky** | Dec 5 · ~19:00 | First night. | ~¥2,200 pp |
-| **🏎️ City Circuit Tokyo Bay** (EV karts) | Dec 6 · ~16:30 | **No driver's licence needed.** Online booking opens 7 days ahead (from Nov 29), or walk in. | ~¥7,000 pp (20 min) |
-| **🚄 Skyliner** | Dec 5 · Narita → Keisei Ueno (then JR to Akihabara) | After you meet at the airport. Cancellable before you exchange the voucher. | ~¥2,310 pp online |
+### Crucial first (these sell out fast)
 
-### Book the morning the window opens (Japan time)
+1. **🗻 Fuji Excursion, Dec 7** — on sale since Nov 6. Book both directions, 4 seats together, as soon as possible.
+2. **🚄 Tokyo → Kyoto, seats D/E, Dec 9** — opens **Sun Nov 8, 20:00**. The right-side Fuji seats go first.
+3. **✨ teamLab Planets, Sun Dec 6** — on sale now. Weekend slots fill 3–4 weeks ahead.
+4. **🌇 Shibuya Sky, Sat Dec 5** — opens **Fri Nov 20, 10:00** (exactly 14 days ahead).
 
-Seat maps for the Fuji view are **not** open yet. A year-ahead Shinkansen booking assigns a seat later and will not let you pick the Fuji side. Wait, then grab seats together.
+### Everything still to book
 
-| What | Opens | Seats |
-|------|--------|--------|
-| **🗻 Fuji Excursion** Shinjuku → Shimoyoshida / Kawaguchiko, and the return | **Sat Nov 7, 10:00** | All seats reserved. Book both ways the morning it opens or the four of you get split. JR-EAST Train Reservation. |
-| **🐱 Pokémon Café** | **~Sun Nov 1, 18:00 JST** | No longer 31 days ahead: the whole of December usually opens at once on the 1st of the month before. Watch the café's news page for the exact date. Gone in minutes. |
-| **🚄 Tokyo → Kyoto Nozomi** ~10:00 | **Mon Nov 9, 10:00** | **Right side, seats D and E** (two pairs, adjacent rows). That is the Fuji side. SmartEX ordinary reserved. |
-| **🚄 Shin-Osaka → Odawara** Hikari or Kodama | **Fri Nov 13, 10:00** | **Not Nozomi** (it skips Odawara). |
-| **🚄 Odawara → Tokyo** Shinkansen, then **Narita Express** Tokyo → Narita Airport Terminal 2·3 | **Sun Nov 15, 10:00** | Dec 15 airport run. Two separate tickets (SmartEX + JR East). |
+| What | Book when | Pick | Book here | ~pp |
+|------|-----------|------|-----------|-----|
+| **🗻 Fuji Excursion** Shinjuku → Shimoyoshida **+ return** from Kawaguchiko | **Now** | Earliest morning (~07:30) out, afternoon back. 4 together | [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) | ~¥8,210 |
+| **✨ teamLab Planets** · Sun Dec 6, 14:00 | **Now** | Timed entry; changeable up to 3 times | [teamLab Planets store](https://teamlabplanets.dmm.com/en) | from ¥3,800 |
+| **⚡ Harry Potter Studio Tour** · Tue Dec 8, ~14:00 | **Now** | Timed entry. **Non-refundable**, ¥1,500 per change | [wbstudiotour.jp](https://www.wbstudiotour.jp/en/tickets/) | ~¥6,600–7,000 |
+| **🚄 Skyliner** · Sat Dec 5, Narita → Keisei Ueno | **Now** (sold up to 30 days ahead) | One-way discount ticket; exchange at Narita with passport | [Skyliner e-ticket](https://www.keisei.co.jp/keisei/tetudou/skyliner/e-ticket/en/) | ~¥2,310 |
+| **🚄 Tokyo → Kyoto Nozomi** · Wed Dec 9, ~10:00 | **Sun Nov 8, 20:00** | **Seats D/E** (right side, Fuji), two pairs in adjacent rows | [SmartEX](https://smart-ex.jp/en/) | ~¥13,770 |
+| **🚄 Shin-Osaka → Odawara** · Sun Dec 13, ~08:30 | **Thu Nov 12, 20:00** | Hikari or Kodama. **Not Nozomi** (skips Odawara) | [SmartEX](https://smart-ex.jp/en/) | ~¥12,650 |
+| **🚄 Odawara → Tokyo** · Tue Dec 15, ~08:40 | **Sat Nov 14, 20:00** | Any Hikari / Kodama | [SmartEX](https://smart-ex.jp/en/) | ~¥3,410 |
+| **🚄 Narita Express** Tokyo → Narita Airport T2·3 · Tue Dec 15, ~09:30 | **Sat Nov 14, 20:00** | Separate ticket from the Shinkansen | [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) | ~¥3,070 |
+| **🌇 Shibuya Sky** · Sat Dec 5, ~19:00 | **Fri Nov 20, 10:00** | Night slot. Bought from abroad = everyone shows their **original passport** at entry. Free cancel until the day before | [Shibuya Sky tickets](https://www.shibuya-scramble-square.com/sky/ticket/) | ~¥3,400 |
+| **🏎️ City Circuit Tokyo Bay** (EV karts) · Sun Dec 6, ~16:30 | **From Sun Nov 29** (7 days ahead), or walk in | **No driver's licence needed.** 20-min session (17 min driving) | [city-circuit.com](https://city-circuit.com/en/base/) | ~¥7,000 |
+
+Set up **SmartEX** and **JR-EAST Train Reservation** accounts before the first window; one person books all four seats. Buy normal reserved SmartEX tickets, not Hayatoku (normal ones cost ~¥320 to change or cancel before departure).
+
+**Pokémon Café:** both Tokyo (Dec 8) and Osaka (Dec 11–12) are **full**. Check [Tokyo](https://reserve.pokemon-cafe.jp/) and [Osaka](https://osaka.pokemon-cafe.jp/) for cancellations every day or two; booking stays open until 08:00 JST on the day. The plan below works without it.
+
+**Fuji Excursion backup:** JR Kaiji or Azusa Shinjuku → Otsuki (also on JR-EAST Train Reservation), then the Fujikyu local to Shimoyoshida on IC card (~2h15m).
 
 Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 
 **Day-of, no reservation:** Kyoto → Nara → Osaka (IC card). Hakone Free Pass **from Odawara**, 2-day, buy Dec 13 at the station (~¥6,000). It covers Dec 13–14 only.
 
 **Before you fly:**
-- eSIMs.
-- Email Yunohana (`yunohana@princehotels.co.jp`): book a **taxi for 07:45 on Dec 15** to Odawara Station, and ask about dinner on Dec 14.
+- Email Yunohana (`yunohana@princehotels.co.jp`): free car to the Ashi-no-yu bus stop or a **taxi at 07:45 on Dec 15** to Odawara Station, and dinner on Dec 14.
 
 ---
 
@@ -110,10 +117,11 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 - **16:30** Train back to Shinjuku (~2h).
 - **19:00** Dinner in Shinjuku, easy night (big one is tomorrow).
 
-### Day 4 · Tue Dec 8 — 🐱 Pokémon Café, ⚡ Harry Potter & the BIG night
+### Day 4 · Tue Dec 8 — 🐱 Pokémon Centers, ⚡ Harry Potter & the BIG night
 - **09:00** **The viral sandwiches**: a fruit sando (whole-fruit cross-sections in cream) + a konbini tamago sando.
-- **11:00** **Pokémon Café** (Nihonbashi), your reserved slot. Pokémon Center upstairs.
-- **14:00** **Harry Potter, Warner Bros. Studio Tour Tokyo** (Nerima), ~4 hours: the Great Hall, Diagon Alley, butterbeer.
+- **10:00** **Pokémon Center Tokyo DX** (Nihonbashi Takashimaya), walk-in. The Pokémon Café is next door; it's full, so only go in if a cancellation came up.
+- **12:00** **Pokémon Center Mega Tokyo** (Ikebukuro, the biggest one), walk-in, plus lunch. You change trains at Ikebukuro for Harry Potter anyway.
+- **14:00** **Harry Potter, Warner Bros. Studio Tour Tokyo** (Nerima), ~4 hours: the Great Hall, Diagon Alley, butterbeer. Seibu Line from Ikebukuro to Toshimaen, ~15 min.
 - **19:30** Shinjuku: Omoide Yokocho → **Golden Gai** (200 tiny bars, go all in).
 - **01:00** **Ichiran Ramen**, the 1am solo booth experience. Tomorrow is a sleep-on-the-train travel day, so this works. Last trains are ~00:30, so taxi back to Akihabara (~25 min, ~¥5–6k for the car).
 
@@ -175,8 +183,8 @@ December has the best Fuji visibility of the year. Clear mornings are peak.
 
 ## 🎢 The bookable experiences, in one place
 
-- **Pokémon Café** (Dec 8) — December reservations likely open ~Nov 1, 18:00 JST. Gone in minutes.
-- **Harry Potter Studio Tour** (Dec 8) — timed entry, book weeks ahead.
+- **Pokémon Centers** (Dec 8, Nihonbashi + Ikebukuro) — walk-in. Pokémon Café is full; watch for cancellations.
+- **Harry Potter Studio Tour** (Dec 8) — timed entry, non-refundable.
 - **City Circuit Tokyo Bay** (Dec 6, ~16:30) — EV karts in Odaiba, no licence needed. Book from Nov 29 or walk in.
 - **The viral sandwiches** (Dec 8) — no booking: fruit sando + konbini tamago sando.
 - **Nintendo TOKYO / Pokémon Center / Capcom** (Dec 5, PARCO 6F) — walk-in.
@@ -244,6 +252,6 @@ The JR Pass is ~¥50k and skips Nozomi. **Nozomi skips Odawara**, so book Hikari
 Real jacket + gloves + hat (December is cold), kairo heat packs, comfy shoes (20k+ steps daily), slip-ons (ryokan/temples), portable battery, roll-up pants (teamLab), passport for tax-free, a small bag for trash.
 ---
 
-**Fixed points:** the flights (NRT arrivals/departures), Mt. Fuji Dec 7, Pokémon Café + Harry Potter Dec 8, Hakone Dec 13 to 15 (hotels booked on Stages). Everything else can flex.
+**Fixed points:** the flights (NRT arrivals/departures), Mt. Fuji Dec 7, Harry Potter Dec 8, Hakone Dec 13 to 15 (hotels booked on Stages). Everything else can flex.
 
 Have fun. 🎌

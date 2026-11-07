@@ -84,12 +84,33 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 
 ---
 
+## 🚆 Train plan
+
+Every train ride on the trip. The days below refer to these IDs. "~" times are approximate (frequent trains, pick any near that time).
+
+| ID | Date | Train | From → To | Dep → Arr | Ticket | Seats |
+|----|------|-------|-----------|-----------|--------|-------|
+| **T1** | Sat Dec 5 | Skyliner | Narita Airport T2·3 → Keisei Ueno | ~15:00 → ~15:45 | Skyliner e-ticket (book ahead) | Reserved; luggage space on board |
+| **T2** | Mon Dec 7 | **Fuji Excursion 3** | Shinjuku → Shimoyoshida | **07:30 → 09:13** | JR-EAST Train Reservation | 4 together |
+| **T3** | Mon Dec 7 | **Fuji Excursion 44** | Kawaguchiko → Shinjuku | **16:48 → 18:48** | JR-EAST Train Reservation | 4 together (earlier option: No. 36, 14:58 → 16:59) |
+| **T4** | Wed Dec 9 | **Nozomi** (first from 10:00) | Tokyo → Kyoto | ~10:00 → ~12:15 | SmartEX | Oversized-baggage seats, last-row **D/E** (two bookings, two cars) |
+| **T5** | Fri Dec 11 | Kintetsu Express | Kintetsu Kyoto → Kintetsu-Nara | ~08:45 → ~09:30 | IC card, no booking | — |
+| **T6** | Fri Dec 11 | Kintetsu Rapid Express | Kintetsu-Nara → Osaka-Namba | ~14:00 → ~14:40 | IC card, no booking | — |
+| **T7** | Sun Dec 13 | **Hikari 642** | Shin-Osaka → Odawara | **08:19 → 10:38** | SmartEX | Oversized-baggage seats |
+| **T8** | Sun Dec 13 | Hakone Tozan Line | Odawara → Hakone-Yumoto → Chokoku-no-mori | ~10:50 → ~12:00 (with the luggage drop at Hakone-Yumoto) | Hakone Free Pass | — |
+| **T9** | Tue Dec 15 | **Kodama 800** | Odawara → Tokyo | **08:56 → 09:30** | SmartEX | Oversized-baggage seats |
+| **T10** | Tue Dec 15 | **Narita Express 15** | Tokyo → Narita Airport T2·3 | **10:03 → ~10:55** | JR-EAST Train Reservation | Reserved; luggage racks |
+
+Backups: **T2** sold out → JR Kaiji/Azusa to Otsuki + Fujikyu local. **T7** gone → Hikari at 10:18. **T9/T10** slip → Kodama 09:14 + N'EX 10:33.
+
+---
+
 ## 📅 The Days
 
 ### Day 1 · Sat Dec 5 — Arrive Tokyo & ease in
 - **~12:00-13:00** Vansh lands from Canada, waits at Narita arrivals.
 - **~14:05** Rohan/Abhinav/Saksham land from Hong Kong stopover, meet at airport.
-- **~15:00** Everyone together, Skyliner to Keisei Ueno (~45 min), then JR Yamanote two stops to Akihabara.
+- **~15:00** Everyone together. 🚆 **T1** Skyliner to Keisei Ueno (~45 min), then JR Yamanote two stops to Akihabara.
 - **~16:30** At **Akihabara Washington Hotel** (check-in from 14:00), drop bags, grab late lunch, ease in. Shibuya is ~25 min away on the JR Yamanote Line.
 - **17:30** **Nintendo TOKYO** + Pokémon Center + Capcom (Shibuya PARCO 6F), ten minutes from Shibuya Sky. Passport for tax-free.
 - **19:00** **Shibuya Sky** at night (booked ahead).
@@ -107,7 +128,7 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 
 ### Day 3 · Mon Dec 7 — 🗻 Mt. Fuji Day Trip (Kawaguchiko + Chureito Pagoda)
 - **06:55** Leave the hotel for Shinjuku (JR Chuo Rapid from Kanda/Ochanomizu or the Sobu Line, ~20 min).
-- **07:30** **Fuji Excursion 3** from Shinjuku, straight through to Shimoyoshida. Bring the camera.
+- **07:30** 🚆 **T2** Fuji Excursion 3 from Shinjuku, straight through to Shimoyoshida. Bring the camera.
 - **09:13** Arrive Shimoyoshida.
 - **09:35** Walk to Chureito Pagoda base (15 min).
 - **09:50** Climb 400 steps to **Chureito Pagoda** → THE iconic Mt. Fuji shot (5-story pagoda with Fuji behind).
@@ -116,7 +137,7 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 - **13:00** Lunch with a Fuji view (**hoto noodles**, local specialty).
 - **14:30** **Oishi Park** (lakeside flowers/Fuji view) **OR** skip park and take **Mt. Fuji Panoramic Ropeway** for elevated views.
   - *Note: Iyashi no Sato village is a separate bus trip ~30 min away; only choose this if skipping the ropeway entirely.*
-- **16:48** **Fuji Excursion 44** from Kawaguchiko, arriving Shinjuku 18:48. (Earlier option: No. 36 at 14:58. Nothing runs in between.)
+- **16:48** 🚆 **T3** Fuji Excursion 44 from Kawaguchiko, arriving Shinjuku 18:48. (Earlier option: No. 36 at 14:58. Nothing runs in between.)
 - **19:00** Dinner in Shinjuku, easy night (big one is tomorrow).
 
 ### Day 4 · Tue Dec 8 — 🐱 Pokémon Centers, ⚡ Harry Potter & the BIG night
@@ -129,7 +150,8 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 
 ### Day 5 · Wed Dec 9 — Tokyo → Kyoto
 - Sleep in, doze on the train: this is recovery after the Shinjuku night.
-- **10:00** Shinkansen to Kyoto (2h15). **Sit RIGHT (seats D/E)**, last row with the oversized-baggage space — you might catch Fuji again ~40 min out (you already saw it up close!).
+- **~09:30** Check out; JR Yamanote Line from Akihabara to Tokyo Station (4 min).
+- **~10:00** 🚆 **T4** Nozomi to Kyoto (2h15). **Sit RIGHT (seats D/E)**, last row with the oversized-baggage space — you might catch Fuji again ~40 min out (you already saw it up close!).
 - **~12:15** Kyoto Station → Amanek by **taxi** (~10–15 min; two taxis or a jumbo with the suitcases). City buses are packed and bad with big bags. Drop bags; check-in from 15:00.
 - **15:00** **Fushimi Inari** at dusk. **19:00** Pontocho + Kiyamachi.
 
@@ -139,8 +161,11 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 
 ### Day 7 · Fri Dec 11 — Nara → Osaka
 - **Luggage:** bring it along. Coin lockers at Kintetsu-Nara station if you want to walk the park hands-free (large ones fill up early).
-- Morning **Nara** deer + Todai-ji + Kasuga Taisha. Afternoon train to Osaka.
-- Night: **Dotonbori** + Ura-Namba.
+- **~08:15** Check out of Amanek; taxi to Kyoto Station (~10–15 min).
+- **~08:45** 🚆 **T5** Kintetsu Kyoto → Kintetsu-Nara (~45 min).
+- **~09:45** **Nara** deer + Todai-ji + Kasuga Taisha. Lunch in Nara.
+- **~14:00** 🚆 **T6** Kintetsu-Nara → Osaka-Namba (~40 min), then Midosuji subway to Yodoyabashi (~6 min). Self check-in at Prince Smart Inn from 15:00.
+- Night: **Dotonbori** + Ura-Namba (Midosuji back to Namba).
 
 ### Day 8 · Sat Dec 12 — Osaka (the big night)
 - Kuromon Market, Osaka Castle, Shinsekai kushikatsu.
@@ -149,8 +174,9 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 - *Big-park option: swap today for Universal Studios + Super Nintendo World (book Express Pass + timed entry ahead).*
 
 ### Day 9 · Sun Dec 13 — Osaka → Hakone · art, then Lake Ashi
-- **08:19** **Hikari 642** Shin-Osaka → Odawara, arrives **10:38**. Only a few Hikari stop at Odawara (roughly one every two hours: 08:19, 10:18, 12:18 …), so book this exact train; a Kodama takes ~3h15m. Not Nozomi. Check the train number on SmartEX when booking, since the December timetable can shift. Sleep off last night.
-- **10:45** Buy the **Hakone Free Pass from Odawara** (2-day) at the station. Hakone Tozan Line to **Hakone-Yumoto** (~15 min).
+- **~07:55** Midosuji Line from Yodoyabashi straight to Shin-Osaka (~15 min).
+- **08:19** 🚆 **T7** Hikari 642 Shin-Osaka → Odawara, arrives **10:38**. Only a few Hikari stop at Odawara (roughly one every two hours: 08:19, 10:18, 12:18 …), so book this exact train; a Kodama takes ~3h15m. Not Nozomi. Check the train number on SmartEX when booking, since the December timetable can shift. Sleep off last night.
+- **10:45** Buy the **Hakone Free Pass from Odawara** (2-day) at the station. 🚆 **T8** Hakone Tozan Line to **Hakone-Yumoto** (~15 min).
 - **~11:15** At Hakone-Yumoto, drop the big bags at the **[Hakone Luggage Transport Service](https://www.hakonenavi.jp/hakone-luggage-transport-service/en/)** counter in the station (**by 12:00**). They deliver them to The Prince Hakone after 15:00. ~¥2,500 per large bag (up to 200 cm / 30 kg); you can book online the same morning. Then continue up to **Chokoku-no-mori** with day bags (~45 min).
 - **~12:00** **Hakone Open-Air Museum**: sculpture on the hillside, the Picasso pavilion, a hot-spring footbath. Lunch in Gora.
 - **~15:00** Down to the lake: taxi from Gora to The Prince Hakone (~20–25 min, split four ways) or Hakone Tozan bus to Moto-Hakone, then the hotel's free loop bus.
@@ -172,8 +198,8 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 ### Day 11 · Tue Dec 15 — Fly out from Hakone
 - **07:00** Breakfast at Yunohana. Skip the long soak this morning.
 - **07:45** **Taxi** from the hotel to **Odawara Station** (~40 min). Book it through the hotel ahead of time and ask for a **jumbo taxi** (or two regular taxis) for 4 people plus big suitcases; ~¥9,000 per regular car, more for a jumbo. The hotel's own shuttle to Odawara leaves at 10:45, which is too late for the flight. The local bus isn't practical with big suitcases.
-- **08:56** **Kodama 800, Odawara → Tokyo**, arriving 09:30. SmartEX ticket, oversized-baggage seats.
-- **10:03** **Narita Express 15, Tokyo → Narita Airport Terminal 2·3** (~55 min). Separate JR East ticket. The N'EX platform is deep underground (Sobu Line platform 4); allow the full 30 minutes with bags. Cathay flies from **Terminal 2**: get off at Terminal 2·3, which is the stop before the last.
+- **08:56** 🚆 **T9** Kodama 800, Odawara → Tokyo, arriving 09:30. SmartEX ticket, oversized-baggage seats.
+- **10:03** 🚆 **T10** Narita Express 15, Tokyo → Narita Airport Terminal 2·3 (~55 min). Separate JR East ticket. The N'EX platform is deep underground (Sobu Line platform 4); allow the full 30 minutes with bags. Cathay flies from **Terminal 2**: get off at Terminal 2·3, which is the stop before the last.
 - **~10:55** At Narita Terminal 2, check in. Check-in closes ~60 min before departure, so there's a cushion: if anything slips, the next Kodama (09:14) and N'EX (10:33) still get you there by ~11:30. No Tokyo hotel tonight.
 - **14:25** — **CX527 departs Narita** (everyone on the same flight)
 - **Rohan** → Mumbai, **Abhinav/Saksham/Vansh** → Bangalore

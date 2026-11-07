@@ -10,7 +10,7 @@
 
 ## 🎯 The Plan
 
-Relaxed yet adventurous. Mt. Fuji up close at Kawaguchiko, Pokémon Café, Harry Potter, the Tokyo Drift go-karts, Hakone hot springs with more Fuji views, and the best nightlife in Japan. The big nights land early (Osaka Saturday, Shinjuku), so you finish on an onsen soak instead of wrecked before a flight.
+Relaxed yet adventurous. Mt. Fuji up close at Kawaguchiko, Pokémon, Harry Potter, go-karts on an Odaiba circuit, Hakone hot springs with more Fuji views, and the best nightlife in Japan. The big nights land early (Osaka Saturday, Shinjuku), so you finish on an onsen soak instead of wrecked before a flight.
 
 **Energy flow:**
 ```
@@ -50,7 +50,7 @@ Same flight out = easier last morning, no split groups.
 | **⚡ Harry Potter Studio Tour** | Dec 8 · 14:00-ish | Timed entry. Tuesday, so easier than a weekend, still books up. | ~¥6,300 pp |
 | **✨ teamLab Planets** | Dec 6 · 14:00 | Timed entry. | ~¥3,800 pp |
 | **🌇 Shibuya Sky** | Dec 5 · ~19:00 | First night. | ~¥2,200 pp |
-| **🏎️ Street Kart** | Dec 6 · 17:00 | Every driver needs a 1949 Geneva IDP booklet first (India RTO, or CAA for Vansh). | ~¥9,000 pp |
+| **🏎️ City Circuit Tokyo Bay** (EV karts) | Dec 6 · ~16:30 | **No driver's licence needed.** Online booking opens 7 days ahead (from Nov 29), or walk in. | ~¥7,000 pp (20 min) |
 | **🚄 Skyliner** | Dec 5 · Narita → Keisei Ueno (then JR to Akihabara) | After you meet at the airport. Cancellable before you exchange the voucher. | ~¥2,310 pp online |
 
 ### Book the morning the window opens (Japan time)
@@ -70,8 +70,6 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 **Day-of, no reservation:** Kyoto → Nara → Osaka (IC card). Hakone Free Pass **from Odawara**, 2-day, buy Dec 13 at the station (~¥6,000). It covers Dec 13–14 only.
 
 **Before you fly:**
-- International Driving Permit (1949 Geneva, paper booklet) for every kart driver, from the country that issued your licence: India RTO for an Indian licence, **CAA** for a Canadian licence. Carry it with the original licence and passport. You cannot get one in Japan.
-- At Narita, use a staffed immigration lane so your passport gets an entry stamp (the IDP is valid one year from landing; automated gates skip the stamp).
 - eSIMs.
 - Email Yunohana (`yunohana@princehotels.co.jp`): book a **taxi for 07:45 on Dec 15** to Odawara Station, and ask about dinner on Dec 14.
 
@@ -89,12 +87,14 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 - **20:30** Izakaya dinner, then **Nonbei Yokocho** tiny bars.
 - Rule #1: stay awake till 10 PM, no naps!
 
-### Day 2 · Sun Dec 6 — Tokyo culture day
-- **10:00** Asakusa (Senso-ji + Nakamise) → **Kappabashi** kitchen street.
+### Day 2 · Sun Dec 6 — Asakusa, teamLab, karts in Odaiba
+- **10:00** Asakusa (Senso-ji + Nakamise) → **Kappabashi** kitchen street. Tsukuba Express from Akihabara, 5 min.
 - **12:30** Lunch in Asakusa (tempura or sushi).
-- **14:00** **teamLab Planets** (timed, wear roll-up pants).
-- **17:00** **Street Kart, the Tokyo Drift run** through Akihabara after dark, winter lights on (bring your IDP, licence, and passport).
-- **19:30** Dinner in Shibuya or Harajuku, then a chill drink. Early-ish night: the Fuji train leaves Shinjuku at 07:20 tomorrow, about 20 min from Akihabara on the JR Chuo Line.
+- **14:00** **teamLab Planets** in Toyosu (timed, wear roll-up pants). ~40 min from Asakusa by subway.
+- **~16:15** Yurikamome Line, Shin-Toyosu → Aomi (~10 min).
+- **~16:30** **City Circuit Tokyo Bay**: electric go-karts on a real outdoor track, up to 50 km/h. No licence needed, gear provided. Take the 20-min session (17 min of driving).
+- **~17:45** Odaiba after dark: the life-size **Gundam** at DiverCity (5 min walk), Rainbow Bridge lit up from Odaiba Seaside Park. Optional: **Tokyo Joypolis** (Sega's indoor arcade/theme park) if it's open late.
+- **19:00** Dinner at DiverCity or Aqua City, then back to Akihabara (~35 min: Yurikamome to Shimbashi, then JR). Early-ish night: the Fuji train leaves Shinjuku at 07:20 tomorrow, about 20 min from Akihabara on the JR Chuo Line.
 
 ### Day 3 · Mon Dec 7 — 🗻 Mt. Fuji Day Trip (Kawaguchiko + Chureito Pagoda)
 - **06:50** Leave the hotel for Shinjuku (JR Chuo Rapid from Kanda/Ochanomizu or the Sobu Line, ~20 min).
@@ -177,7 +177,7 @@ December has the best Fuji visibility of the year. Clear mornings are peak.
 
 - **Pokémon Café** (Dec 8) — December reservations likely open ~Nov 1, 18:00 JST. Gone in minutes.
 - **Harry Potter Studio Tour** (Dec 8) — timed entry, book weeks ahead.
-- **Street Kart / Tokyo Drift** (Dec 6 evening) — needs an IDP (India RTO or CAA) + operator booking.
+- **City Circuit Tokyo Bay** (Dec 6, ~16:30) — EV karts in Odaiba, no licence needed. Book from Nov 29 or walk in.
 - **The viral sandwiches** (Dec 8) — no booking: fruit sando + konbini tamago sando.
 - **Nintendo TOKYO / Pokémon Center / Capcom** (Dec 5, PARCO 6F) — walk-in.
 
@@ -187,7 +187,7 @@ December has the best Fuji visibility of the year. Clear mornings are peak.
 
 **Booked on Stages** (confirmations filed there). Two rooms where noted; Hakone is one room for four each night.
 
-- **Tokyo, Dec 5 to 9 · booked:** **Akihabara Washington Hotel** — 2 Double rooms (non-smoking), 4 adults. 1-8-3 Sakumacho, Kanda, Chiyoda-ku. Check-in after 14:00, check-out before 11:00 Dec 9. Pay at the hotel at check-in. Doubles mean pairs share a bed. Akihabara is 2 stops from Ueno (Skyliner), ~4 min to Tokyo Station (Dec 9 Shinkansen), and the street karts start nearby.
+- **Tokyo, Dec 5 to 9 · booked:** **Akihabara Washington Hotel** — 2 Double rooms (non-smoking), 4 adults. 1-8-3 Sakumacho, Kanda, Chiyoda-ku. Check-in after 14:00, check-out before 11:00 Dec 9. Pay at the hotel at check-in. Doubles mean pairs share a bed. Akihabara is 2 stops from Ueno (Skyliner), ~4 min to Tokyo Station (Dec 9 Shinkansen).
 - **Kyoto, Dec 9 to 11 · booked:** **HOTEL AMANEK Kyoto Kawaramachi Gojo** — 2 rooms, 4 adults. Check-in from 15:00 Dec 9, check-out 11:00 Dec 11. Near Keihan Kiyomizu-Gojo / Kawaramachi-Gojo.
 - **Osaka, Dec 11 to 13 · booked:** **Prince Smart Inn Osaka Yodoyabashi** — 2 double rooms, 4 adults. Address: 4-2-7 Koraibashi, Chuo-ku. Free WiFi, all rooms non-smoking, no parking. Self check-in by machine after 15:00, check-out before 11:00. Free breakfast (onigiri, miso soup, a drink) 07:00–10:00 in the B1F Smart Lounge. Luggage lockers on site.
 - **Hakone night 1, Dec 13 to 14 · booked:** **The Prince Hakone Lake Ashinoko** — 1 Superior Twin Room for 4 (non-smoking). Lake Ashi shore. Bath tax ¥150 pp/night at the hotel.
@@ -203,7 +203,7 @@ The trip ends in Hakone. No Tokyo hotel on Dec 14–15; fly out from Narita the 
 |------|------|
 | Hotels, all 10 nights | booked, see Stages |
 | Mt. Fuji day trip (trains + lunch + entry) | ~¥12k |
-| Harry Potter + Pokémon Café + Street Kart | ~¥18k |
+| Harry Potter + teamLab + Shibuya Sky + karts | ~¥21k |
 | Trains (individual + Hakone Pass + Dec 15 taxi) | ~¥42.5k |
 | Food / nightlife / other activities | ¥12k to 20k / day range |
 | **TOTAL (no flights, no hotels)** | **~¥190k to 270k** |
@@ -241,8 +241,7 @@ The JR Pass is ~¥50k and skips Nozomi. **Nozomi skips Odawara**, so book Hikari
 
 ## 🎒 Pack for December
 
-Real jacket + gloves + hat (December is cold), kairo heat packs, comfy shoes (20k+ steps daily), slip-ons (ryokan/temples), portable battery, roll-up pants (teamLab), passport for tax-free, a small bag for trash. **And the IDP + licence for the go-karts.**
-
+Real jacket + gloves + hat (December is cold), kairo heat packs, comfy shoes (20k+ steps daily), slip-ons (ryokan/temples), portable battery, roll-up pants (teamLab), passport for tax-free, a small bag for trash.
 ---
 
 **Fixed points:** the flights (NRT arrivals/departures), Mt. Fuji Dec 7, Pokémon Café + Harry Potter Dec 8, Hakone Dec 13 to 15 (hotels booked on Stages). Everything else can flex.

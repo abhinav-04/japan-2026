@@ -43,20 +43,20 @@ Same flight out = easier last morning, no split groups.
 
 **Already booked on Stages (every night is covered):** Akihabara Washington Hotel (Dec 5–9), Amanek Kyoto (Dec 9–11), Prince Smart Inn Osaka Yodoyabashi (Dec 11–13), The Prince Hakone Lake Ashinoko (Dec 13–14), Yunohana Prince Hotel (Dec 14–15).
 
+**✅ Also booked:** 🗻 Fuji Excursion both ways on Mon Dec 7 (**T2** and **T3** below), 4 seats together, Fuji-side seats on the way out.
+
 Times below are **Eastern**. Japan sales at 10:00 JST open at 20:00 Eastern the night before.
 
 ### Crucial first (these sell out fast)
 
-1. **🗻 Fuji Excursion, Dec 7** — on sale since Nov 6. Book both directions, 4 seats together, as soon as possible.
-2. **🚄 Tokyo → Kyoto, seats D/E, Dec 9** — opens **Sun Nov 8, 20:00**. The right-side Fuji seats go first.
-3. **✨ teamLab Planets, Sun Dec 6** — on sale now. Weekend slots fill 3–4 weeks ahead.
-4. **🌇 Shibuya Sky, Sat Dec 5** — opens **Fri Nov 20, 10:00** (exactly 14 days ahead).
+1. **🚄 Tokyo → Kyoto, seats D/E, Dec 9** — opens **Sun Nov 8, 20:00**. The right-side Fuji seats go first.
+2. **✨ teamLab Planets, Sun Dec 6** — on sale now. Weekend slots fill 3–4 weeks ahead.
+3. **🌇 Shibuya Sky, Sat Dec 5** — opens **Fri Nov 20, 10:00** (exactly 14 days ahead).
 
 ### Everything still to book
 
 | What | Book when | Pick | Book here | ~pp |
 |------|-----------|------|-----------|-----|
-| **🗻 Fuji Excursion** Shinjuku → Shimoyoshida **+ return** from Kawaguchiko · Mon Dec 7 | **Now** | Out: **Fuji Excursion 3**, Shinjuku 07:30 → Shimoyoshida 09:13. Back: **Fuji Excursion 44**, Kawaguchiko 16:48 → Shinjuku 18:48 (or No. 36 at 14:58). 4 together | [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) | ~¥8,210 |
 | **✨ teamLab Planets** · Sun Dec 6, 14:00 | **Now** | Timed entry; changeable up to 3 times | [teamLab Planets store](https://teamlabplanets.dmm.com/en) | from ¥3,800 |
 | **⚡ Harry Potter Studio Tour** · Tue Dec 8, ~14:00 | **Now** | Timed entry. **Non-refundable**, ¥1,500 per change | [wbstudiotour.jp](https://www.wbstudiotour.jp/en/tickets/) | ~¥6,600–7,000 |
 | **🚄 Skyliner** · Sat Dec 5, Narita → Keisei Ueno | **Now** (sold up to 30 days ahead) | One-way discount ticket; exchange at Narita with passport | [Skyliner e-ticket](https://www.keisei.co.jp/keisei/tetudou/skyliner/e-ticket/en/) | ~¥2,310 |
@@ -73,13 +73,15 @@ Set up **SmartEX** and **JR-EAST Train Reservation** accounts before the first w
 
 **Pokémon Café:** both Tokyo (Dec 8) and Osaka (Dec 11–12) are **full**. Check [Tokyo](https://reserve.pokemon-cafe.jp/) and [Osaka](https://osaka.pokemon-cafe.jp/) for cancellations every day or two; booking stays open until 08:00 JST on the day. The plan below works without it.
 
-**Fuji Excursion backup:** JR Kaiji or Azusa Shinjuku → Otsuki (also on JR-EAST Train Reservation), then the Fujikyu local to Shimoyoshida on IC card (~2h15m).
-
 Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 
 **Day-of, no reservation:** Kyoto → Nara → Osaka (IC card). Hakone Free Pass **from Odawara**, 2-day, buy Dec 13 at the station (~¥6,000). It covers Dec 13–14 only.
 
 **Before you fly:**
+- **💳 Suica, one each.** It pays for trains, metros, buses, lockers and konbini all trip. The Fuji Excursion seats cover the seat only, so each person's Suica pays the fare at the gate (~¥2,400 each way).
+  - **iPhone:** Wallet → **+** → Transit Card → **Suica**, then top up with Apple Pay (most foreign cards work). Start with ~¥5,000.
+  - **Android** (bought outside Japan): can't add Suica. Buy a **Welcome Suica** card at Narita on Dec 5 (JR ticket machines or the JR East Travel Service Center).
+  - Tap in **and** out on every ride. Top up at any station machine (cash) or in Wallet.
 - Email Yunohana (`yunohana@princehotels.co.jp`): free car to the Ashi-no-yu bus stop or a **taxi at 07:45 on Dec 15** to Odawara Station, and dinner on Dec 14.
 
 ---
@@ -91,8 +93,8 @@ Every train ride on the trip. The days below refer to these IDs. "~" times are a
 | ID | Date | Train | From → To | Dep → Arr | Ticket | Seats |
 |----|------|-------|-----------|-----------|--------|-------|
 | **T1** | Sat Dec 5 | Skyliner | Narita Airport T2·3 → Keisei Ueno | ~15:00 → ~15:45 | Skyliner e-ticket (book ahead) | Reserved; luggage space on board |
-| **T2** | Mon Dec 7 | **Fuji Excursion 3** | Shinjuku → Shimoyoshida | **07:30 → 09:13** | JR-EAST Train Reservation | 4 together |
-| **T3** | Mon Dec 7 | **Fuji Excursion 44** | Kawaguchiko → Shinjuku | **16:48 → 18:48** | JR-EAST Train Reservation | 4 together (earlier option: No. 36, 14:58 → 16:59) |
+| **T2** | Mon Dec 7 | **Fuji Excursion 11** | Shinjuku → Shimoyoshida | **09:30 → 11:14** | ✅ Booked (e-ticket + Suica) | 4 together, Fuji side (D/C) |
+| **T3** | Mon Dec 7 | **Fuji Excursion 48** | Kawaguchiko → Shinjuku | **17:41 → 19:48** | ✅ Booked (e-ticket + Suica) | 4 together |
 | **T4** | Wed Dec 9 | **Nozomi** (first from 10:00) | Tokyo → Kyoto | ~10:00 → ~12:15 | SmartEX | Oversized-baggage seats, last-row **D/E** (two bookings, two cars) |
 | **T5** | Fri Dec 11 | Kintetsu Express | Kintetsu Kyoto → Kintetsu-Nara | ~08:45 → ~09:30 | IC card, no booking | — |
 | **T6** | Fri Dec 11 | Kintetsu Rapid Express | Kintetsu-Nara → Osaka-Namba | ~14:00 → ~14:40 | IC card, no booking | — |
@@ -101,7 +103,7 @@ Every train ride on the trip. The days below refer to these IDs. "~" times are a
 | **T9** | Tue Dec 15 | **Kodama 800** | Odawara → Tokyo | **08:56 → 09:30** | SmartEX | Oversized-baggage seats |
 | **T10** | Tue Dec 15 | **Narita Express 15** | Tokyo → Narita Airport T2·3 | **10:03 → ~10:55** | JR-EAST Train Reservation | Reserved; luggage racks |
 
-Backups: **T2** sold out → JR Kaiji/Azusa to Otsuki + Fujikyu local. **T7** gone → Hikari at 10:18. **T9/T10** slip → Kodama 09:14 + N'EX 10:33.
+Backups: **T7** gone → Hikari at 10:18. **T9/T10** slip → Kodama 09:14 + N'EX 10:33.
 
 ---
 
@@ -124,21 +126,21 @@ Backups: **T2** sold out → JR Kaiji/Azusa to Otsuki + Fujikyu local. **T7** go
 - **~16:15** Yurikamome Line, Shin-Toyosu → Aomi (~10 min).
 - **~16:30** **City Circuit Tokyo Bay**: electric go-karts on a real outdoor track, up to 50 km/h. No licence needed, gear provided. Take the 20-min session (17 min of driving).
 - **~17:45** Odaiba after dark: the life-size **Gundam** at DiverCity (5 min walk), Rainbow Bridge lit up from Odaiba Seaside Park. Optional: **Tokyo Joypolis** (Sega's indoor arcade/theme park) if it's open late.
-- **19:00** Dinner at DiverCity or Aqua City, then back to Akihabara (~35 min: Yurikamome to Shimbashi, then JR). Early-ish night: the Fuji train leaves Shinjuku at 07:30 tomorrow, about 20 min from Akihabara on the JR Chuo Line.
+- **19:00** Dinner at DiverCity or Aqua City, then back to Akihabara (~35 min: Yurikamome to Shimbashi, then JR). The Fuji train leaves Shinjuku at 09:30 tomorrow, about 20 min from Akihabara on the JR Chuo Line.
 
 ### Day 3 · Mon Dec 7 — 🗻 Mt. Fuji Day Trip (Kawaguchiko + Chureito Pagoda)
-- **06:55** Leave the hotel for Shinjuku (JR Chuo Rapid from Kanda/Ochanomizu or the Sobu Line, ~20 min).
-- **07:30** 🚆 **T2** Fuji Excursion 3 from Shinjuku, straight through to Shimoyoshida. Bring the camera.
-- **09:13** Arrive Shimoyoshida.
-- **09:35** Walk to Chureito Pagoda base (15 min).
-- **09:50** Climb 400 steps to **Chureito Pagoda** → THE iconic Mt. Fuji shot (5-story pagoda with Fuji behind).
-- **11:00** Back down, local train to Kawaguchiko station (10 min).
-- **11:30** **Lake Kawaguchiko** shore walk — Fuji reflected in the lake on clear days. December visibility is peak.
-- **13:00** Lunch with a Fuji view (**hoto noodles**, local specialty).
-- **14:30** **Oishi Park** (lakeside flowers/Fuji view) **OR** skip park and take **Mt. Fuji Panoramic Ropeway** for elevated views.
-  - *Note: Iyashi no Sato village is a separate bus trip ~30 min away; only choose this if skipping the ropeway entirely.*
-- **16:48** 🚆 **T3** Fuji Excursion 44 from Kawaguchiko, arriving Shinjuku 18:48. (Earlier option: No. 36 at 14:58. Nothing runs in between.)
-- **19:00** Dinner in Shinjuku, easy night (big one is tomorrow).
+- **08:50** Leave the hotel for Shinjuku (JR Chuo Rapid from Kanda/Ochanomizu or the Sobu Line, ~20 min). Everyone taps their own Suica at the JR gates.
+- **09:30** 🚆 **T2** Fuji Excursion 11 from Shinjuku, straight through to Shimoyoshida. Board **cars 1–3 only** (the rest of the train may split off at Otsuki). Watch the **left** windows from Mitsutoge onward.
+- **11:14** Arrive Shimoyoshida, tap out.
+- **11:30** Walk up to **Chureito Pagoda** (15 min, then ~400 steps) → THE iconic Mt. Fuji shot (5-story pagoda with Fuji behind).
+- **12:45** Back down, local train Shimoyoshida → Kawaguchiko (~10 min, Suica).
+- **13:15** Lunch near the station: **hoto noodles**, the local specialty.
+- **14:30** Red Line sightseeing bus (Suica, every 15 min) to the **Sightseeing Boat** stop (~11 min): **lake cruise** (~20 min, weather permitting) and a **Lake Kawaguchiko** shore walk, with Fuji across the water.
+- **~15:56** Red Line on to **Oishi Park** (arrives ~16:12): Fuji across the lake at **sunset (~16:30)**.
+- **16:42** Red Line back to Kawaguchiko station (arrives ~17:09; the 16:57 bus is the last safe one).
+- **17:41** 🚆 **T3** Fuji Excursion 48 from Kawaguchiko, arriving Shinjuku 19:48.
+- **20:00** Dinner in Shinjuku, easy night (big one is tomorrow).
+- *Note: the **Mt. Fuji Panoramic Ropeway is closed Dec 7–18, 2026** for its annual inspection, so it's not in the plan.*
 
 ### Day 4 · Tue Dec 8 — 🐱 Pokémon Centers, ⚡ Harry Potter & the BIG night
 - **09:00** **The viral sandwiches**: a fruit sando (whole-fruit cross-sections in cream) + a konbini tamago sando.

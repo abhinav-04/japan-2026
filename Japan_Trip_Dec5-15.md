@@ -135,7 +135,7 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 - **11:30** Nishiki Market (lunch). **14:30** sake in Fushimi. **16:30** Gion at dusk.
 
 ### Day 7 · Fri Dec 11 — Nara → Osaka
-- **Luggage:** don't drag four big suitcases around Nara. On the evening of Dec 10, ask the Amanek front desk to send them by takkyubin to Prince Smart Inn Osaka (next-day delivery within Kansai; confirm the Osaka hotel will hold them). Carry a day bag. Backup: large lockers at Kintetsu-Nara station, which fill up early.
+- **Luggage:** bring it along. Coin lockers at Kintetsu-Nara station if you want to walk the park hands-free (large ones fill up early).
 - Morning **Nara** deer + Todai-ji + Kasuga Taisha. Afternoon train to Osaka.
 - Night: **Dotonbori** + Ura-Namba.
 

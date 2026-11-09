@@ -43,14 +43,14 @@ Same flight out = easier last morning, no split groups.
 
 **Already booked on Stages (every night is covered):** Akihabara Washington Hotel (Dec 5–9), Amanek Kyoto (Dec 9–11), Prince Smart Inn Osaka Yodoyabashi (Dec 11–13), The Prince Hakone Lake Ashinoko (Dec 13–14), Yunohana Prince Hotel (Dec 14–15).
 
-**✅ Also booked:** 🗻 Fuji Excursion both ways on Mon Dec 7 (**T2** and **T3** below), 4 seats together, Fuji-side seats on the way out.
+**✅ Also booked:** 🗻 Fuji Excursion both ways on Mon Dec 7 (**T2** and **T3** below), 4 seats together, Fuji-side seats on the way out. 🚄 Nozomi Tokyo → Kyoto on Wed Dec 9 (**T4**), all 4 in one oversized-baggage row.
 
 Times below are **Eastern**. Japan sales at 10:00 JST open at 20:00 Eastern the night before.
 
 ### Crucial first (these sell out fast)
 
-1. **🚄 Tokyo → Kyoto, seats D/E, Dec 9** — opens **Sun Nov 8, 20:00**. The right-side Fuji seats go first.
-2. **✨ teamLab Planets, Sun Dec 6** — on sale now. Weekend slots fill 3–4 weeks ahead.
+1. **✨ teamLab Planets, Sun Dec 6** — on sale now. Weekend slots fill 3–4 weeks ahead.
+2. **🚄 Shin-Osaka → Odawara, Dec 13** — opens **Thu Nov 12, 20:00**. Only a few Hikari stop at Odawara.
 3. **🌇 Shibuya Sky, Sat Dec 5** — opens **Fri Nov 20, 10:00** (exactly 14 days ahead).
 
 ### Everything still to book
@@ -60,7 +60,6 @@ Times below are **Eastern**. Japan sales at 10:00 JST open at 20:00 Eastern the 
 | **✨ teamLab Planets** · Sun Dec 6, 14:00 | **Now** | Timed entry; changeable up to 3 times | [teamLab Planets store](https://teamlabplanets.dmm.com/en) | from ¥3,800 |
 | **⚡ Harry Potter Studio Tour** · Tue Dec 8, ~14:00 | **Now** | Timed entry. **Non-refundable**, ¥1,500 per change | [wbstudiotour.jp](https://www.wbstudiotour.jp/en/tickets/) | ~¥6,600–7,000 |
 | **🚄 Skyliner** · Sat Dec 5, Narita → Keisei Ueno | **Now** (sold up to 30 days ahead) | One-way discount ticket; exchange at Narita with passport | [Skyliner e-ticket](https://www.keisei.co.jp/keisei/tetudou/skyliner/e-ticket/en/) | ~¥2,310 |
-| **🚄 Tokyo → Kyoto Nozomi** · Wed Dec 9, first Nozomi from 10:00 | **Sun Nov 8, 20:00** | Nozomi run every ~10 min. **Oversized-baggage seats, last-row D/E** (right side, Fuji). Each last row has only one D/E pair, so book two pairs in two cars (two bookings) | [SmartEX](https://smart-ex.jp/en/) | ~¥13,770 |
 | **🚄 Shin-Osaka → Odawara** · Sun Dec 13, **08:19 Hikari 642** | **Thu Nov 12, 20:00** | Only some Hikari stop at Odawara; this one arrives 10:38. **Not Nozomi** | [SmartEX](https://smart-ex.jp/en/) | ~¥12,650 |
 | **🚄 Odawara → Tokyo** · Tue Dec 15, **Kodama 800, 08:56 → 09:30** | **Sat Nov 14, 20:00** | Oversized-baggage seats. No Hikari stops at Odawara that morning; Kodama 920 at 08:29 is too tight after the taxi | [SmartEX](https://smart-ex.jp/en/) | ~¥3,410 |
 | **🚄 Narita Express** Tokyo → Narita Airport T2·3 · Tue Dec 15, **N'EX 15, 10:03 → ~10:55** | **Sat Nov 14, 20:00** | Separate ticket from the Shinkansen. Leaves ~30 min to cross Tokyo Station with bags (N'EX is on the deep Sobu platforms) | [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) | ~¥3,070 |
@@ -69,7 +68,7 @@ Times below are **Eastern**. Japan sales at 10:00 JST open at 20:00 Eastern the 
 
 Set up **SmartEX** and **JR-EAST Train Reservation** accounts before the first window; one person books all four seats.
 
-**Big suitcases on the Shinkansen:** any bag over **160 cm** (length + width + height; most large checked suitcases are) needs a **"Seat with Oversized Baggage Area"** on SmartEX: the last row of a car, with space behind it. No extra cost, but without it there's a ¥1,000 fee per bag. Pick that seat type for **Dec 9, Dec 13 and Dec 15**, on the day sales open (it isn't offered in pre-sale). For Dec 9, take the last-row **D/E** seats to keep the Fuji view. One booking can't mix oversized and normal seats or span two cars. Buy normal reserved SmartEX tickets, not Hayatoku (normal ones cost ~¥320 to change or cancel before departure).
+**Big suitcases on the Shinkansen:** any bag over **160 cm** (length + width + height; most large checked suitcases are) needs a **"Seat with Oversized Baggage Area"** on SmartEX: the last row of a car, with space behind it. No extra cost, but without it there's a ¥1,000 fee per bag. Pick that seat type for **Dec 13 and Dec 15** (Dec 9 is booked), on the day sales open (it isn't offered in pre-sale). One booking can't mix oversized and normal seats or span two cars. Buy normal reserved SmartEX tickets, not Hayatoku (normal ones cost ~¥320 to change or cancel before departure).
 
 **Pokémon Café:** both Tokyo (Dec 8) and Osaka (Dec 11–12) are **full**. Check [Tokyo](https://reserve.pokemon-cafe.jp/) and [Osaka](https://osaka.pokemon-cafe.jp/) for cancellations every day or two; booking stays open until 08:00 JST on the day. The plan below works without it.
 
@@ -82,6 +81,7 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
   - **iPhone:** Wallet → **+** → Transit Card → **Suica**, then top up with Apple Pay (most foreign cards work). Start with ~¥5,000.
   - **Android** (bought outside Japan): can't add Suica. Buy a **Welcome Suica** card at Narita on Dec 5 (JR ticket machines or the JR East Travel Service Center).
   - Tap in **and** out on every ride. Top up at any station machine (cash) or in Wallet.
+  - **Shinkansen (SmartEX) tickets already include the fare**, so no Suica needed there: board with the **QR tickets** from SmartEX → My Trips (one per person; share or print them).
 - Email Yunohana (`yunohana@princehotels.co.jp`): free car to the Ashi-no-yu bus stop or a **taxi at 07:45 on Dec 15** to Odawara Station, and dinner on Dec 14.
 
 ---
@@ -95,7 +95,7 @@ Every train ride on the trip. The days below refer to these IDs. "~" times are a
 | **T1** | Sat Dec 5 | Skyliner | Narita Airport T2·3 → Keisei Ueno | ~15:00 → ~15:45 | Skyliner e-ticket (book ahead) | Reserved; luggage space on board |
 | **T2** | Mon Dec 7 | **Fuji Excursion 11** | Shinjuku → Shimoyoshida | **09:30 → 11:14** | ✅ Booked (e-ticket + Suica) | 4 together, Fuji side (D/C) |
 | **T3** | Mon Dec 7 | **Fuji Excursion 48** | Kawaguchiko → Shinjuku | **17:41 → 19:48** | ✅ Booked (e-ticket + Suica) | 4 together |
-| **T4** | Wed Dec 9 | **Nozomi** (first from 10:00) | Tokyo → Kyoto | ~10:00 → ~12:15 | SmartEX | Oversized-baggage seats, last-row **D/E** (two bookings, two cars) |
+| **T4** | Wed Dec 9 | **Nozomi 251** | Tokyo → Kyoto | **10:00 → 12:15** | ✅ Booked (SmartEX, QR ticket) | All 4 in one oversized-baggage last row, both sides of the aisle |
 | **T5** | Fri Dec 11 | Kintetsu Express | Kintetsu Kyoto → Kintetsu-Nara | ~08:45 → ~09:30 | IC card, no booking | — |
 | **T6** | Fri Dec 11 | Kintetsu Rapid Express | Kintetsu-Nara → Osaka-Namba | ~14:00 → ~14:40 | IC card, no booking | — |
 | **T7** | Sun Dec 13 | **Hikari 642** | Shin-Osaka → Odawara | **08:19 → 10:38** | SmartEX | Oversized-baggage seats |
@@ -152,9 +152,9 @@ Backups: **T7** gone → Hikari at 10:18. **T9/T10** slip → Kodama 09:14 + N'E
 
 ### Day 5 · Wed Dec 9 — Tokyo → Kyoto
 - Sleep in, doze on the train: this is recovery after the Shinjuku night.
-- **~09:30** Check out; JR Yamanote Line from Akihabara to Tokyo Station (4 min).
-- **~10:00** 🚆 **T4** Nozomi to Kyoto (2h15). **Sit RIGHT (seats D/E)**, last row with the oversized-baggage space — you might catch Fuji again ~40 min out (you already saw it up close!).
-- **~12:15** Kyoto Station → Amanek by **taxi** (~10–15 min; two taxis or a jumbo with the suitcases). City buses are packed and bad with big bags. Drop bags; check-in from 15:00.
+- **09:15** Check out; JR Yamanote Line from Akihabara to Tokyo Station (4 min). Be at the Tokaido Shinkansen gates by **09:40**.
+- **10:00** 🚆 **T4** Nozomi 251 to Kyoto (2h15). Suitcases go in the space behind your last-row seats. Fuji shows on the **right (D/E side)** ~40 min out, around Shin-Fuji; swap window seats if it's clear.
+- **12:15** Kyoto Station → Amanek by **taxi** (~10–15 min; two taxis or a jumbo with the suitcases). City buses are packed and bad with big bags. Drop bags; check-in from 15:00.
 - **15:00** **Fushimi Inari** at dusk. **19:00** Pontocho + Kiyamachi.
 
 ### Day 6 · Thu Dec 10 — Kyoto
@@ -212,7 +212,7 @@ Backups: **T7** gone → Hikari at 10:18. **T9/T10** slip → Kodama 09:14 + N'E
 
 1. **Kawaguchiko + Chureito Pagoda (Dec 7)** — THE up-close Fuji day. The iconic postcard shot, lake reflections, traditional village backdrop. This is your main Fuji experience.
 2. **Hakone (Dec 14 morning)** — Fuji from across Lake Ashi and the Owakudani ropeway, straight from the ryokan. Different perspective, equally stunning.
-3. **The Shinkansen (Dec 9)** — Tokyo → Kyoto, seats D/E on the right, ~40 min out. Quick glimpse if it's clear.
+3. **The Shinkansen (Dec 9)** — Tokyo → Kyoto, on the right (D/E side), ~40 min out. Quick glimpse if it's clear.
 
 December has the best Fuji visibility of the year. Clear mornings are peak.
 

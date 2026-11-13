@@ -43,14 +43,14 @@ Same flight out = easier last morning, no split groups.
 
 **Already booked on Stages (every night is covered):** Akihabara Washington Hotel (Dec 5–9), Amanek Kyoto (Dec 9–11), Prince Smart Inn Osaka Yodoyabashi (Dec 11–13), The Prince Hakone Lake Ashinoko (Dec 13–14), Yunohana Prince Hotel (Dec 14–15).
 
-**✅ Also booked:** 🗻 Fuji Excursion both ways on Mon Dec 7 (**T2** and **T3** below), 4 seats together, Fuji-side seats on the way out. 🚄 Nozomi Tokyo → Kyoto on Wed Dec 9 (**T4**), all 4 in one oversized-baggage row.
+**✅ Also booked:** 🗻 Fuji Excursion both ways on Mon Dec 7 (**T2** and **T3** below), 4 seats together, Fuji-side seats on the way out. 🚄 Nozomi Tokyo → Kyoto on Wed Dec 9 (**T4**) and Hikari 642 Shin-Osaka → Odawara on Sun Dec 13 (**T7**), all 4 in one oversized-baggage row each time.
 
 Times below are **Eastern**. Japan sales at 10:00 JST open at 20:00 Eastern the night before.
 
 ### Crucial first (these sell out fast)
 
 1. **✨ teamLab Planets, Sun Dec 6** — on sale now. Weekend slots fill 3–4 weeks ahead.
-2. **🚄 Shin-Osaka → Odawara, Dec 13** — opens **Thu Nov 12, 20:00**. Only a few Hikari stop at Odawara.
+2. **🚄 Odawara → Tokyo + Narita Express, Dec 15** — opens **Sat Nov 14, 20:00**. Oversized-baggage seats on the Kodama go first.
 3. **🌇 Shibuya Sky, Sat Dec 5** — opens **Fri Nov 20, 10:00** (exactly 14 days ahead).
 
 ### Everything still to book
@@ -60,7 +60,6 @@ Times below are **Eastern**. Japan sales at 10:00 JST open at 20:00 Eastern the 
 | **✨ teamLab Planets** · Sun Dec 6, 14:00 | **Now** | Timed entry; changeable up to 3 times | [teamLab Planets store](https://teamlabplanets.dmm.com/en) | from ¥3,800 |
 | **⚡ Harry Potter Studio Tour** · Tue Dec 8, ~14:00 | **Now** | Timed entry. **Non-refundable**, ¥1,500 per change | [wbstudiotour.jp](https://www.wbstudiotour.jp/en/tickets/) | ~¥6,600–7,000 |
 | **🚄 Skyliner** · Sat Dec 5, Narita → Keisei Ueno | **Now** (sold up to 30 days ahead) | One-way discount ticket; exchange at Narita with passport | [Skyliner e-ticket](https://www.keisei.co.jp/keisei/tetudou/skyliner/e-ticket/en/) | ~¥2,310 |
-| **🚄 Shin-Osaka → Odawara** · Sun Dec 13, **08:19 Hikari 642** | **Thu Nov 12, 20:00** | Only some Hikari stop at Odawara; this one arrives 10:38. **Not Nozomi** | [SmartEX](https://smart-ex.jp/en/) | ~¥12,650 |
 | **🚄 Odawara → Tokyo** · Tue Dec 15, **Kodama 800, 08:56 → 09:30** | **Sat Nov 14, 20:00** | Oversized-baggage seats. No Hikari stops at Odawara that morning; Kodama 920 at 08:29 is too tight after the taxi | [SmartEX](https://smart-ex.jp/en/) | ~¥3,410 |
 | **🚄 Narita Express** Tokyo → Narita Airport T2·3 · Tue Dec 15, **N'EX 15, 10:03 → ~10:55** | **Sat Nov 14, 20:00** | Separate ticket from the Shinkansen. Leaves ~30 min to cross Tokyo Station with bags (N'EX is on the deep Sobu platforms) | [JR-EAST Train Reservation](https://www.eki-net.com/en/jreast-train-reservation/Top/Index) | ~¥3,070 |
 | **🌇 Shibuya Sky** · Sat Dec 5, ~19:00 | **Fri Nov 20, 10:00** | Night slot. Bought from abroad = everyone shows their **original passport** at entry. Free cancel until the day before | [Shibuya Sky tickets](https://www.shibuya-scramble-square.com/sky/ticket/) | ~¥3,400 |
@@ -68,7 +67,7 @@ Times below are **Eastern**. Japan sales at 10:00 JST open at 20:00 Eastern the 
 
 Set up **SmartEX** and **JR-EAST Train Reservation** accounts before the first window; one person books all four seats.
 
-**Big suitcases on the Shinkansen:** any bag over **160 cm** (length + width + height; most large checked suitcases are) needs a **"Seat with Oversized Baggage Area"** on SmartEX: the last row of a car, with space behind it. No extra cost, but without it there's a ¥1,000 fee per bag. Pick that seat type for **Dec 13 and Dec 15** (Dec 9 is booked), on the day sales open (it isn't offered in pre-sale). One booking can't mix oversized and normal seats or span two cars. Buy normal reserved SmartEX tickets, not Hayatoku (normal ones cost ~¥320 to change or cancel before departure).
+**Big suitcases on the Shinkansen:** any bag over **160 cm** (length + width + height; most large checked suitcases are) needs a **"Seat with Oversized Baggage Area"** on SmartEX: the last row of a car, with space behind it. No extra cost, but without it there's a ¥1,000 fee per bag. Pick that seat type for **Dec 15** (Dec 9 and Dec 13 are booked), on the day sales open (it isn't offered in pre-sale). One booking can't mix oversized and normal seats or span two cars. Buy normal reserved SmartEX tickets, not Hayatoku (normal ones cost ~¥320 to change or cancel before departure).
 
 **Pokémon Café:** both Tokyo (Dec 8) and Osaka (Dec 11–12) are **full**. Check [Tokyo](https://reserve.pokemon-cafe.jp/) and [Osaka](https://osaka.pokemon-cafe.jp/) for cancellations every day or two; booking stays open until 08:00 JST on the day. The plan below works without it.
 
@@ -81,7 +80,7 @@ Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
   - **iPhone:** Wallet → **+** → Transit Card → **Suica**, then top up with Apple Pay (most foreign cards work). Start with ~¥5,000.
   - **Android** (bought outside Japan): can't add Suica. Buy a **Welcome Suica** card at Narita on Dec 5 (JR ticket machines or the JR East Travel Service Center).
   - Tap in **and** out on every ride. Top up at any station machine (cash) or in Wallet.
-  - **Shinkansen (SmartEX) tickets already include the fare**, so no Suica needed there: board with the **QR tickets** from SmartEX → My Trips (one per person; share or print them).
+  - **Shinkansen (SmartEX) tickets already include the fare**, so no Suica needed there: board with the **QR tickets** from SmartEX → My Trips → Details (one per person; share them, and print a copy as backup).
 - Email Yunohana (`yunohana@princehotels.co.jp`): free car to the Ashi-no-yu bus stop or a **taxi at 07:45 on Dec 15** to Odawara Station, and dinner on Dec 14.
 
 ---
@@ -98,12 +97,12 @@ Every train ride on the trip. The days below refer to these IDs. "~" times are a
 | **T4** | Wed Dec 9 | **Nozomi 251** | Tokyo → Kyoto | **10:00 → 12:15** | ✅ Booked (SmartEX, QR ticket) | All 4 in one oversized-baggage last row, both sides of the aisle |
 | **T5** | Fri Dec 11 | Kintetsu Express | Kintetsu Kyoto → Kintetsu-Nara | ~08:45 → ~09:30 | IC card, no booking | — |
 | **T6** | Fri Dec 11 | Kintetsu Rapid Express | Kintetsu-Nara → Osaka-Namba | ~14:00 → ~14:40 | IC card, no booking | — |
-| **T7** | Sun Dec 13 | **Hikari 642** | Shin-Osaka → Odawara | **08:19 → 10:38** | SmartEX | Oversized-baggage seats |
+| **T7** | Sun Dec 13 | **Hikari 642** | Shin-Osaka → Odawara | **08:19 → 10:38** | ✅ Booked (SmartEX, QR ticket) | All 4 in one oversized-baggage last row |
 | **T8** | Sun Dec 13 | Hakone Tozan Line | Odawara → Hakone-Yumoto → Chokoku-no-mori | ~10:50 → ~12:00 (with the luggage drop at Hakone-Yumoto) | Hakone Free Pass | — |
 | **T9** | Tue Dec 15 | **Kodama 800** | Odawara → Tokyo | **08:56 → 09:30** | SmartEX | Oversized-baggage seats |
 | **T10** | Tue Dec 15 | **Narita Express 15** | Tokyo → Narita Airport T2·3 | **10:03 → ~10:55** | JR-EAST Train Reservation | Reserved; luggage racks |
 
-Backups: **T7** gone → Hikari at 10:18. **T9/T10** slip → Kodama 09:14 + N'EX 10:33.
+Backups: **T9/T10** slip → Kodama 09:14 + N'EX 10:33.
 
 ---
 
@@ -176,8 +175,8 @@ Backups: **T7** gone → Hikari at 10:18. **T9/T10** slip → Kodama 09:14 + N'E
 - *Big-park option: swap today for Universal Studios + Super Nintendo World (book Express Pass + timed entry ahead).*
 
 ### Day 9 · Sun Dec 13 — Osaka → Hakone · art, then Lake Ashi
-- **~07:55** Midosuji Line from Yodoyabashi straight to Shin-Osaka (~15 min).
-- **08:19** 🚆 **T7** Hikari 642 Shin-Osaka → Odawara, arrives **10:38**. Only a few Hikari stop at Odawara (roughly one every two hours: 08:19, 10:18, 12:18 …), so book this exact train; a Kodama takes ~3h15m. Not Nozomi. Check the train number on SmartEX when booking, since the December timetable can shift. Sleep off last night.
+- **07:40** Check out; Midosuji Line from Yodoyabashi straight to Shin-Osaka (~15 min). Leave time to cross to the Shinkansen gates with the suitcases.
+- **08:19** 🚆 **T7** Hikari 642 Shin-Osaka → Odawara, arrives **10:38**. Suitcases go behind your last-row seats. Fuji shows on the **left (D/E side)** around Shin-Fuji, ~10:00. Sleep off last night.
 - **10:45** Buy the **Hakone Free Pass from Odawara** (2-day) at the station. 🚆 **T8** Hakone Tozan Line to **Hakone-Yumoto** (~15 min).
 - **~11:15** At Hakone-Yumoto, drop the big bags at the **[Hakone Luggage Transport Service](https://www.hakonenavi.jp/hakone-luggage-transport-service/en/)** counter in the station (**by 12:00**). They deliver them to The Prince Hakone after 15:00. ~¥2,500 per large bag (up to 200 cm / 30 kg); you can book online the same morning. Then continue up to **Chokoku-no-mori** with day bags (~45 min).
 - **~12:00** **Hakone Open-Air Museum**: sculpture on the hillside, the Picasso pavilion, a hot-spring footbath. Lunch in Gora.

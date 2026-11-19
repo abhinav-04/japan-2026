@@ -49,7 +49,7 @@ Times below are **Eastern**. Japan sales at 10:00 JST open at 20:00 Eastern the 
 
 ### Crucial first (these sell out fast)
 
-1. **🌇 Shibuya Sky, Sat Dec 5** — **on sale now** (opened Nov 20, 10:00 JST). Saturday evening slots go fast.
+1. **🌇 Shibuya Sky, Sat Dec 5** — opens **Fri Nov 20, 10:00 Eastern** (00:00 JST Nov 21, exactly 14 days ahead). Saturday evening slots go fast. Use the "For international customers" site.
 2. **🎄 DisneySea, Tue Dec 8** — on sale now. Christmas season; fixed-date tickets.
 3. **⚡ Harry Potter, Sun Dec 6, 12:30** — on sale now. Sunday afternoons can fill; tickets are non-refundable.
 4. **✨ teamLab Planets, Sun Dec 6, ~20:00** — on sale now. Weekend slots fill 3–4 weeks ahead.
@@ -60,9 +60,9 @@ Times below are **Eastern**. Japan sales at 10:00 JST open at 20:00 Eastern the 
 |------|-----------|------|-----------|-----|
 | **🎄 Tokyo DisneySea** · Tue Dec 8, 1-Day Passport | **Now** | Fixed-date ticket; park open 09:00–21:00. Get the Tokyo Disney Resort app for Premier Access / Standby Passes on the day | [Tokyo DisneySea tickets](https://www.tokyodisneyresort.jp/en/tds/ticket/) | ~¥10,900 |
 | **⚡ Harry Potter Studio Tour** · Sun Dec 6, **12:30** | **Now** | Timed entry (open until 21:00 on Sundays). **Non-refundable**, ¥1,500 per change | [wbstudiotour.jp](https://www.wbstudiotour.jp/en/tickets/) | ~¥7,300 |
-| **✨ teamLab Planets** · Sun Dec 6, **~20:00 entry** | **Now** | Timed entry; last entry 21:00, closes 22:00. Changeable up to 3 times | [teamLab Planets store](https://teamlabplanets.dmm.com/en) | ~¥3,800 |
+| **✨ teamLab Planets** · Sun Dec 6, **~20:00 entry** | **Now** | Timed entry; last entry 21:00, closes 22:00. Changeable up to 3 times | [teamLab Planets store](https://teamlabplanets.dmm.com/en) | ~¥4,000 |
 | **🚄 Skyliner** · Sat Dec 5, Narita → Keisei Ueno | **Now** (sold up to 30 days ahead) | One-way discount ticket; exchange at Narita with passport | [Skyliner e-ticket](https://www.keisei.co.jp/keisei/tetudou/skyliner/e-ticket/en/) | ~¥2,310 |
-| **🌇 Shibuya Sky** · Sat Dec 5, ~19:00 | **Now** | Night slot. Bought from abroad = everyone shows their **original passport** at entry. Free cancel until the day before | [Shibuya Sky tickets](https://www.shibuya-scramble-square.com/sky/ticket/) | ~¥3,400 |
+| **🌇 Shibuya Sky** · Sat Dec 5, ~19:00 | **Fri Nov 20, 10:00** | Night slot. Bought from abroad = everyone shows their **original passport** at entry. Free cancel until the day before | [Shibuya Sky tickets](https://www.shibuya-scramble-square.com/sky/ticket/) | ~¥3,400 |
 | **🏎️ City Circuit Tokyo Bay** (EV karts) · Sun Dec 6, **~18:00** | **From Sun Nov 29** (7 days ahead), or walk in | **No driver's licence needed.** 20-min session (17 min driving). Open until 22:00 on Sundays | [city-circuit.com](https://city-circuit.com/en/base/) | ~¥7,000 |
 
 **Big suitcases on the Shinkansen:** all three Shinkansen rides (Dec 9, 13, 15) are booked in **"Seat with Oversized Baggage Area"** rows: the last row of a car, with space behind it for the suitcases. Put the bags there, not in the aisle.
@@ -168,6 +168,7 @@ A long one: Harry Potter moved here from Tuesday to free that day for DisneySea.
 
 ### Day 8 · Sat Dec 12 — Osaka (the big night)
 - Kuromon Market, Osaka Castle, Shinsekai kushikatsu.
+- **Pokémon Center Osaka DX** (Daimaru Shinsaibashi, a few minutes' walk from Dotonbori), walk-in. This is the Pokémon stop that replaced Mega Tokyo; the Pokémon Café is next door if a cancellation comes up.
 - **Saturday night, go all in:** Ura-Namba, Misonobiru, karaoke nomihodai, Kinryu Ramen.
 - Before bed: pack a day bag for Hakone. You carry all the luggage to the airport (Hakone → Narita), and the Dec 13 and Dec 14 steps below handle the big bags.
 - *Big-park option: swap today for Universal Studios + Super Nintendo World (book Express Pass + timed entry ahead).*

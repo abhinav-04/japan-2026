@@ -10,11 +10,11 @@
 
 ## 🎯 The Plan
 
-Relaxed yet adventurous. Mt. Fuji up close at Kawaguchiko, Pokémon, Harry Potter, go-karts on an Odaiba circuit, Hakone hot springs with more Fuji views, and the best nightlife in Japan. The big nights land early (Osaka Saturday, Shinjuku), so you finish on an onsen soak instead of wrecked before a flight.
+Relaxed yet adventurous. Mt. Fuji up close at Kawaguchiko, Pokémon, Harry Potter, a full day at DisneySea, go-karts on an Odaiba circuit, Hakone hot springs with more Fuji views, and the best nightlife in Japan. The big nights land early (Osaka Saturday, Shinjuku), so you finish on an onsen soak instead of wrecked before a flight.
 
 **Energy flow:**
 ```
-arrive Tokyo   MT.FUJI   Pokémon+HP   →Kyoto   Kyoto   Nara→Osaka   OSAKA   HAKONE   HAKONE    fly
+arrive Tokyo   MT.FUJI   DisneySea    →Kyoto   Kyoto   Nara→Osaka   OSAKA   HAKONE   HAKONE    fly
    Dec 5    Kawaguchiko    Dec 8       Dec 9   Dec 10    Dec 11      Dec 12   onsen   Fuji+soak  Dec 15
 ```
 
@@ -50,22 +50,24 @@ Times below are **Eastern**. Japan sales at 10:00 JST open at 20:00 Eastern the 
 ### Crucial first (these sell out fast)
 
 1. **🌇 Shibuya Sky, Sat Dec 5** — opens **Fri Nov 20, 10:00** (exactly 14 days ahead). Saturday evening slots go fast.
-2. **✨ teamLab Planets, Sun Dec 6** — on sale now. Weekend slots fill 3–4 weeks ahead.
-3. **⚡ Harry Potter, Tue Dec 8** — on sale now. December afternoons can fill; tickets are non-refundable.
+2. **🎄 DisneySea, Tue Dec 8** — on sale now. Christmas season; fixed-date tickets.
+3. **⚡ Harry Potter, Sun Dec 6, 13:30** — on sale now. Sunday afternoons can fill; tickets are non-refundable.
+4. **✨ teamLab Planets, Sun Dec 6, ~20:30** — on sale now. Weekend slots fill 3–4 weeks ahead.
 
 ### Everything still to book
 
 | What | Book when | Pick | Book here | ~pp |
 |------|-----------|------|-----------|-----|
-| **✨ teamLab Planets** · Sun Dec 6, 14:00 | **Now** | Timed entry; changeable up to 3 times | [teamLab Planets store](https://teamlabplanets.dmm.com/en) | ~¥4,800 |
-| **⚡ Harry Potter Studio Tour** · Tue Dec 8, ~14:00 | **Now** | Timed entry. **Non-refundable**, ¥1,500 per change | [wbstudiotour.jp](https://www.wbstudiotour.jp/en/tickets/) | ~¥6,600–7,000 |
+| **🎄 Tokyo DisneySea** · Tue Dec 8, 1-Day Passport | **Now** | Fixed-date ticket; park open 09:00–21:00. Get the Tokyo Disney Resort app for Premier Access / Standby Passes on the day | [Tokyo DisneySea tickets](https://www.tokyodisneyresort.jp/en/tds/ticket/) | ~¥10,900 |
+| **⚡ Harry Potter Studio Tour** · Sun Dec 6, **13:30** | **Now** | Timed entry (open until 21:00 on Sundays). **Non-refundable**, ¥1,500 per change | [wbstudiotour.jp](https://www.wbstudiotour.jp/en/tickets/) | ~¥7,300 |
+| **✨ teamLab Planets** · Sun Dec 6, **20:30–21:00 entry** | **Now** | Timed entry; last entry 21:00, closes 22:00. Changeable up to 3 times | [teamLab Planets store](https://teamlabplanets.dmm.com/en) | ~¥3,800 |
 | **🚄 Skyliner** · Sat Dec 5, Narita → Keisei Ueno | **Now** (sold up to 30 days ahead) | One-way discount ticket; exchange at Narita with passport | [Skyliner e-ticket](https://www.keisei.co.jp/keisei/tetudou/skyliner/e-ticket/en/) | ~¥2,310 |
 | **🌇 Shibuya Sky** · Sat Dec 5, ~19:00 | **Fri Nov 20, 10:00** | Night slot. Bought from abroad = everyone shows their **original passport** at entry. Free cancel until the day before | [Shibuya Sky tickets](https://www.shibuya-scramble-square.com/sky/ticket/) | ~¥3,400 |
-| **🏎️ City Circuit Tokyo Bay** (EV karts) · Sun Dec 6, ~16:30 | **From Sun Nov 29** (7 days ahead), or walk in | **No driver's licence needed.** 20-min session (17 min driving) | [city-circuit.com](https://city-circuit.com/en/base/) | ~¥7,000 |
+| **🏎️ City Circuit Tokyo Bay** (EV karts) · Sun Dec 6, **~19:00** | **From Sun Nov 29** (7 days ahead), or walk in | **No driver's licence needed.** 20-min session (17 min driving). Open until 22:00 on Sundays | [city-circuit.com](https://city-circuit.com/en/base/) | ~¥7,000 |
 
 **Big suitcases on the Shinkansen:** all three Shinkansen rides (Dec 9, 13, 15) are booked in **"Seat with Oversized Baggage Area"** rows: the last row of a car, with space behind it for the suitcases. Put the bags there, not in the aisle.
 
-**Pokémon Café:** both Tokyo (Dec 8) and Osaka (Dec 11–12) are **full**. Check [Tokyo](https://reserve.pokemon-cafe.jp/) and [Osaka](https://osaka.pokemon-cafe.jp/) for cancellations every day or two; booking stays open until 08:00 JST on the day. The plan below works without it.
+**Pokémon Café:** Osaka (Dec 11–12) is **full**; check [Osaka](https://osaka.pokemon-cafe.jp/) for cancellations every day or two (booking stays open until 08:00 JST on the day). The Tokyo café no longer fits the Tokyo days. The plan works without it.
 
 Do **not** buy an Odawara → Tokyo ticket for Dec 14. That night is Yunohana.
 
@@ -114,14 +116,18 @@ Backups: **T9/T10** slip → Kodama 09:14 + N'EX 10:33.
 - **20:30** Izakaya dinner, then **Nonbei Yokocho** tiny bars.
 - Rule #1: stay awake till 10 PM, no naps!
 
-### Day 2 · Sun Dec 6 — Asakusa, teamLab, karts in Odaiba
-- **10:00** Asakusa (Senso-ji + Nakamise) → **Kappabashi** kitchen street. Tsukuba Express from Akihabara, 5 min.
-- **12:30** Lunch in Asakusa (tempura or sushi).
-- **14:00** **teamLab Planets** in Toyosu (timed, wear roll-up pants). ~40 min from Asakusa by subway.
-- **~16:15** Yurikamome Line, Shin-Toyosu → Aomi (~10 min).
-- **~16:30** **City Circuit Tokyo Bay**: electric go-karts on a real outdoor track, up to 50 km/h. No licence needed, gear provided. Take the 20-min session (17 min of driving).
-- **~17:45** Odaiba after dark: the life-size **Gundam** at DiverCity (5 min walk), Rainbow Bridge lit up from Odaiba Seaside Park. Optional: **Tokyo Joypolis** (Sega's indoor arcade/theme park) if it's open late.
-- **19:00** Dinner at DiverCity or Aqua City, then back to Akihabara (~35 min: Yurikamome to Shimbashi, then JR). The Fuji train leaves Shinjuku at 09:30 tomorrow, about 20 min from Akihabara on the JR Chuo Line.
+### Day 2 · Sun Dec 6 — Asakusa, 🐱 Pokémon, ⚡ Harry Potter, karts & teamLab at night
+A long one: Pokémon and Harry Potter moved here from Tuesday to free that day for DisneySea. On Sundays, Harry Potter, the karts and teamLab all stay open late.
+- **08:30** **Asakusa** while it's quiet: Senso-ji, then Nakamise street as the shops open. Breakfast: **the viral sandwiches** (a fruit sando + a konbini tamago sando). Tsukuba Express from Akihabara, 5 min.
+- **10:45** To Ikebukuro (~30 min: Ginza Line to Ueno, then JR Yamanote).
+- **11:15** **Pokémon Center Mega Tokyo** (Sunshine City, the biggest one), walk-in, then lunch in Sunshine City.
+- **13:00** Seibu Line, Ikebukuro → Toshimaen (~15 min).
+- **13:30** **Harry Potter, Warner Bros. Studio Tour Tokyo** (Nerima), ~4 hours: the Great Hall, Diagon Alley, butterbeer.
+- **17:45** To Aomi (~70 min: Seibu to Ikebukuro, Yurakucho Line to Toyosu, Yurikamome to Aomi).
+- **~19:00** **City Circuit Tokyo Bay**: electric go-karts on a real outdoor track at night, up to 50 km/h. No licence needed, gear provided. Take the 20-min session (17 min of driving).
+- **~19:45** The life-size **Gundam** at DiverCity (5 min walk).
+- **~20:30** Yurikamome Aomi → Shin-Toyosu (~10 min). **teamLab Planets** (timed, wear roll-up pants), last entry 21:00, closes 22:00.
+- **22:00** Late dinner in Toyosu, then back to Akihabara (~30 min). The Fuji train leaves Shinjuku at 09:30 tomorrow, about 20 min from Akihabara on the JR Chuo Line.
 
 ### Day 3 · Mon Dec 7 — 🗻 Mt. Fuji Day Trip (Kawaguchiko + Chureito Pagoda)
 - **08:50** Leave the hotel for Shinjuku (JR Chuo Rapid from Kanda/Ochanomizu or the Sobu Line, ~20 min). Everyone taps their own Suica at the JR gates.
@@ -137,12 +143,11 @@ Backups: **T9/T10** slip → Kodama 09:14 + N'EX 10:33.
 - **20:00** Dinner in Shinjuku, easy night (big one is tomorrow).
 - *Note: the **Mt. Fuji Panoramic Ropeway is closed Dec 7–18, 2026** for its annual inspection, so it's not in the plan.*
 
-### Day 4 · Tue Dec 8 — 🐱 Pokémon Centers, ⚡ Harry Potter & the BIG night
-- **09:00** **The viral sandwiches**: a fruit sando (whole-fruit cross-sections in cream) + a konbini tamago sando.
-- **10:00** **Pokémon Center Tokyo DX** (Nihonbashi Takashimaya), walk-in. The Pokémon Café is next door; it's full, so only go in if a cancellation came up.
-- **12:00** **Pokémon Center Mega Tokyo** (Ikebukuro, the biggest one), walk-in, plus lunch. You change trains at Ikebukuro for Harry Potter anyway.
-- **14:00** **Harry Potter, Warner Bros. Studio Tour Tokyo** (Nerima), ~4 hours: the Great Hall, Diagon Alley, butterbeer. Seibu Line from Ikebukuro to Toshimaen, ~15 min.
-- **19:30** Shinjuku: Omoide Yokocho → **Golden Gai** (200 tiny bars, go all in).
+### Day 4 · Tue Dec 8 — 🎄 DisneySea & the BIG night
+- **08:15** Leave Akihabara for **Maihama** (~35 min: JR to Tokyo, then the Keiyo Line; its platform is a long walk inside Tokyo Station), then the Disney Resort Line to DisneySea.
+- **09:00–20:00** **Tokyo DisneySea**, full day in Christmas season. A weekday, so quieter than the weekend. Install the **Tokyo Disney Resort app** before the trip: on the day it sells Premier Access and hands out free Standby Passes, which Fantasy Springs usually needs.
+- **20:00** Leave the park (it closes at 21:00) for Shinjuku (~45 min: Keiyo Line to Tokyo, then JR Chuo Line).
+- **21:00** Shinjuku: Omoide Yokocho → **Golden Gai** (200 tiny bars, go all in).
 - **01:00** **Ichiran Ramen**, the 1am solo booth experience. Tomorrow is a sleep-on-the-train travel day, so this works. Last trains are ~00:30, so taxi back to Akihabara (~25 min, ~¥5–6k for the car).
 
 ### Day 5 · Wed Dec 9 — Tokyo → Kyoto
@@ -215,10 +220,12 @@ December has the best Fuji visibility of the year. Clear mornings are peak.
 
 ## 🎢 The bookable experiences, in one place
 
-- **Pokémon Centers** (Dec 8, Nihonbashi + Ikebukuro) — walk-in. Pokémon Café is full; watch for cancellations.
-- **Harry Potter Studio Tour** (Dec 8) — timed entry, non-refundable.
-- **City Circuit Tokyo Bay** (Dec 6, ~16:30) — EV karts in Odaiba, no licence needed. Book from Nov 29 or walk in.
-- **The viral sandwiches** (Dec 8) — no booking: fruit sando + konbini tamago sando.
+- **Tokyo DisneySea** (Dec 8) — fixed-date 1-Day Passport.
+- **Pokémon Center Mega Tokyo** (Dec 6, Ikebukuro) — walk-in.
+- **Harry Potter Studio Tour** (Dec 6, 13:30) — timed entry, non-refundable.
+- **City Circuit Tokyo Bay** (Dec 6, ~19:00) — EV karts in Odaiba, no licence needed. Book from Nov 29 or walk in.
+- **teamLab Planets** (Dec 6, ~20:30) — timed entry.
+- **The viral sandwiches** (Dec 6) — no booking: fruit sando + konbini tamago sando.
 - **Nintendo TOKYO / Pokémon Center / Capcom** (Dec 5, PARCO 6F) — walk-in.
 
 ---
@@ -243,10 +250,10 @@ The trip ends in Hakone. No Tokyo hotel on Dec 14–15; fly out from Narita the 
 |------|------|
 | Hotels, all 10 nights | booked, see Stages |
 | Mt. Fuji day trip (trains + lunch + entry) | ~¥12k |
-| Harry Potter + teamLab + Shibuya Sky + karts | ~¥21k |
+| DisneySea + Harry Potter + teamLab + Shibuya Sky + karts | ~¥32k |
 | Trains (individual + Hakone Pass + Dec 15 taxi) | ~¥42.5k |
 | Food / nightlife / other activities | ¥12k to 20k / day range |
-| **TOTAL (no flights, no hotels)** | **~¥190k to 270k** |
+| **TOTAL (no flights, no hotels)** | **~¥200k to 280k** |
 
 City accommodation tax and Hakone bath/onsen tax are paid at the hotels.
 
@@ -284,6 +291,6 @@ The JR Pass is ~¥50k and skips Nozomi. **Nozomi skips Odawara**, so book Hikari
 Real jacket + gloves + hat (December is cold), kairo heat packs, comfy shoes (20k+ steps daily), slip-ons (ryokan/temples), portable battery, roll-up pants (teamLab), passport for tax-free, a small bag for trash.
 ---
 
-**Fixed points:** the flights (NRT arrivals/departures), Mt. Fuji Dec 7, Harry Potter Dec 8, Hakone Dec 13 to 15 (hotels booked on Stages). Everything else can flex.
+**Fixed points:** the flights (NRT arrivals/departures), Mt. Fuji Dec 7, DisneySea Dec 8, Hakone Dec 13 to 15 (hotels booked on Stages). Everything else can flex.
 
 Have fun. 🎌

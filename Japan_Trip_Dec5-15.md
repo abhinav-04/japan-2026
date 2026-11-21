@@ -43,16 +43,15 @@ Same flight out = easier last morning, no split groups.
 
 **Already booked on Stages (every night is covered):** Akihabara Washington Hotel (Dec 5–9), Amanek Kyoto (Dec 9–11), Prince Smart Inn Osaka Yodoyabashi (Dec 11–13), The Prince Hakone Lake Ashinoko (Dec 13–14), Yunohana Prince Hotel (Dec 14–15).
 
-**✅ Also booked:** 🗻 Fuji Excursion both ways on Mon Dec 7 (**T2** and **T3** below), 4 seats together, Fuji-side seats on the way out. 🚄 Nozomi Tokyo → Kyoto on Wed Dec 9 (**T4**), Hikari 642 Shin-Osaka → Odawara on Sun Dec 13 (**T7**) and Kodama 800 Odawara → Tokyo on Tue Dec 15 (**T9**), all 4 in one oversized-baggage row each time. 🚄 Narita Express 15 to the airport on Dec 15 (**T10**), 4 together. **Every train except the Skyliner is booked.**
+**✅ Also booked:** 🗻 Fuji Excursion both ways on Mon Dec 7 (**T2** and **T3** below), 4 seats together, Fuji-side seats on the way out. 🚄 Nozomi Tokyo → Kyoto on Wed Dec 9 (**T4**), Hikari 642 Shin-Osaka → Odawara on Sun Dec 13 (**T7**) and Kodama 800 Odawara → Tokyo on Tue Dec 15 (**T9**), all 4 in one oversized-baggage row each time. 🚄 Narita Express 15 to the airport on Dec 15 (**T10**), 4 together. **Every train except the Skyliner is booked.** 🌇 Shibuya Sky on Sat Dec 5 at 19:00, 4 tickets (each under that person's passport).
 
 Times below are **Eastern**. Japan sales at 10:00 JST open at 20:00 Eastern the night before.
 
 ### Crucial first (these sell out fast)
 
-1. **🌇 Shibuya Sky, Sat Dec 5** — opens **Fri Nov 20, 10:00 Eastern** (00:00 JST Nov 21, exactly 14 days ahead). Saturday evening slots go fast. Use the "For international customers" site.
-2. **🎄 DisneySea, Tue Dec 8** — on sale now. Christmas season; fixed-date tickets.
-3. **⚡ Harry Potter, Sun Dec 6, 12:30** — on sale now. Sunday afternoons can fill; tickets are non-refundable.
-4. **✨ teamLab Planets, Sun Dec 6, ~20:00** — on sale now. Weekend slots fill 3–4 weeks ahead.
+1. **🎄 DisneySea, Tue Dec 8** — on sale now. Christmas season; fixed-date tickets.
+2. **⚡ Harry Potter, Sun Dec 6, 12:30** — on sale now. Sunday afternoons can fill; tickets are non-refundable.
+3. **✨ teamLab Planets, Sun Dec 6, ~20:00** — on sale now. Weekend slots fill 3–4 weeks ahead.
 
 ### Everything still to book
 
@@ -62,7 +61,6 @@ Times below are **Eastern**. Japan sales at 10:00 JST open at 20:00 Eastern the 
 | **⚡ Harry Potter Studio Tour** · Sun Dec 6, **12:30** | **Now** | Timed entry (open until 21:00 on Sundays). **Non-refundable**, ¥1,500 per change | [wbstudiotour.jp](https://www.wbstudiotour.jp/en/tickets/) | ~¥7,300 |
 | **✨ teamLab Planets** · Sun Dec 6, **~20:00 entry** | **Now** | Timed entry; last entry 21:00, closes 22:00. Changeable up to 3 times | [teamLab Planets store](https://teamlabplanets.dmm.com/en) | ~¥4,000 |
 | **🚄 Skyliner** · Sat Dec 5, Narita → Keisei Ueno | **Now** (sold up to 30 days ahead) | One-way discount ticket; exchange at Narita with passport | [Skyliner e-ticket](https://www.keisei.co.jp/keisei/tetudou/skyliner/e-ticket/en/) | ~¥2,310 |
-| **🌇 Shibuya Sky** · Sat Dec 5, ~19:00 | **Fri Nov 20, 10:00** | Night slot. Bought from abroad = everyone shows their **original passport** at entry. Free cancel until the day before | [Shibuya Sky tickets](https://www.shibuya-scramble-square.com/sky/ticket/) | ~¥3,400 |
 | **🏎️ City Circuit Tokyo Bay** (EV karts) · Sun Dec 6, **~18:00** | **From Sun Nov 29** (7 days ahead), or walk in | **No driver's licence needed.** 20-min session (17 min driving). Open until 22:00 on Sundays | [city-circuit.com](https://city-circuit.com/en/base/) | ~¥7,000 |
 
 **Big suitcases on the Shinkansen:** all three Shinkansen rides (Dec 9, 13, 15) are booked in **"Seat with Oversized Baggage Area"** rows: the last row of a car, with space behind it for the suitcases. Put the bags there, not in the aisle.
@@ -112,7 +110,7 @@ Backups: **T9/T10** slip → Kodama 09:14 + N'EX 10:33.
 - **~15:00** Everyone together. 🚆 **T1** Skyliner to Keisei Ueno (~45 min), then JR Yamanote two stops to Akihabara.
 - **~16:30** At **Akihabara Washington Hotel** (check-in from 14:00), drop bags, grab late lunch, ease in. Shibuya is ~25 min away on the JR Yamanote Line.
 - **17:30** **Nintendo TOKYO** + Pokémon Center + Capcom (Shibuya PARCO 6F), ten minutes from Shibuya Sky. Passport for tax-free.
-- **19:00** **Shibuya Sky** at night (booked ahead).
+- **19:00** **Shibuya Sky** at night (✅ booked, 19:00 entry). Everyone needs their **original passport** to get in; bags and hats go in the 46F lockers before the rooftop.
 - **20:30** Izakaya dinner, then **Nonbei Yokocho** tiny bars.
 - Rule #1: stay awake till 10 PM, no naps!
 

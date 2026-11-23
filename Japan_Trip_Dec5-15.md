@@ -104,7 +104,11 @@ Backups: **T9/T10** slip → Kodama 09:14 + N'EX 10:33.
 
 ## 📅 The Days
 
+Each day has a **🗺️ Day map** link: Google Maps with that day's stops in order. Google Maps can't plan transit across several stops at once, so it opens in driving view; tap any two stops and switch to 🚆 transit or 🚶 walking for that leg.
+
 ### Day 1 · Sat Dec 5 — Arrive Tokyo & ease in
+🗺️ **[Day 1 map](https://www.google.com/maps/dir/Narita+International+Airport+Terminal+2/Keisei-Ueno+Station/Akihabara+Washington+Hotel/Shibuya+PARCO/Shibuya+Scramble+Square/Nonbei+Yokocho+Shibuya/Akihabara+Washington+Hotel)** — every stop in order.
+
 - **~12:00-13:00** Vansh lands from Canada, waits at Narita arrivals.
 - **~14:05** Rohan/Abhinav/Saksham land from Hong Kong stopover, meet at airport.
 - **~15:00** Everyone together. 🚆 **T1** Skyliner to Keisei Ueno (~45 min), then JR Yamanote two stops to Akihabara.
@@ -115,6 +119,8 @@ Backups: **T9/T10** slip → Kodama 09:14 + N'EX 10:33.
 - Rule #1: stay awake till 10 PM, no naps!
 
 ### Day 2 · Sun Dec 6 — Asakusa, ⚡ Harry Potter, karts & teamLab at night
+🗺️ **[Day 2 map](https://www.google.com/maps/dir/Akihabara+Washington+Hotel/Kaminarimon+Asakusa/Senso-ji/Toshimaen+Station/Warner+Bros.+Studio+Tour+Tokyo+-+The+Making+of+Harry+Potter/City+Circuit+Tokyo+Bay/DiverCity+Tokyo+Plaza/teamLab+Planets+TOKYO/Akihabara+Washington+Hotel)** — every stop in order.
+
 A long one: Harry Potter moved here from Tuesday to free that day for DisneySea. Pokémon Center Mega is out (Pokémon Center Shibuya on Dec 5 and Pokémon Center Osaka DX cover it). On Sundays, Harry Potter, the karts and teamLab all stay open late.
 - **08:30** **Asakusa** while it's quiet: Senso-ji, then Nakamise street as the shops open. Breakfast: **the viral sandwiches** (a fruit sando + a konbini tamago sando). Tsukuba Express from Akihabara, 5 min.
 - **10:30** To Toshimaen (~60 min: Ginza Line to Ueno, JR Yamanote to Ikebukuro, Seibu Line to Toshimaen).
@@ -127,6 +133,8 @@ A long one: Harry Potter moved here from Tuesday to free that day for DisneySea.
 - **~21:30** Back to Akihabara (~30 min). The Fuji train leaves Shinjuku at 09:30 tomorrow, about 20 min from Akihabara on the JR Chuo Line.
 
 ### Day 3 · Mon Dec 7 — 🗻 Mt. Fuji Day Trip (Kawaguchiko + Chureito Pagoda)
+🗺️ **[Day 3 map](https://www.google.com/maps/dir/Shinjuku+Station/Shimoyoshida+Station+Fujiyoshida/Chureito+Pagoda/Kawaguchiko+Station/Kawaguchiko+Sightseeing+Boat/Oishi+Park/Kawaguchiko+Station/Omoide+Yokocho/Shinjuku+Golden+Gai/Akihabara+Washington+Hotel)** — every stop in order.
+
 - **08:50** Leave the hotel for Shinjuku (JR Chuo Rapid from Kanda/Ochanomizu or the Sobu Line, ~20 min). Everyone taps their own Suica at the JR gates.
 - **09:30** 🚆 **T2** Fuji Excursion 11 from Shinjuku, straight through to Shimoyoshida. Board **cars 1–3 only** (the rest of the train may split off at Otsuki). Watch the **left** windows from Mitsutoge onward.
 - **11:14** Arrive Shimoyoshida, tap out.
@@ -141,11 +149,15 @@ A long one: Harry Potter moved here from Tuesday to free that day for DisneySea.
 - *Note: the **Mt. Fuji Panoramic Ropeway is closed Dec 7–18, 2026** for its annual inspection, so it's not in the plan.*
 
 ### Day 4 · Tue Dec 8 — 🎄 DisneySea, opening to close
+🗺️ **[Day 4 map](https://www.google.com/maps/dir/Akihabara+Washington+Hotel/Maihama+Station/Tokyo+DisneySea/Ichiran+Akihabara/Akihabara+Washington+Hotel)** — every stop in order.
+
 - **08:15** Leave Akihabara for **Maihama** (~35 min: JR to Tokyo, then the Keiyo Line; its platform is a long walk inside Tokyo Station), then the Disney Resort Line to DisneySea.
 - **09:00–21:00** **Tokyo DisneySea**, full day in Christmas season. A weekday, so quieter than the weekend. Install the **Tokyo Disney Resort app** before the trip: on the day it sells Premier Access and hands out free Standby Passes, which Fantasy Springs usually needs. Stay for the evening show.
 - **~21:45** Back to Akihabara (~40 min). Late **Ichiran** in Akihabara if you're hungry, then pack: tomorrow is the 10:00 Nozomi.
 
 ### Day 5 · Wed Dec 9 — Tokyo → Kyoto
+🗺️ **[Day 5 map](https://www.google.com/maps/dir/Akihabara+Washington+Hotel/Tokyo+Station/Kyoto+Station/HOTEL+AMANEK+Kyoto+Kawaramachi+Gojo/Fushimi+Inari+Taisha/Pontocho+Alley/HOTEL+AMANEK+Kyoto+Kawaramachi+Gojo)** — every stop in order.
+
 - Sleep in, doze on the train: this is recovery after DisneySea.
 - **09:15** Check out; JR Yamanote Line from Akihabara to Tokyo Station (4 min). Be at the Tokaido Shinkansen gates by **09:40**.
 - **10:00** 🚆 **T4** Nozomi 251 to Kyoto (2h15). Suitcases go in the space behind your last-row seats. Fuji shows on the **right (D/E side)** ~40 min out, around Shin-Fuji; swap window seats if it's clear.
@@ -153,10 +165,14 @@ A long one: Harry Potter moved here from Tuesday to free that day for DisneySea.
 - **15:00** **Fushimi Inari** at dusk. **19:00** Pontocho + Kiyamachi.
 
 ### Day 6 · Thu Dec 10 — Kyoto
+🗺️ **[Day 6 map](https://www.google.com/maps/dir/HOTEL+AMANEK+Kyoto+Kawaramachi+Gojo/Arashiyama+Bamboo+Grove/Iwatayama+Monkey+Park/Nishiki+Market/Gekkeikan+Okura+Sake+Museum/Hanamikoji+Street+Gion/HOTEL+AMANEK+Kyoto+Kawaramachi+Gojo)** — every stop in order.
+
 - **08:00** Arashiyama bamboo (early) + optional monkey park.
 - **11:30** Nishiki Market (lunch). **14:30** sake in Fushimi. **16:30** Gion at dusk.
 
 ### Day 7 · Fri Dec 11 — Nara → Osaka
+🗺️ **[Day 7 map](https://www.google.com/maps/dir/HOTEL+AMANEK+Kyoto+Kawaramachi+Gojo/Kintetsu+Kyoto+Station/Kintetsu-Nara+Station/Nara+Park/Todai-ji/Kasuga+Taisha/Osaka+Namba+Station/Prince+Smart+Inn+Osaka+Yodoyabashi/Dotonbori)** — every stop in order.
+
 - **Luggage:** bring it along. Coin lockers at Kintetsu-Nara station if you want to walk the park hands-free (large ones fill up early).
 - **~08:15** Check out of Amanek; taxi to Kyoto Station (~10–15 min).
 - **~08:45** 🚆 **T5** Kintetsu Kyoto → Kintetsu-Nara (~45 min).
@@ -165,6 +181,8 @@ A long one: Harry Potter moved here from Tuesday to free that day for DisneySea.
 - Night: **Dotonbori** + Ura-Namba (Midosuji back to Namba).
 
 ### Day 8 · Sat Dec 12 — Osaka (the big night)
+🗺️ **[Day 8 map](https://www.google.com/maps/dir/Prince+Smart+Inn+Osaka+Yodoyabashi/Kuromon+Market/Osaka+Castle/Shinsekai+Osaka/Pokemon+Center+Osaka+DX/Dotonbori/Misono+Building+Namba/Prince+Smart+Inn+Osaka+Yodoyabashi)** — every stop in order.
+
 - Kuromon Market, Osaka Castle, Shinsekai kushikatsu.
 - **Pokémon Center Osaka DX** (Daimaru Shinsaibashi, a few minutes' walk from Dotonbori), walk-in. This is the Pokémon stop that replaced Mega Tokyo; the Pokémon Café is next door if a cancellation comes up.
 - **Saturday night, go all in:** Ura-Namba, Misonobiru, karaoke nomihodai, Kinryu Ramen.
@@ -172,6 +190,8 @@ A long one: Harry Potter moved here from Tuesday to free that day for DisneySea.
 - *Big-park option: swap today for Universal Studios + Super Nintendo World (book Express Pass + timed entry ahead).*
 
 ### Day 9 · Sun Dec 13 — Osaka → Hakone · art, then Lake Ashi
+🗺️ **[Day 9 map](https://www.google.com/maps/dir/Prince+Smart+Inn+Osaka+Yodoyabashi/Shin-Osaka+Station/Odawara+Station/Hakone-Yumoto+Station/Hakone+Open-Air+Museum/Gora+Station/The+Prince+Hakone+Lake+Ashinoko)** — every stop in order.
+
 - **07:40** Check out; Midosuji Line from Yodoyabashi straight to Shin-Osaka (~15 min). Leave time to cross to the Shinkansen gates with the suitcases.
 - **08:19** 🚆 **T7** Hikari 642 Shin-Osaka → Odawara, arrives **10:38**. Suitcases go behind your last-row seats. Fuji shows on the **left (D/E side)** around Shin-Fuji, ~10:00. Sleep off last night.
 - **10:45** Buy the **Hakone Free Pass from Odawara** (2-day) at the station. 🚆 **T8** Hakone Tozan Line to **Hakone-Yumoto** (~15 min).
@@ -181,6 +201,8 @@ A long one: Harry Potter moved here from Tuesday to free that day for DisneySea.
 - **15:30** Check in **The Prince Hakone Lake Ashinoko** (booked on Stages): yukata, onsen, dinner, soak again under the stars. Lake Ashi is right there.
 
 ### Day 10 · Mon Dec 14 — Hakone · 🗻 Mt. Fuji morning, move to Yunohana
+🗺️ **[Day 10 map](https://www.google.com/maps/dir/The+Prince+Hakone+Lake+Ashinoko/Hakone+Sightseeing+Cruise+Moto-Hakone+Port/Togendai+Port/Owakudani/Togendai+Port/Hakone+Shrine/The+Prince+Hakone+Lake+Ashinoko/Hakone+Yunohana+Prince+Hotel)** — every stop in order.
+
 - **08:30** Check out of The Prince Hakone and **leave your bags at the front desk**. Checkout is 11:00 and the loop takes longer than that.
 - **08:45** Hotel's free loop bus to **Moto-Hakone**. Board the **pirate ship at Moto-Hakone**, not at Hakone-en next to the hotel (Hakone-en is a different boat company, not on the Free Pass).
 - **~09:15** Pirate ship Moto-Hakone → **Togendai** (~40 min) with **Mt. Fuji across Lake Ashi**. Clear mornings are best.
@@ -194,6 +216,8 @@ A long one: Harry Potter moved here from Tuesday to free that day for DisneySea.
 - **19:00** Last dinner + long soak, one of the highest open-air baths in Hakone. Cloudy morning? Swap the loop to the afternoon (last ropeway 16:15); the 2-day Free Pass covers the 13th and 14th.
 
 ### Day 11 · Tue Dec 15 — Fly out from Hakone
+🗺️ **[Day 11 map](https://www.google.com/maps/dir/Hakone+Yunohana+Prince+Hotel/Odawara+Station/Tokyo+Station/Narita+International+Airport+Terminal+2)** — every stop in order.
+
 - **07:00** Breakfast at Yunohana. Skip the long soak this morning.
 - **07:45** **Taxi** from the hotel to **Odawara Station** (~40 min). Book it through the hotel ahead of time and ask for a **jumbo taxi** (or two regular taxis) for 4 people plus big suitcases; ~¥9,000 per regular car, more for a jumbo. The hotel's own shuttle to Odawara leaves at 10:45, which is too late for the flight. The local bus isn't practical with big suitcases.
 - **08:56** 🚆 **T9** Kodama 800, Odawara → Tokyo, arriving 09:30. QR tickets; suitcases behind your last-row seats.

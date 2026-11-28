@@ -43,20 +43,18 @@ Same flight out = easier last morning, no split groups.
 
 **Already booked on Stages (every night is covered):** Akihabara Washington Hotel (Dec 5–9), Amanek Kyoto (Dec 9–11), Prince Smart Inn Osaka Yodoyabashi (Dec 11–13), The Prince Hakone Lake Ashinoko (Dec 13–14), Yunohana Prince Hotel (Dec 14–15).
 
-**✅ Also booked:** 🗻 Fuji Excursion both ways on Mon Dec 7 (**T2** and **T3** below), 4 seats together, Fuji-side seats on the way out. 🚄 Nozomi Tokyo → Kyoto on Wed Dec 9 (**T4**), Hikari 642 Shin-Osaka → Odawara on Sun Dec 13 (**T7**) and Kodama 800 Odawara → Tokyo on Tue Dec 15 (**T9**), all 4 in one oversized-baggage row each time. 🚄 Narita Express 15 to the airport on Dec 15 (**T10**), 4 together. **Every train except the Skyliner is booked.** 🌇 Shibuya Sky on Sat Dec 5 at 19:00, 4 tickets (each under that person's passport). 🎄 **Tokyo DisneySea on Tue Dec 8**, 4 × 1-Day Passport (enter with the Tokyo Disney Resort app; tickets are on Stages). 🐱 **Pokémon Café Tokyo on Sun Dec 6 at 11:10** (meet 10:55), table for 4, 90-minute limit.
+**✅ Also booked:** 🗻 Fuji Excursion both ways on Mon Dec 7 (**T2** and **T3** below), 4 seats together, Fuji-side seats on the way out. 🚄 Nozomi Tokyo → Kyoto on Wed Dec 9 (**T4**), Hikari 642 Shin-Osaka → Odawara on Sun Dec 13 (**T7**) and Kodama 800 Odawara → Tokyo on Tue Dec 15 (**T9**), all 4 in one oversized-baggage row each time. 🚄 Narita Express 15 to the airport on Dec 15 (**T10**), 4 together. **Every train except the Skyliner is booked.** 🌇 Shibuya Sky on Sat Dec 5 at 19:00, 4 tickets (each under that person's passport). 🎄 **Tokyo DisneySea on Tue Dec 8**, 4 × 1-Day Passport (enter with the Tokyo Disney Resort app; tickets are on Stages). 🐱 **Pokémon Café Tokyo on Sun Dec 6 at 11:10** (meet 10:55), table for 4, 90-minute limit. ⚡ **Harry Potter Studio Tour on Sun Dec 6 at 14:00**, 4 tickets (one Klook order each; the QR vouchers are on Stages), plus a free **¥1,000 shop coupon** with each ticket.
 
 Times below are **Eastern**. Japan sales at 10:00 JST open at 20:00 Eastern the night before.
 
 ### Crucial first (these sell out fast)
 
-1. **⚡ Harry Potter, Sun Dec 6, 14:00** — on sale now (14:00 was still open on Nov 27). Sunday afternoons can fill; tickets are non-refundable. 13:30 no longer works: the Pokémon Café runs 11:10–12:40 and Toshimaen is ~50 min away.
-2. **✨ teamLab Planets, Sun Dec 6, ~20:30** — on sale now. Weekend slots fill 3–4 weeks ahead.
+1. **✨ teamLab Planets, Sun Dec 6, ~20:30** — on sale now. Weekend slots fill 3–4 weeks ahead.
 
 ### Everything still to book
 
 | What | Book when | Pick | Book here | ~pp |
 |------|-----------|------|-----------|-----|
-| **⚡ Harry Potter Studio Tour** · Sun Dec 6, **14:00** | **Now** | Timed entry (open until 21:00 on Sundays). **Non-refundable**, ¥1,500 per change | [wbstudiotour.jp](https://www.wbstudiotour.jp/en/tickets/) | ~¥7,300 |
 | **✨ teamLab Planets** · Sun Dec 6, **~20:30 entry** | **Now** | Timed entry; last entry 21:00, closes 22:00. Changeable up to 3 times | [teamLab Planets store](https://teamlabplanets.dmm.com/en) | ~¥4,000 |
 | **🚄 Skyliner** · Sat Dec 5, Narita → Keisei Ueno | **Now** (sold up to 30 days ahead) | One-way discount ticket; exchange at Narita with passport | [Skyliner e-ticket](https://www.keisei.co.jp/keisei/tetudou/skyliner/e-ticket/en/) | ~¥2,310 |
 | **🏎️ City Circuit Tokyo Bay** (EV karts) · Sun Dec 6, **~19:00** | **From Sun Nov 29** (7 days ahead), or walk in | **No driver's licence needed.** 20-min session (17 min driving). Open until 22:00 on Sundays | [city-circuit.com](https://city-circuit.com/en/base/) | ~¥7,000 |
@@ -124,7 +122,7 @@ A long one: Harry Potter moved here from Tuesday to free that day for DisneySea.
 - **~10:30** Toei Asakusa Line to Nihombashi (~10 min).
 - **10:55** Meet at the **Pokémon Café** (Nihonbashi Takashimaya). ✅ **Booked for 11:10**, table for 4, 90-minute limit: this is lunch. Then **Pokémon Center DX** on the same floor.
 - **~12:50** To Toshimaen (~50 min via Ikebukuro, then the Seibu Line).
-- **14:00** **Harry Potter, Warner Bros. Studio Tour Tokyo** (Nerima), ~4 hours: the Great Hall, Diagon Alley, butterbeer.
+- **14:00** **Harry Potter, Warner Bros. Studio Tour Tokyo** (Nerima). ✅ **Booked**, 4 tickets: show each QR voucher from Stages at the entrance, and be there by ~13:40 (late arrivals can be turned away). ~4 hours: the Great Hall (dressed for Christmas until Jan 11), Diagon Alley, butterbeer. Each of you also has a **¥1,000 shop coupon** for the Main Shop or the Railway Shop, one per purchase of ¥1,000 or more: spend it on the way out.
 - **~18:00** To Aomi (~70 min: Seibu to Ikebukuro, Yurakucho Line to Toyosu, Yurikamome to Aomi).
 - **~19:15** **City Circuit Tokyo Bay**: electric go-karts on a real outdoor track at night, up to 50 km/h. No licence needed, gear provided. Take the 20-min session (17 min of driving).
 - **~20:00** The life-size **Gundam** at DiverCity (5 min walk). A quick look: teamLab's last entry is 21:00.
@@ -241,7 +239,7 @@ December has the best Fuji visibility of the year. Clear mornings are peak.
 
 - **Tokyo DisneySea** (Dec 8) — ✅ booked, 4 × 1-Day Passport.
 - **Pokémon Café Tokyo** (Dec 6, 11:10) — ✅ booked, table for 4.
-- **Harry Potter Studio Tour** (Dec 6, 14:00) — timed entry, non-refundable.
+- **Harry Potter Studio Tour** (Dec 6, 14:00) — ✅ booked, 4 tickets + 4 × ¥1,000 shop coupons.
 - **City Circuit Tokyo Bay** (Dec 6, ~19:00) — EV karts in Odaiba, no licence needed. Book from Nov 29 or walk in.
 - **teamLab Planets** (Dec 6, ~20:30) — timed entry.
 - **The viral sandwiches** (Dec 6) — no booking: fruit sando + konbini tamago sando.

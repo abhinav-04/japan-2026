@@ -1,6 +1,8 @@
 # 🇭🇰 Hong Kong Stopover — Dec 3 to 5, 2026
 
-**The Opening Act:** Two nights in Hong Kong on the way to Japan, with a full Hong Kong Disneyland day.
+**The Opening Act:** Two nights in Hong Kong on the way to Japan, with a full Hong Kong Disneyland day. Rohan, Abhinav and Saksham; Vansh flies straight to Tokyo and meets everyone at Narita on Dec 5.
+
+**Status (Nov 27):** ✅ Flights booked. ✅ **Hong Kong Disneyland, Fri Dec 4**: Early Park Entry passes for **Abhinav and Rohan** (via Klook, tickets on Stages). ❓ Saksham isn't on that booking yet. ❌ **No Hong Kong hotel booked** for Dec 3–4.
 
 ---
 
@@ -18,7 +20,7 @@
 
 ## 📅 The Days
 
-### **Day 1 · Tue Dec 3** — Arrive Hong Kong
+### **Day 1 · Thu Dec 3** — Arrive Hong Kong
 *Pace: Chill. Settle in, explore, adjust to time zone.*
 
 - **09:55** — Land Hong Kong (CX660 from Mumbai)
@@ -32,12 +34,12 @@
 
 ---
 
-### **Day 2 · Wed Dec 4** — 🏰 Hong Kong Disneyland
+### **Day 2 · Fri Dec 4** — 🏰 Hong Kong Disneyland
 *Pace: Full park day. The newest "World of Frozen" land is here.*
 
 - **07:30** — Leave hotel
-- **08:30** — At the gate (park opens 10:00, but arrive early for rope drop)
-- **Buy dated tickets online ahead** — cheaper + skips the ticket queue (HK$639-699 depending on date)
+- **08:30** — At the gate. ✅ **Booked: Early Park Entry passes** (Abhinav and Rohan; the tickets are on Stages), so you're in before the regular opening. Check the entry time on the ticket and in the app.
+- **Saksham:** buy a dated ticket for Fri Dec 4 if you're going too (Klook or the Disneyland site, ~HK$639–699), ideally the same Early Park Entry type so you go in together.
 - **All day:**
   - **World of Frozen** (opened 2023) — Arendelle village, Frozen Ever After boat ride, Wandering Oaken's Sliding Sleighs
   - **Mystic Manor** — Hong Kong exclusive, trackless dark ride (one of the best Disney attractions anywhere)
@@ -53,20 +55,20 @@
 
 ---
 
-### **Day 3 · Thu Dec 5** — Fly to Tokyo
+### **Day 3 · Sat Dec 5** — Fly to Tokyo
 *Pace: Travel day.*
 
 - **06:00** — Leave hotel for Hong Kong Airport
 - **09:05** — Depart Hong Kong (CX504)
-- **14:05** — Land Tokyo Narita
-- **~16:00** — In the city, bags dropped at hotel
-- **The Japan leg begins** (see main Japan itinerary)
+- **14:05** — Land Tokyo Narita, meet Vansh at arrivals
+- **~15:00** — Skyliner to Ueno, then Akihabara; bags at the hotel by ~16:30
+- **19:00** — Shibuya Sky (booked). **The Japan leg begins** (see [the Japan itinerary](Japan_Trip_Dec5-15.md))
 
 ---
 
 ## 🏨 Where to Stay in Hong Kong
 
-**You need 2 nights (Dec 3 & 4).** Two rooms, same as Japan.
+**Not booked yet. You need 2 nights (Thu Dec 3 & Fri Dec 4)** for the three of you.
 
 ### Recommended Areas:
 
@@ -140,8 +142,9 @@ Add this to the Japan budget.
 ## ✅ Hong Kong Checklist
 
 **Before you fly:**
-- [ ] Buy **dated Hong Kong Disneyland tickets** online (cheaper + skip queue)
-- [ ] Book **2 hotels in Hong Kong** (Dec 3 & 4, two rooms)
+- [x] **Hong Kong Disneyland tickets** for Fri Dec 4: Abhinav and Rohan (Early Park Entry, on Stages)
+- [ ] Saksham's Disneyland ticket, if he's going
+- [ ] Book a **hotel in Hong Kong** for Dec 3 & 4 (and forward the confirmation to Stages)
 - [ ] Download **Hong Kong Disneyland app**
 - [ ] Check **Airport Express** pre-booking discounts
 
